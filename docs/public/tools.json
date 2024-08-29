@@ -1,5167 +1,696 @@
 [
-    {
-        "id": 1,
-        "name": "Thunderbit",
-        "type": "Automation",
-        "pricing": "Free",
-        "description": "Streamline web automation with AI-powered, no-code app creation.",
-        "website": "https://thunderbit.com",
-        "tags": [
-            "workflows",
-            "personal assistant",
-            "low-code/no-code"
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Webflow",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create responsive websites visually, without coding.",
-        "website": "https://webflow.com",
-        "tags": [
-            "website",
-            "builder",
-            "responsive",
-            "design",
-            "e-commerce"
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Zapier",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Streamline workflows by connecting hundreds of popular apps and automating repetitive tasks with Zapier's user-friendly interface.",
-        "website": "https://zapier.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Adalo",
-        "type": "Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build native mobile apps without writing code. Drag-and-drop interface with powerful features.",
-        "website": "https://www.adalo.com",
-        "tags": [
-            "mobile",
-            "app",
-            "builder",
-            "native"
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Bubble",
-        "type": "Web App Builder",
-        "pricing": "Freemium",
-        "description": "Visually design and build multi-user web applications without code.",
-        "website": "https://bubble.io",
-        "tags": [
-            "web",
-            "app",
-            "builder",
-            "multi-user"
-        ]
-    },
-    {
-        "id": 6,
-        "name": "Airtable",
-        "type": "Database & Collaboration",
-        "pricing": "Freemium",
-        "description": "A relational database disguised as a spreadsheet. Build powerful workflows and integrations.",
-        "website": "https://airtable.com",
-        "tags": [
-            "database",
-            "collaboration",
-            "workflows",
-            "integration"
-        ]
-    },
-    {
-        "id": 7,
-        "name": "Glide",
-        "type": "App Builder",
-        "description": "Turn Google Sheets into mobile apps in minutes. No coding required.",
-        "website": "https://glideapps.com",
-        "pricing": "Freemium",
-        "tags": [
-            "app",
-            "builder",
-            "google",
-            "sheets"
-        ]
-    },
-    {
-        "id": 8,
-        "name": "Softr",
-        "type": "Landing Page Builder",
-        "pricing": "Freemium",
-        "description": "Create beautiful and functional landing pages with a drag-and-drop interface.",
-        "website": "https://softr.io",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 9,
-        "name": "UXPin",
-        "type": "Prototyping Tool",
-        "pricing": "Freemium",
-        "description": "Design interactive prototypes and user flows without writing code.",
-        "website": "https://www.uxpin.com",
-        "tags": [
-            "prototyping",
-            "user",
-            "flow",
-            "design"
-        ]
-    },
-    {
-        "id": 10,
-        "name": "Integromat (Now Make)",
-        "type": "Integration Platform",
-        "pricing": "Freemium",
-        "description": "Connect and automate workflows between hundreds of popular applications.",
-        "website": "https://www.make.com",
-        "tags": [
-            "integration",
-            "platform",
-            "automation",
-            "workflows"
-        ]
-    },
-    {
-        "id": 11,
-        "name": "Pabbly Connect",
-        "type": "Integration Platform & Workflow Automation",
-        "pricing": "Paid",
-        "description": "Connect apps, automate workflows, and manage data in one place.",
-        "website": "https://www.pabblyconnect.com",
-        "tags": [
-            "integration",
-            "platform",
-            "automation",
-            "data",
-            "management"
-        ]
-    },
-    {
-        "id": 12,
-        "name": "BuildFire",
-        "type": "Mobile App Builder",
-        "pricing": "Paid",
-        "description": "Build native mobile apps with drag-and-drop features and pre-built components.",
-        "website": "https://buildfire.com",
-        "tags": [
-            "mobile",
-            "app",
-            "builder",
-            "native"
-        ]
-    },
-    {
-        "id": 13,
-        "name": "Appian",
-        "type": "Low-Code Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build complex enterprise applications with a visual development environment.",
-        "website": "https://appian.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 14,
-        "name": "Mendix",
-        "type": "Low-Code Development Platform",
-        "pricing": "Enterprise",
-        "description": "Develop and deploy web and mobile applications faster with a low-code approach.",
-        "website": "https://www.mendix.com",
-        "tags": [
-            "low-code",
-            "web",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 15,
-        "name": "OutSystems",
-        "type": "Low-Code Development Platform",
-        "pricing": "Enterprise",
-        "description": "Deliver enterprise-grade applications quickly with a visual development platform.",
-        "website": "https://www.outsystems.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 16,
-        "name": "Caspio",
-        "type": "Low-Code Development Platform",
-        "pricing": "Paid",
-        "description": "Build database applications and workflows without coding. Secure and scalable.",
-        "website": "https://www.caspio.com",
-        "tags": [
-            "low-code",
-            "database",
-            "workflows",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 17,
-        "name": "Voiceflow",
-        "type": "Conversational AI Platform",
-        "pricing": "Freemium",
-        "description": "Design, develop, and deploy chatbots and voice assistants visually.",
-        "website": "https://voiceflow.com",
-        "tags": [
-            "conversational",
-            "ai",
-            "chatbot",
-            "voice",
-            "assistant"
-        ]
-    },
-    {
-        "id": 18,
-        "name": "Botmaker",
-        "type": "Chatbot Development Platform",
-        "pricing": "Freemium",
-        "description": "Build chatbots for various platforms like Facebook Messenger and Telegram.",
-        "website": "https://www.botmaker.com",
-        "tags": [
-            "chatbot",
-            "development",
-            "platform",
-            "facebook",
-            "messenger",
-            "telegram"
-        ]
-    },
-    {
-        "id": 19,
-        "name": "ManyChat",
-        "type": "Chatbot Marketing Platform",
-        "pricing": "Freemium",
-        "description": "Create chatbots for Facebook Messenger to grow leads and sales.",
-        "website": "https://manychat.com",
-        "tags": [
-            "chatbot",
-            "marketing",
-            "facebook",
-            "messenger",
-            "leads",
-            "sales"
-        ]
-    },
-    {
-        "id": 20,
-        "name": "MobileMonkey",
-        "type": "Chatbot Marketing Platform",
-        "pricing": "Freemium",
-        "description": "Build chatbots for Facebook Messenger, SMS, and website to engage customers.",
-        "website": "https://www.mobilemonkey.com",
-        "tags": [
-            "chatbot",
-            "marketing",
-            "facebook",
-            "messenger",
-            "sms",
-            "website",
-            "engage",
-            "customers"
-        ]
-    },
-    {
-        "id": 21,
-        "name": "Appsmith",
-        "type": "Low-Code Development Platform",
-        "pricing": "Freemium",
-        "description": "Build internal tools with a visual interface.",
-        "website": "https://appsmith.com",
-        "tags": [
-            "low-code",
-            "internal",
-            "tools",
-            "development"
-        ]
-    },
-    {
-        "id": 22,
-        "name": "Betty Blocks",
-        "type": "Low-Code Development Platform",
-        "pricing": "Paid",
-        "description": "Create web applications visually without coding.",
-        "website": "https://www.bettyblocks.com",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 23,
-        "name": "Creatio",
-        "type": "Low-Code Development Platform",
-        "pricing": "Paid",
-        "description": "Create CRM and BPM applications visually.",
-        "website": "https://www.creatio.com",
-        "tags": [
-            "low-code",
-            "crm",
-            "bpm",
-            "applications",
-            "visual"
-        ]
-    },
-    {
-        "id": 24,
-        "name": "GeneXus",
-        "type": "Low-Code Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build enterprise applications with a visual development environment.",
-        "website": "https://www.genexus.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 25,
-        "name": "AppGyver",
-        "type": "Low-Code Development Platform",
-        "pricing": "Freemium",
-        "description": "Build native mobile apps visually.",
-        "website": "https://appgyver.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "app",
-            "native",
-            "visual"
-        ]
-    },
-    {
-        "id": 26,
-        "name": "FlutterFlow",
-        "type": "Low-Code Development Platform",
-        "pricing": "Freemium",
-        "description": "Build cross-platform mobile apps visually.",
-        "website": "https://flutterflow.io",
-        "tags": [
-            "low-code",
-            "mobile",
-            "app",
-            "cross-platform",
-            "visual"
-        ]
-    },
-    {
-        "id": 27,
-        "name": "Thunkable",
-        "type": "Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Create mobile apps without coding.",
-        "website": "https://thunkable.com",
-        "tags": [
-            "mobile",
-            "app",
-            "builder"
-        ]
-    },
-    {
-        "id": 28,
-        "name": "Visual LANSA",
-        "type": "Low-Code Development Platform",
-        "pricing": "Paid",
-        "description": "Build mobile apps and web applications visually.",
-        "website": "https://www.lansatechnology.com/visual-lansa",
-        "tags": [
-            "low-code",
-            "mobile",
-            "app",
-            "web",
-            "application"
-        ]
-    },
-    {
-        "id": 29,
-        "name": "Tilda",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create websites and landing pages visually.",
-        "website": "https://tilda.cc",
-        "tags": [
-            "website",
-            "builder",
-            "landing",
-            "page"
-        ]
-    },
-    {
-        "id": 30,
-        "name": "Unbounce",
-        "type": "Landing Page Builder",
-        "pricing": "Paid",
-        "description": "Create high-converting landing pages visually.",
-        "website": "https://unbounce.com",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "conversion"
-        ]
-    },
-    {
-        "id": 31,
-        "name": "Elementor",
-        "type": "WordPress Plugin",
-        "pricing": "Freemium",
-        "description": "Create custom WordPress websites visually.",
-        "website": "https://elementor.com",
-        "tags": [
-            "wordpress",
-            "plugin",
-            "visual"
-        ]
-    },
-    {
-        "id": 32,
-        "name": "Divi",
-        "type": "WordPress Theme",
-        "pricing": "Paid",
-        "description": "Create custom WordPress websites visually.",
-        "website": "https://www.elegantthemes.com/themes/divi",
-        "tags": [
-            "wordpress",
-            "theme",
-            "visual"
-        ]
-    },
-    {
-        "id": 33,
-        "name": "Make (formerly Integromat)",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.make.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 34,
-        "name": "Tray.io",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://tray.io",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 35,
-        "name": "Workato",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.workato.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 36,
-        "name": "Microsoft Power Automate",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows within Microsoft 365.",
-        "website": "https://powerautomate.microsoft.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "microsoft",
-            "365"
-        ]
-    },
-    {
-        "id": 37,
-        "name": "UiPath",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
-        "website": "https://www.uipath.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 38,
-        "name": "Automation Anywhere",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
-        "website": "https://www.automationanywhere.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 39,
-        "name": "IFTTT",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
-        "website": "https://ifttt.com",
-        "tags": [
-            "automation",
-            "applets",
-            "workflows"
-        ]
-    },
-    {
-        "id": 40,
-        "name": "BrowserStack Automate",
-        "type": "Cross-Browser Testing Automation",
-        "pricing": "Paid Plans with Limited Free Trial",
-        "description": "Automate web application testing across various browsers and devices.",
-        "website": "https://www.browserstack.com/automate",
-        "tags": [
-            "testing",
-            "automation",
-            "cross-browser"
-        ]
-    },
-    {
-        "id": 41,
-        "name": "Workfusion",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate repetitive tasks across various applications and systems.",
-        "website": "https://www.workfusion.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 42,
-        "name": "Blue Prism",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate business processes across various industries.",
-        "website": "https://www.blueprism.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "business processes"
-        ]
-    },
-    {
-        "id": 43,
-        "name": "Pega Platform",
-        "type": "Low-Code Application Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications quickly with a low-code approach.",
-        "website": "https://www.pega.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 44,
-        "name": "Appian Cloud",
-        "type": "Low-Code Platform as a Service (PaaS)",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications in the cloud with a low-code approach.",
-        "website": "https://www.appian.com/products/appian-cloud",
-        "tags": [
-            "low-code",
-            "paas",
-            "cloud",
-            "enterprise",
-            "application"
-        ]
-    },
-    {
-        "id": 45,
-        "name": "K2 Blackpearl",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications across various industries.",
-        "website": "https://www.k2.com/products/k2-blackpearl",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 46,
-        "name": "Zoho Creator",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom business applications without coding.",
-        "website": "https://www.zoho.com/creator",
-        "tags": [
-            "low-code",
-            "business",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 47,
-        "name": "Caspio Bridge",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build web applications and databases without coding.",
-        "website": "https://www.caspio.com/bridge",
-        "tags": [
-            "low-code",
-            "application",
-            "database",
-            "development"
-        ]
-    },
-    {
-        "id": 48,
-        "name": "Knack",
-        "type": "Low-Code Database and Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom databases and applications without coding.",
-        "website": "https://www.knack.com",
-        "tags": [
-            "low-code",
-            "database",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 49,
-        "name": "Bubble.io",
-        "type": "Low-Code Web App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom web applications without coding.",
-        "website": "https://bubble.io",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 50,
-        "name": "Adalo",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://www.adalo.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 51,
-        "name": "Appsmith",
-        "type": "Low-Code Internal Tool Builder",
-        "pricing": "Freemium",
-        "description": "Build custom internal tools without coding.",
-        "website": "https://appsmith.com",
-        "tags": [
-            "low-code",
-            "internal",
-            "tool",
-            "development"
-        ]
-    },
-    {
-        "id": 52,
-        "name": "Betty Blocks",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web applications without coding.",
-        "website": "https://www.bettyblocks.com",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 53,
-        "name": "Creatio",
-        "type": "Low-Code CRM and BPM Platform",
-        "pricing": "Paid",
-        "description": "Build custom CRM and BPM applications without coding.",
-        "website": "https://www.creatio.com",
-        "tags": [
-            "low-code",
-            "crm",
-            "bpm",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 54,
-        "name": "GeneXus",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build enterprise applications across various industries.",
-        "website": "https://www.genexus.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 55,
-        "name": "AppGyver",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://appgyver.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 56,
-        "name": "FlutterFlow",
-        "type": "Low-Code Cross-Platform App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom cross-platform mobile apps without coding.",
-        "website": "https://flutterflow.io",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development",
-            "cross-platform"
-        ]
-    },
-    {
-        "id": 57,
-        "name": "Thunkable",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://thunkable.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 58,
-        "name": "Visual LANSA",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web and mobile applications without coding.",
-        "website": "https://www.lansatechnology.com/visual-lansa",
-        "tags": [
-            "low-code",
-            "web",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 59,
-        "name": "Tilda",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create custom websites and landing pages without coding.",
-        "website": "https://tilda.cc",
-        "tags": [
-            "website",
-            "builder",
-            "landing",
-            "page",
-            "design"
-        ]
-    },
-    {
-        "id": 60,
-        "name": "Unbounce",
-        "type": "Landing Page Builder",
-        "pricing": "Paid",
-        "description": "Create high-converting landing pages without coding.",
-        "website": "https://unbounce.com",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "conversion",
-            "design"
-        ]
-    },
-    {
-        "id": 61,
-        "name": "Elementor",
-        "type": "WordPress Plugin",
-        "pricing": "Freemium",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://elementor.com",
-        "tags": [
-            "wordpress",
-            "plugin",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 62,
-        "name": "Divi",
-        "type": "WordPress Theme",
-        "pricing": "Paid",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://www.elegantthemes.com/themes/divi",
-        "tags": [
-            "wordpress",
-            "theme",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 63,
-        "name": "Make (formerly Integromat)",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.make.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 64,
-        "name": "Tray.io",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://tray.io",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 65,
-        "name": "Workato",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.workato.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 66,
-        "name": "Microsoft Power Automate",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows within Microsoft 365.",
-        "website": "https://powerautomate.microsoft.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "microsoft",
-            "365"
-        ]
-    },
-    {
-        "id": 67,
-        "name": "UiPath",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
-        "website": "https://www.uipath.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 68,
-        "name": "Automation Anywhere",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
-        "website": "https://www.automationanywhere.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 69,
-        "name": "IFTTT",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
-        "website": "https://ifttt.com",
-        "tags": [
-            "automation",
-            "applets",
-            "workflows"
-        ]
-    },
-    {
-        "id": 70,
-        "name": "BrowserStack Automate",
-        "type": "Cross-Browser Testing Automation",
-        "pricing": "Paid Plans with Limited Free Trial",
-        "description": "Automate web application testing across various browsers and devices.",
-        "website": "https://www.browserstack.com/automate",
-        "tags": [
-            "testing",
-            "automation",
-            "cross-browser"
-        ]
-    },
-    {
-        "id": 71,
-        "name": "Workfusion",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate repetitive tasks across various applications and systems.",
-        "website": "https://www.workfusion.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 72,
-        "name": "Blue Prism",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate business processes across various industries.",
-        "website": "https://www.blueprism.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "business processes"
-        ]
-    },
-    {
-        "id": 73,
-        "name": "Pega Platform",
-        "type": "Low-Code Application Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications quickly with a low-code approach.",
-        "website": "https://www.pega.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 74,
-        "name": "Appian Cloud",
-        "type": "Low-Code Platform as a Service (PaaS)",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications in the cloud with a low-code approach.",
-        "website": "https://www.appian.com/products/appian-cloud",
-        "tags": [
-            "low-code",
-            "paas",
-            "cloud",
-            "enterprise",
-            "application"
-        ]
-    },
-    {
-        "id": 75,
-        "name": "K2 Blackpearl",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications across various industries.",
-        "website": "https://www.k2.com/products/k2-blackpearl",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 76,
-        "name": "Zoho Creator",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom business applications without coding.",
-        "website": "https://www.zoho.com/creator",
-        "tags": [
-            "low-code",
-            "business",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 77,
-        "name": "Caspio Bridge",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build web applications and databases without coding.",
-        "website": "https://www.caspio.com/bridge",
-        "tags": [
-            "low-code",
-            "application",
-            "database",
-            "development"
-        ]
-    },
-    {
-        "id": 78,
-        "name": "Knack",
-        "type": "Low-Code Database and Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom databases and applications without coding.",
-        "website": "https://www.knack.com",
-        "tags": [
-            "low-code",
-            "database",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 79,
-        "name": "Bubble.io",
-        "type": "Low-Code Web App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom web applications without coding.",
-        "website": "https://bubble.io",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 80,
-        "name": "Adalo",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://www.adalo.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 81,
-        "name": "Appsmith",
-        "type": "Low-Code Internal Tool Builder",
-        "pricing": "Freemium",
-        "description": "Build custom internal tools without coding.",
-        "website": "https://appsmith.com",
-        "tags": [
-            "low-code",
-            "internal",
-            "tool",
-            "development"
-        ]
-    },
-    {
-        "id": 82,
-        "name": "Betty Blocks",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web applications without coding.",
-        "website": "https://www.bettyblocks.com",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 83,
-        "name": "Creatio",
-        "type": "Low-Code CRM and BPM Platform",
-        "pricing": "Paid",
-        "description": "Build custom CRM and BPM applications without coding.",
-        "website": "https://www.creatio.com",
-        "tags": [
-            "low-code",
-            "crm",
-            "bpm",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 84,
-        "name": "GeneXus",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build enterprise applications across various industries.",
-        "website": "https://www.genexus.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 85,
-        "name": "AppGyver",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://appgyver.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 86,
-        "name": "FlutterFlow",
-        "type": "Low-Code Cross-Platform App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom cross-platform mobile apps without coding.",
-        "website": "https://flutterflow.io",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development",
-            "cross-platform"
-        ]
-    },
-    {
-        "id": 87,
-        "name": "Thunkable",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://thunkable.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 88,
-        "name": "Visual LANSA",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web and mobile applications without coding.",
-        "website": "https://www.lansatechnology.com/visual-lansa",
-        "tags": [
-            "low-code",
-            "web",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 89,
-        "name": "Tilda",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create custom websites and landing pages without coding.",
-        "website": "https://tilda.cc",
-        "tags": [
-            "website",
-            "builder",
-            "landing",
-            "page",
-            "design"
-        ]
-    },
-    {
-        "id": 90,
-        "name": "Unbounce",
-        "type": "Landing Page Builder",
-        "pricing": "Paid",
-        "description": "Create high-converting landing pages without coding.",
-        "website": "https://unbounce.com",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "conversion",
-            "design"
-        ]
-    },
-    {
-        "id": 91,
-        "name": "Elementor",
-        "type": "WordPress Plugin",
-        "pricing": "Freemium",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://elementor.com",
-        "tags": [
-            "wordpress",
-            "plugin",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 92,
-        "name": "Divi",
-        "type": "WordPress Theme",
-        "pricing": "Paid",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://www.elegantthemes.com/themes/divi",
-        "tags": [
-            "wordpress",
-            "theme",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 93,
-        "name": "Make (formerly Integromat)",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.make.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 94,
-        "name": "Tray.io",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://tray.io",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 95,
-        "name": "Workato",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.workato.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 96,
-        "name": "Microsoft Power Automate",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows within Microsoft 365.",
-        "website": "https://powerautomate.microsoft.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "microsoft",
-            "365"
-        ]
-    },
-    {
-        "id": 97,
-        "name": "UiPath",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
-        "website": "https://www.uipath.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 98,
-        "name": "Automation Anywhere",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
-        "website": "https://www.automationanywhere.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 99,
-        "name": "IFTTT",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
-        "website": "https://ifttt.com",
-        "tags": [
-            "automation",
-            "applets",
-            "workflows"
-        ]
-    },
-    {
-        "id": 100,
-        "name": "BrowserStack Automate",
-        "type": "Cross-Browser Testing Automation",
-        "pricing": "Paid Plans with Limited Free Trial",
-        "description": "Automate web application testing across various browsers and devices.",
-        "website": "https://www.browserstack.com/automate",
-        "tags": [
-            "testing",
-            "automation",
-            "cross-browser"
-        ]
-    },
-    {
-        "id": 101,
-        "name": "Workfusion",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate repetitive tasks across various applications and systems.",
-        "website": "https://www.workfusion.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 102,
-        "name": "Blue Prism",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate business processes across various industries.",
-        "website": "https://www.blueprism.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "business processes"
-        ]
-    },
-    {
-        "id": 103,
-        "name": "Pega Platform",
-        "type": "Low-Code Application Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications quickly with a low-code approach.",
-        "website": "https://www.pega.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 104,
-        "name": "Appian Cloud",
-        "type": "Low-Code Platform as a Service (PaaS)",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications in the cloud with a low-code approach.",
-        "website": "https://www.appian.com/products/appian-cloud",
-        "tags": [
-            "low-code",
-            "paas",
-            "cloud",
-            "enterprise",
-            "application"
-        ]
-    },
-    {
-        "id": 105,
-        "name": "K2 Blackpearl",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications across various industries.",
-        "website": "https://www.k2.com/products/k2-blackpearl",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 106,
-        "name": "Zoho Creator",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom business applications without coding.",
-        "website": "https://www.zoho.com/creator",
-        "tags": [
-            "low-code",
-            "business",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 107,
-        "name": "Caspio Bridge",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build web applications and databases without coding.",
-        "website": "https://www.caspio.com/bridge",
-        "tags": [
-            "low-code",
-            "application",
-            "database",
-            "development"
-        ]
-    },
-    {
-        "id": 108,
-        "name": "Knack",
-        "type": "Low-Code Database and Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom databases and applications without coding.",
-        "website": "https://www.knack.com",
-        "tags": [
-            "low-code",
-            "database",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 109,
-        "name": "Bubble.io",
-        "type": "Low-Code Web App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom web applications without coding.",
-        "website": "https://bubble.io",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 110,
-        "name": "Adalo",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://www.adalo.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 111,
-        "name": "Appsmith",
-        "type": "Low-Code Internal Tool Builder",
-        "pricing": "Freemium",
-        "description": "Build custom internal tools without coding.",
-        "website": "https://appsmith.com",
-        "tags": [
-            "low-code",
-            "internal",
-            "tool",
-            "development"
-        ]
-    },
-    {
-        "id": 112,
-        "name": "Betty Blocks",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web applications without coding.",
-        "website": "https://www.bettyblocks.com",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 113,
-        "name": "Creatio",
-        "type": "Low-Code CRM and BPM Platform",
-        "pricing": "Paid",
-        "description": "Build custom CRM and BPM applications without coding.",
-        "website": "https://www.creatio.com",
-        "tags": [
-            "low-code",
-            "crm",
-            "bpm",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 114,
-        "name": "GeneXus",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build enterprise applications across various industries.",
-        "website": "https://www.genexus.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 115,
-        "name": "AppGyver",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://appgyver.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 116,
-        "name": "FlutterFlow",
-        "type": "Low-Code Cross-Platform App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom cross-platform mobile apps without coding.",
-        "website": "https://flutterflow.io",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development",
-            "cross-platform"
-        ]
-    },
-    {
-        "id": 117,
-        "name": "Thunkable",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://thunkable.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 118,
-        "name": "Visual LANSA",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web and mobile applications without coding.",
-        "website": "https://www.lansatechnology.com/visual-lansa",
-        "tags": [
-            "low-code",
-            "web",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 119,
-        "name": "Tilda",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create custom websites and landing pages without coding.",
-        "website": "https://tilda.cc",
-        "tags": [
-            "website",
-            "builder",
-            "landing",
-            "page",
-            "design"
-        ]
-    },
-    {
-        "id": 120,
-        "name": "Unbounce",
-        "type": "Landing Page Builder",
-        "pricing": "Paid",
-        "description": "Create high-converting landing pages without coding.",
-        "website": "https://unbounce.com",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "conversion",
-            "design"
-        ]
-    },
-    {
-        "id": 121,
-        "name": "Elementor",
-        "type": "WordPress Plugin",
-        "pricing": "Freemium",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://elementor.com",
-        "tags": [
-            "wordpress",
-            "plugin",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 122,
-        "name": "Divi",
-        "type": "WordPress Theme",
-        "pricing": "Paid",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://www.elegantthemes.com/themes/divi",
-        "tags": [
-            "wordpress",
-            "theme",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 123,
-        "name": "Make (formerly Integromat)",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.make.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 124,
-        "name": "Tray.io",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://tray.io",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 125,
-        "name": "Workato",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.workato.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 126,
-        "name": "Microsoft Power Automate",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows within Microsoft 365.",
-        "website": "https://powerautomate.microsoft.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "microsoft",
-            "365"
-        ]
-    },
-    {
-        "id": 127,
-        "name": "UiPath",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
-        "website": "https://www.uipath.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 128,
-        "name": "Automation Anywhere",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
-        "website": "https://www.automationanywhere.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 129,
-        "name": "IFTTT",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
-        "website": "https://ifttt.com",
-        "tags": [
-            "automation",
-            "applets",
-            "workflows"
-        ]
-    },
-    {
-        "id": 130,
-        "name": "BrowserStack Automate",
-        "type": "Cross-Browser Testing Automation",
-        "pricing": "Paid Plans with Limited Free Trial",
-        "description": "Automate web application testing across various browsers and devices.",
-        "website": "https://www.browserstack.com/automate",
-        "tags": [
-            "testing",
-            "automation",
-            "cross-browser"
-        ]
-    },
-    {
-        "id": 131,
-        "name": "Workfusion",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate repetitive tasks across various applications and systems.",
-        "website": "https://www.workfusion.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 132,
-        "name": "Blue Prism",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate business processes across various industries.",
-        "website": "https://www.blueprism.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "business processes"
-        ]
-    },
-    {
-        "id": 133,
-        "name": "Pega Platform",
-        "type": "Low-Code Application Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications quickly with a low-code approach.",
-        "website": "https://www.pega.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 134,
-        "name": "Appian Cloud",
-        "type": "Low-Code Platform as a Service (PaaS)",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications in the cloud with a low-code approach.",
-        "website": "https://www.appian.com/products/appian-cloud",
-        "tags": [
-            "low-code",
-            "paas",
-            "cloud",
-            "enterprise",
-            "application"
-        ]
-    },
-    {
-        "id": 135,
-        "name": "K2 Blackpearl",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications across various industries.",
-        "website": "https://www.k2.com/products/k2-blackpearl",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 136,
-        "name": "Zoho Creator",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom business applications without coding.",
-        "website": "https://www.zoho.com/creator",
-        "tags": [
-            "low-code",
-            "business",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 137,
-        "name": "Caspio Bridge",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build web applications and databases without coding.",
-        "website": "https://www.caspio.com/bridge",
-        "tags": [
-            "low-code",
-            "application",
-            "database",
-            "development"
-        ]
-    },
-    {
-        "id": 138,
-        "name": "Knack",
-        "type": "Low-Code Database and Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom databases and applications without coding.",
-        "website": "https://www.knack.com",
-        "tags": [
-            "low-code",
-            "database",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 139,
-        "name": "Bubble.io",
-        "type": "Low-Code Web App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom web applications without coding.",
-        "website": "https://bubble.io",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 140,
-        "name": "Adalo",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://www.adalo.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 141,
-        "name": "Appsmith",
-        "type": "Low-Code Internal Tool Builder",
-        "pricing": "Freemium",
-        "description": "Build custom internal tools without coding.",
-        "website": "https://appsmith.com",
-        "tags": [
-            "low-code",
-            "internal",
-            "tool",
-            "development"
-        ]
-    },
-    {
-        "id": 142,
-        "name": "Betty Blocks",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web applications without coding.",
-        "website": "https://www.bettyblocks.com",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 143,
-        "name": "Creatio",
-        "type": "Low-Code CRM and BPM Platform",
-        "pricing": "Paid",
-        "description": "Build custom CRM and BPM applications without coding.",
-        "website": "https://www.creatio.com",
-        "tags": [
-            "low-code",
-            "crm",
-            "bpm",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 144,
-        "name": "GeneXus",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build enterprise applications across various industries.",
-        "website": "https://www.genexus.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 145,
-        "name": "AppGyver",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://appgyver.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 146,
-        "name": "FlutterFlow",
-        "type": "Low-Code Cross-Platform App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom cross-platform mobile apps without coding.",
-        "website": "https://flutterflow.io",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development",
-            "cross-platform"
-        ]
-    },
-    {
-        "id": 147,
-        "name": "Thunkable",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://thunkable.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 148,
-        "name": "Visual LANSA",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web and mobile applications without coding.",
-        "website": "https://www.lansatechnology.com/visual-lansa",
-        "tags": [
-            "low-code",
-            "web",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 149,
-        "name": "Tilda",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create custom websites and landing pages without coding.",
-        "website": "https://tilda.cc",
-        "tags": [
-            "website",
-            "builder",
-            "landing",
-            "page",
-            "design"
-        ]
-    },
-    {
-        "id": 150,
-        "name": "Unbounce",
-        "type": "Landing Page Builder",
-        "pricing": "Paid",
-        "description": "Create high-converting landing pages without coding.",
-        "website": "https://unbounce.com",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "conversion",
-            "design"
-        ]
-    },
-    {
-        "id": 151,
-        "name": "Elementor",
-        "type": "WordPress Plugin",
-        "pricing": "Freemium",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://elementor.com",
-        "tags": [
-            "wordpress",
-            "plugin",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 152,
-        "name": "Divi",
-        "type": "WordPress Theme",
-        "pricing": "Paid",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://www.elegantthemes.com/themes/divi",
-        "tags": [
-            "wordpress",
-            "theme",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 153,
-        "name": "Make (formerly Integromat)",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.make.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 154,
-        "name": "Tray.io",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://tray.io",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 155,
-        "name": "Workato",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.workato.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 156,
-        "name": "Microsoft Power Automate",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows within Microsoft 365.",
-        "website": "https://powerautomate.microsoft.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "microsoft",
-            "365"
-        ]
-    },
-    {
-        "id": 157,
-        "name": "UiPath",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
-        "website": "https://www.uipath.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 158,
-        "name": "Automation Anywhere",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
-        "website": "https://www.automationanywhere.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 159,
-        "name": "IFTTT",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
-        "website": "https://ifttt.com",
-        "tags": [
-            "automation",
-            "applets",
-            "workflows"
-        ]
-    },
-    {
-        "id": 160,
-        "name": "BrowserStack Automate",
-        "type": "Cross-Browser Testing Automation",
-        "pricing": "Paid Plans with Limited Free Trial",
-        "description": "Automate web application testing across various browsers and devices.",
-        "website": "https://www.browserstack.com/automate",
-        "tags": [
-            "testing",
-            "automation",
-            "cross-browser"
-        ]
-    },
-    {
-        "id": 161,
-        "name": "Workfusion",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate repetitive tasks across various applications and systems.",
-        "website": "https://www.workfusion.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 162,
-        "name": "Blue Prism",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate business processes across various industries.",
-        "website": "https://www.blueprism.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "business processes"
-        ]
-    },
-    {
-        "id": 163,
-        "name": "Pega Platform",
-        "type": "Low-Code Application Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications quickly with a low-code approach.",
-        "website": "https://www.pega.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 164,
-        "name": "Appian Cloud",
-        "type": "Low-Code Platform as a Service (PaaS)",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications in the cloud with a low-code approach.",
-        "website": "https://www.appian.com/products/appian-cloud",
-        "tags": [
-            "low-code",
-            "paas",
-            "cloud",
-            "enterprise",
-            "application"
-        ]
-    },
-    {
-        "id": 165,
-        "name": "K2 Blackpearl",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications across various industries.",
-        "website": "https://www.k2.com/products/k2-blackpearl",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 166,
-        "name": "Zoho Creator",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom business applications without coding.",
-        "website": "https://www.zoho.com/creator",
-        "tags": [
-            "low-code",
-            "business",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 167,
-        "name": "Caspio Bridge",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build web applications and databases without coding.",
-        "website": "https://www.caspio.com/bridge",
-        "tags": [
-            "low-code",
-            "application",
-            "database",
-            "development"
-        ]
-    },
-    {
-        "id": 168,
-        "name": "Knack",
-        "type": "Low-Code Database and Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom databases and applications without coding.",
-        "website": "https://www.knack.com",
-        "tags": [
-            "low-code",
-            "database",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 169,
-        "name": "Bubble.io",
-        "type": "Low-Code Web App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom web applications without coding.",
-        "website": "https://bubble.io",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 170,
-        "name": "Adalo",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://www.adalo.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 171,
-        "name": "Appsmith",
-        "type": "Low-Code Internal Tool Builder",
-        "pricing": "Freemium",
-        "description": "Build custom internal tools without coding.",
-        "website": "https://appsmith.com",
-        "tags": [
-            "low-code",
-            "internal",
-            "tool",
-            "development"
-        ]
-    },
-    {
-        "id": 172,
-        "name": "Betty Blocks",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web applications without coding.",
-        "website": "https://www.bettyblocks.com",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 173,
-        "name": "Creatio",
-        "type": "Low-Code CRM and BPM Platform",
-        "pricing": "Paid",
-        "description": "Build custom CRM and BPM applications without coding.",
-        "website": "https://www.creatio.com",
-        "tags": [
-            "low-code",
-            "crm",
-            "bpm",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 174,
-        "name": "GeneXus",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build enterprise applications across various industries.",
-        "website": "https://www.genexus.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 175,
-        "name": "AppGyver",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://appgyver.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 176,
-        "name": "FlutterFlow",
-        "type": "Low-Code Cross-Platform App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom cross-platform mobile apps without coding.",
-        "website": "https://flutterflow.io",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development",
-            "cross-platform"
-        ]
-    },
-    {
-        "id": 177,
-        "name": "Thunkable",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://thunkable.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 178,
-        "name": "Visual LANSA",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web and mobile applications without coding.",
-        "website": "https://www.lansatechnology.com/visual-lansa",
-        "tags": [
-            "low-code",
-            "web",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 179,
-        "name": "Tilda",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create custom websites and landing pages without coding.",
-        "website": "https://tilda.cc",
-        "tags": [
-            "website",
-            "builder",
-            "landing",
-            "page",
-            "design"
-        ]
-    },
-    {
-        "id": 180,
-        "name": "Unbounce",
-        "type": "Landing Page Builder",
-        "pricing": "Paid",
-        "description": "Create high-converting landing pages without coding.",
-        "website": "https://unbounce.com",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "conversion",
-            "design"
-        ]
-    },
-    {
-        "id": 181,
-        "name": "Elementor",
-        "type": "WordPress Plugin",
-        "pricing": "Freemium",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://elementor.com",
-        "tags": [
-            "wordpress",
-            "plugin",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 182,
-        "name": "Divi",
-        "type": "WordPress Theme",
-        "pricing": "Paid",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://www.elegantthemes.com/themes/divi",
-        "tags": [
-            "wordpress",
-            "theme",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 183,
-        "name": "Make (formerly Integromat)",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.make.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 184,
-        "name": "Tray.io",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://tray.io",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 185,
-        "name": "Workato",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.workato.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 186,
-        "name": "Microsoft Power Automate",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows within Microsoft 365.",
-        "website": "https://powerautomate.microsoft.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "microsoft",
-            "365"
-        ]
-    },
-    {
-        "id": 187,
-        "name": "UiPath",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
-        "website": "https://www.uipath.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 188,
-        "name": "Automation Anywhere",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
-        "website": "https://www.automationanywhere.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 189,
-        "name": "IFTTT",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
-        "website": "https://ifttt.com",
-        "tags": [
-            "automation",
-            "applets",
-            "workflows"
-        ]
-    },
-    {
-        "id": 190,
-        "name": "BrowserStack Automate",
-        "type": "Cross-Browser Testing Automation",
-        "pricing": "Paid Plans with Limited Free Trial",
-        "description": "Automate web application testing across various browsers and devices.",
-        "website": "https://www.browserstack.com/automate",
-        "tags": [
-            "testing",
-            "automation",
-            "cross-browser"
-        ]
-    },
-    {
-        "id": 191,
-        "name": "Workfusion",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate repetitive tasks across various applications and systems.",
-        "website": "https://www.workfusion.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 192,
-        "name": "Blue Prism",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate business processes across various industries.",
-        "website": "https://www.blueprism.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "business processes"
-        ]
-    },
-    {
-        "id": 193,
-        "name": "Pega Platform",
-        "type": "Low-Code Application Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications quickly with a low-code approach.",
-        "website": "https://www.pega.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 194,
-        "name": "Appian Cloud",
-        "type": "Low-Code Platform as a Service (PaaS)",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications in the cloud with a low-code approach.",
-        "website": "https://www.appian.com/products/appian-cloud",
-        "tags": [
-            "low-code",
-            "paas",
-            "cloud",
-            "enterprise",
-            "application"
-        ]
-    },
-    {
-        "id": 195,
-        "name": "K2 Blackpearl",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications across various industries.",
-        "website": "https://www.k2.com/products/k2-blackpearl",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 196,
-        "name": "Zoho Creator",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom business applications without coding.",
-        "website": "https://www.zoho.com/creator",
-        "tags": [
-            "low-code",
-            "business",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 197,
-        "name": "Caspio Bridge",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build web applications and databases without coding.",
-        "website": "https://www.caspio.com/bridge",
-        "tags": [
-            "low-code",
-            "application",
-            "database",
-            "development"
-        ]
-    },
-    {
-        "id": 198,
-        "name": "Knack",
-        "type": "Low-Code Database and Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom databases and applications without coding.",
-        "website": "https://www.knack.com",
-        "tags": [
-            "low-code",
-            "database",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 199,
-        "name": "Bubble.io",
-        "type": "Low-Code Web App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom web applications without coding.",
-        "website": "https://bubble.io",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 200,
-        "name": "Adalo",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://www.adalo.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 201,
-        "name": "Appsmith",
-        "type": "Low-Code Internal Tool Builder",
-        "pricing": "Freemium",
-        "description": "Build custom internal tools without coding.",
-        "website": "https://appsmith.com",
-        "tags": [
-            "low-code",
-            "internal",
-            "tool",
-            "development"
-        ]
-    },
-    {
-        "id": 202,
-        "name": "Betty Blocks",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web applications without coding.",
-        "website": "https://www.bettyblocks.com",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 203,
-        "name": "Creatio",
-        "type": "Low-Code CRM and BPM Platform",
-        "pricing": "Paid",
-        "description": "Build custom CRM and BPM applications without coding.",
-        "website": "https://www.creatio.com",
-        "tags": [
-            "low-code",
-            "crm",
-            "bpm",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 204,
-        "name": "GeneXus",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build enterprise applications across various industries.",
-        "website": "https://www.genexus.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 205,
-        "name": "AppGyver",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://appgyver.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 206,
-        "name": "FlutterFlow",
-        "type": "Low-Code Cross-Platform App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom cross-platform mobile apps without coding.",
-        "website": "https://flutterflow.io",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development",
-            "cross-platform"
-        ]
-    },
-    {
-        "id": 207,
-        "name": "Thunkable",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://thunkable.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 208,
-        "name": "Visual LANSA",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web and mobile applications without coding.",
-        "website": "https://www.lansatechnology.com/visual-lansa",
-        "tags": [
-            "low-code",
-            "web",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 209,
-        "name": "Tilda",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create custom websites and landing pages without coding.",
-        "website": "https://tilda.cc",
-        "tags": [
-            "website",
-            "builder",
-            "landing",
-            "page",
-            "design"
-        ]
-    },
-    {
-        "id": 210,
-        "name": "Unbounce",
-        "type": "Landing Page Builder",
-        "pricing": "Paid",
-        "description": "Create high-converting landing pages without coding.",
-        "website": "https://unbounce.com",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "conversion",
-            "design"
-        ]
-    },
-    {
-        "id": 211,
-        "name": "Elementor",
-        "type": "WordPress Plugin",
-        "pricing": "Freemium",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://elementor.com",
-        "tags": [
-            "wordpress",
-            "plugin",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 212,
-        "name": "Divi",
-        "type": "WordPress Theme",
-        "pricing": "Paid",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://www.elegantthemes.com/themes/divi",
-        "tags": [
-            "wordpress",
-            "theme",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 213,
-        "name": "Make (formerly Integromat)",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.make.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 214,
-        "name": "Tray.io",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://tray.io",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 215,
-        "name": "Workato",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.workato.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 216,
-        "name": "Microsoft Power Automate",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows within Microsoft 365.",
-        "website": "https://powerautomate.microsoft.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "microsoft",
-            "365"
-        ]
-    },
-    {
-        "id": 217,
-        "name": "UiPath",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
-        "website": "https://www.uipath.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 218,
-        "name": "Automation Anywhere",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
-        "website": "https://www.automationanywhere.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 219,
-        "name": "IFTTT",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
-        "website": "https://ifttt.com",
-        "tags": [
-            "automation",
-            "applets",
-            "workflows"
-        ]
-    },
-    {
-        "id": 220,
-        "name": "BrowserStack Automate",
-        "type": "Cross-Browser Testing Automation",
-        "pricing": "Paid Plans with Limited Free Trial",
-        "description": "Automate web application testing across various browsers and devices.",
-        "website": "https://www.browserstack.com/automate",
-        "tags": [
-            "testing",
-            "automation",
-            "cross-browser"
-        ]
-    },
-    {
-        "id": 221,
-        "name": "Workfusion",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate repetitive tasks across various applications and systems.",
-        "website": "https://www.workfusion.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 222,
-        "name": "Blue Prism",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate business processes across various industries.",
-        "website": "https://www.blueprism.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "business processes"
-        ]
-    },
-    {
-        "id": 223,
-        "name": "Pega Platform",
-        "type": "Low-Code Application Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications quickly with a low-code approach.",
-        "website": "https://www.pega.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 224,
-        "name": "Appian Cloud",
-        "type": "Low-Code Platform as a Service (PaaS)",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications in the cloud with a low-code approach.",
-        "website": "https://www.appian.com/products/appian-cloud",
-        "tags": [
-            "low-code",
-            "paas",
-            "cloud",
-            "enterprise",
-            "application"
-        ]
-    },
-    {
-        "id": 225,
-        "name": "K2 Blackpearl",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications across various industries.",
-        "website": "https://www.k2.com/products/k2-blackpearl",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 226,
-        "name": "Zoho Creator",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom business applications without coding.",
-        "website": "https://www.zoho.com/creator",
-        "tags": [
-            "low-code",
-            "business",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 227,
-        "name": "Caspio Bridge",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build web applications and databases without coding.",
-        "website": "https://www.caspio.com/bridge",
-        "tags": [
-            "low-code",
-            "application",
-            "database",
-            "development"
-        ]
-    },
-    {
-        "id": 228,
-        "name": "Knack",
-        "type": "Low-Code Database and Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom databases and applications without coding.",
-        "website": "https://www.knack.com",
-        "tags": [
-            "low-code",
-            "database",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 229,
-        "name": "Bubble.io",
-        "type": "Low-Code Web App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom web applications without coding.",
-        "website": "https://bubble.io",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 230,
-        "name": "Adalo",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://www.adalo.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 231,
-        "name": "Appsmith",
-        "type": "Low-Code Internal Tool Builder",
-        "pricing": "Freemium",
-        "description": "Build custom internal tools without coding.",
-        "website": "https://appsmith.com",
-        "tags": [
-            "low-code",
-            "internal",
-            "tool",
-            "development"
-        ]
-    },
-    {
-        "id": 232,
-        "name": "Betty Blocks",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web applications without coding.",
-        "website": "https://www.bettyblocks.com",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 233,
-        "name": "Creatio",
-        "type": "Low-Code CRM and BPM Platform",
-        "pricing": "Paid",
-        "description": "Build custom CRM and BPM applications without coding.",
-        "website": "https://www.creatio.com",
-        "tags": [
-            "low-code",
-            "crm",
-            "bpm",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 234,
-        "name": "GeneXus",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build enterprise applications across various industries.",
-        "website": "https://www.genexus.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 235,
-        "name": "AppGyver",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://appgyver.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 236,
-        "name": "FlutterFlow",
-        "type": "Low-Code Cross-Platform App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom cross-platform mobile apps without coding.",
-        "website": "https://flutterflow.io",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development",
-            "cross-platform"
-        ]
-    },
-    {
-        "id": 237,
-        "name": "Thunkable",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://thunkable.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 238,
-        "name": "Visual LANSA",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web and mobile applications without coding.",
-        "website": "https://www.lansatechnology.com/visual-lansa",
-        "tags": [
-            "low-code",
-            "web",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 239,
-        "name": "Tilda",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create custom websites and landing pages without coding.",
-        "website": "https://tilda.cc",
-        "tags": [
-            "website",
-            "builder",
-            "landing",
-            "page",
-            "design"
-        ]
-    },
-    {
-        "id": 240,
-        "name": "Unbounce",
-        "type": "Landing Page Builder",
-        "pricing": "Paid",
-        "description": "Create high-converting landing pages without coding.",
-        "website": "https://unbounce.com",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "conversion",
-            "design"
-        ]
-    },
-    {
-        "id": 241,
-        "name": "Elementor",
-        "type": "WordPress Plugin",
-        "pricing": "Freemium",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://elementor.com",
-        "tags": [
-            "wordpress",
-            "plugin",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 242,
-        "name": "Divi",
-        "type": "WordPress Theme",
-        "pricing": "Paid",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://www.elegantthemes.com/themes/divi",
-        "tags": [
-            "wordpress",
-            "theme",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 243,
-        "name": "Make (formerly Integromat)",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.make.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 244,
-        "name": "Tray.io",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://tray.io",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 245,
-        "name": "Workato",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.workato.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 246,
-        "name": "Microsoft Power Automate",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows within Microsoft 365.",
-        "website": "https://powerautomate.microsoft.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "microsoft",
-            "365"
-        ]
-    },
-    {
-        "id": 247,
-        "name": "UiPath",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
-        "website": "https://www.uipath.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 248,
-        "name": "Automation Anywhere",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
-        "website": "https://www.automationanywhere.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 249,
-        "name": "IFTTT",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
-        "website": "https://ifttt.com",
-        "tags": [
-            "automation",
-            "applets",
-            "workflows"
-        ]
-    },
-    {
-        "id": 250,
-        "name": "BrowserStack Automate",
-        "type": "Cross-Browser Testing Automation",
-        "pricing": "Paid Plans with Limited Free Trial",
-        "description": "Automate web application testing across various browsers and devices.",
-        "website": "https://www.browserstack.com/automate",
-        "tags": [
-            "testing",
-            "automation",
-            "cross-browser"
-        ]
-    },
-    {
-        "id": 251,
-        "name": "Workfusion",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate repetitive tasks across various applications and systems.",
-        "website": "https://www.workfusion.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 252,
-        "name": "Blue Prism",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate business processes across various industries.",
-        "website": "https://www.blueprism.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "business processes"
-        ]
-    },
-    {
-        "id": 253,
-        "name": "Pega Platform",
-        "type": "Low-Code Application Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications quickly with a low-code approach.",
-        "website": "https://www.pega.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 254,
-        "name": "Appian Cloud",
-        "type": "Low-Code Platform as a Service (PaaS)",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications in the cloud with a low-code approach.",
-        "website": "https://www.appian.com/products/appian-cloud",
-        "tags": [
-            "low-code",
-            "paas",
-            "cloud",
-            "enterprise",
-            "application"
-        ]
-    },
-    {
-        "id": 255,
-        "name": "K2 Blackpearl",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications across various industries.",
-        "website": "https://www.k2.com/products/k2-blackpearl",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 256,
-        "name": "Zoho Creator",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom business applications without coding.",
-        "website": "https://www.zoho.com/creator",
-        "tags": [
-            "low-code",
-            "business",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 257,
-        "name": "Caspio Bridge",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build web applications and databases without coding.",
-        "website": "https://www.caspio.com/bridge",
-        "tags": [
-            "low-code",
-            "application",
-            "database",
-            "development"
-        ]
-    },
-    {
-        "id": 258,
-        "name": "Knack",
-        "type": "Low-Code Database and Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom databases and applications without coding.",
-        "website": "https://www.knack.com",
-        "tags": [
-            "low-code",
-            "database",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 259,
-        "name": "Bubble.io",
-        "type": "Low-Code Web App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom web applications without coding.",
-        "website": "https://bubble.io",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 260,
-        "name": "Adalo",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://www.adalo.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 261,
-        "name": "Appsmith",
-        "type": "Low-Code Internal Tool Builder",
-        "pricing": "Freemium",
-        "description": "Build custom internal tools without coding.",
-        "website": "https://appsmith.com",
-        "tags": [
-            "low-code",
-            "internal",
-            "tool",
-            "development"
-        ]
-    },
-    {
-        "id": 262,
-        "name": "Betty Blocks",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web applications without coding.",
-        "website": "https://www.bettyblocks.com",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 263,
-        "name": "Creatio",
-        "type": "Low-Code CRM and BPM Platform",
-        "pricing": "Paid",
-        "description": "Build custom CRM and BPM applications without coding.",
-        "website": "https://www.creatio.com",
-        "tags": [
-            "low-code",
-            "crm",
-            "bpm",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 264,
-        "name": "GeneXus",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build enterprise applications across various industries.",
-        "website": "https://www.genexus.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 265,
-        "name": "AppGyver",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://appgyver.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 266,
-        "name": "FlutterFlow",
-        "type": "Low-Code Cross-Platform App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom cross-platform mobile apps without coding.",
-        "website": "https://flutterflow.io",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development",
-            "cross-platform"
-        ]
-    },
-    {
-        "id": 267,
-        "name": "Thunkable",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://thunkable.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 268,
-        "name": "Visual LANSA",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web and mobile applications without coding.",
-        "website": "https://www.lansatechnology.com/visual-lansa",
-        "tags": [
-            "low-code",
-            "web",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 269,
-        "name": "Tilda",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create custom websites and landing pages without coding.",
-        "website": "https://tilda.cc",
-        "tags": [
-            "website",
-            "builder",
-            "landing",
-            "page",
-            "design"
-        ]
-    },
-    {
-        "id": 270,
-        "name": "Unbounce",
-        "type": "Landing Page Builder",
-        "pricing": "Paid",
-        "description": "Create high-converting landing pages without coding.",
-        "website": "https://unbounce.com",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "conversion",
-            "design"
-        ]
-    },
-    {
-        "id": 271,
-        "name": "Elementor",
-        "type": "WordPress Plugin",
-        "pricing": "Freemium",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://elementor.com",
-        "tags": [
-            "wordpress",
-            "plugin",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 272,
-        "name": "Divi",
-        "type": "WordPress Theme",
-        "pricing": "Paid",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://www.elegantthemes.com/themes/divi",
-        "tags": [
-            "wordpress",
-            "theme",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 273,
-        "name": "Make (formerly Integromat)",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.make.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 274,
-        "name": "Tray.io",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://tray.io",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 275,
-        "name": "Workato",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.workato.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 276,
-        "name": "Microsoft Power Automate",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows within Microsoft 365.",
-        "website": "https://powerautomate.microsoft.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "microsoft",
-            "365"
-        ]
-    },
-    {
-        "id": 277,
-        "name": "UiPath",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
-        "website": "https://www.uipath.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 278,
-        "name": "Automation Anywhere",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
-        "website": "https://www.automationanywhere.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 279,
-        "name": "IFTTT",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
-        "website": "https://ifttt.com",
-        "tags": [
-            "automation",
-            "applets",
-            "workflows"
-        ]
-    },
-    {
-        "id": 280,
-        "name": "BrowserStack Automate",
-        "type": "Cross-Browser Testing Automation",
-        "pricing": "Paid Plans with Limited Free Trial",
-        "description": "Automate web application testing across various browsers and devices.",
-        "website": "https://www.browserstack.com/automate",
-        "tags": [
-            "testing",
-            "automation",
-            "cross-browser"
-        ]
-    },
-    {
-        "id": 281,
-        "name": "Workfusion",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate repetitive tasks across various applications and systems.",
-        "website": "https://www.workfusion.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 282,
-        "name": "Blue Prism",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate business processes across various industries.",
-        "website": "https://www.blueprism.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "business processes"
-        ]
-    },
-    {
-        "id": 283,
-        "name": "Pega Platform",
-        "type": "Low-Code Application Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications quickly with a low-code approach.",
-        "website": "https://www.pega.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 284,
-        "name": "Appian Cloud",
-        "type": "Low-Code Platform as a Service (PaaS)",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications in the cloud with a low-code approach.",
-        "website": "https://www.appian.com/products/appian-cloud",
-        "tags": [
-            "low-code",
-            "paas",
-            "cloud",
-            "enterprise",
-            "application"
-        ]
-    },
-    {
-        "id": 285,
-        "name": "K2 Blackpearl",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications across various industries.",
-        "website": "https://www.k2.com/products/k2-blackpearl",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 286,
-        "name": "Zoho Creator",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom business applications without coding.",
-        "website": "https://www.zoho.com/creator",
-        "tags": [
-            "low-code",
-            "business",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 287,
-        "name": "Caspio Bridge",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build web applications and databases without coding.",
-        "website": "https://www.caspio.com/bridge",
-        "tags": [
-            "low-code",
-            "application",
-            "database",
-            "development"
-        ]
-    },
-    {
-        "id": 288,
-        "name": "Knack",
-        "type": "Low-Code Database and Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom databases and applications without coding.",
-        "website": "https://www.knack.com",
-        "tags": [
-            "low-code",
-            "database",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 289,
-        "name": "Bubble.io",
-        "type": "Low-Code Web App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom web applications without coding.",
-        "website": "https://bubble.io",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 290,
-        "name": "Adalo",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://www.adalo.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 291,
-        "name": "Appsmith",
-        "type": "Low-Code Internal Tool Builder",
-        "pricing": "Freemium",
-        "description": "Build custom internal tools without coding.",
-        "website": "https://appsmith.com",
-        "tags": [
-            "low-code",
-            "internal",
-            "tool",
-            "development"
-        ]
-    },
-    {
-        "id": 292,
-        "name": "Betty Blocks",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web applications without coding.",
-        "website": "https://www.bettyblocks.com",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 293,
-        "name": "Creatio",
-        "type": "Low-Code CRM and BPM Platform",
-        "pricing": "Paid",
-        "description": "Build custom CRM and BPM applications without coding.",
-        "website": "https://www.creatio.com",
-        "tags": [
-            "low-code",
-            "crm",
-            "bpm",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 294,
-        "name": "GeneXus",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build enterprise applications across various industries.",
-        "website": "https://www.genexus.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 295,
-        "name": "AppGyver",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://appgyver.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 296,
-        "name": "FlutterFlow",
-        "type": "Low-Code Cross-Platform App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom cross-platform mobile apps without coding.",
-        "website": "https://flutterflow.io",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development",
-            "cross-platform"
-        ]
-    },
-    {
-        "id": 297,
-        "name": "Thunkable",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://thunkable.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 298,
-        "name": "Visual LANSA",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web and mobile applications without coding.",
-        "website": "https://www.lansatechnology.com/visual-lansa",
-        "tags": [
-            "low-code",
-            "web",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 299,
-        "name": "Tilda",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create custom websites and landing pages without coding.",
-        "website": "https://tilda.cc",
-        "tags": [
-            "website",
-            "builder",
-            "landing",
-            "page",
-            "design"
-        ]
-    },
-    {
-        "id": 300,
-        "name": "Unbounce",
-        "type": "Landing Page Builder",
-        "pricing": "Paid",
-        "description": "Create high-converting landing pages without coding.",
-        "website": "https://unbounce.com",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "conversion",
-            "design"
-        ]
-    },
-    {
-        "id": 301,
-        "name": "Elementor",
-        "type": "WordPress Plugin",
-        "pricing": "Freemium",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://elementor.com",
-        "tags": [
-            "wordpress",
-            "plugin",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 302,
-        "name": "Divi",
-        "type": "WordPress Theme",
-        "pricing": "Paid",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://www.elegantthemes.com/themes/divi",
-        "tags": [
-            "wordpress",
-            "theme",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 303,
-        "name": "Make (formerly Integromat)",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.make.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 304,
-        "name": "Tray.io",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://tray.io",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 305,
-        "name": "Workato",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.workato.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 306,
-        "name": "Microsoft Power Automate",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows within Microsoft 365.",
-        "website": "https://powerautomate.microsoft.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "microsoft",
-            "365"
-        ]
-    },
-    {
-        "id": 307,
-        "name": "UiPath",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
-        "website": "https://www.uipath.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 308,
-        "name": "Automation Anywhere",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
-        "website": "https://www.automationanywhere.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 309,
-        "name": "IFTTT",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
-        "website": "https://ifttt.com",
-        "tags": [
-            "automation",
-            "applets",
-            "workflows"
-        ]
-    },
-    {
-        "id": 310,
-        "name": "BrowserStack Automate",
-        "type": "Cross-Browser Testing Automation",
-        "pricing": "Paid Plans with Limited Free Trial",
-        "description": "Automate web application testing across various browsers and devices.",
-        "website": "https://www.browserstack.com/automate",
-        "tags": [
-            "testing",
-            "automation",
-            "cross-browser"
-        ]
-    },
-    {
-        "id": 311,
-        "name": "Workfusion",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate repetitive tasks across various applications and systems.",
-        "website": "https://www.workfusion.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 312,
-        "name": "Blue Prism",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate business processes across various industries.",
-        "website": "https://www.blueprism.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "business processes"
-        ]
-    },
-    {
-        "id": 313,
-        "name": "Pega Platform",
-        "type": "Low-Code Application Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications quickly with a low-code approach.",
-        "website": "https://www.pega.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 314,
-        "name": "Appian Cloud",
-        "type": "Low-Code Platform as a Service (PaaS)",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications in the cloud with a low-code approach.",
-        "website": "https://www.appian.com/products/appian-cloud",
-        "tags": [
-            "low-code",
-            "paas",
-            "cloud",
-            "enterprise",
-            "application"
-        ]
-    },
-    {
-        "id": 315,
-        "name": "K2 Blackpearl",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications across various industries.",
-        "website": "https://www.k2.com/products/k2-blackpearl",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 316,
-        "name": "Zoho Creator",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom business applications without coding.",
-        "website": "https://www.zoho.com/creator",
-        "tags": [
-            "low-code",
-            "business",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 317,
-        "name": "Caspio Bridge",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build web applications and databases without coding.",
-        "website": "https://www.caspio.com/bridge",
-        "tags": [
-            "low-code",
-            "application",
-            "database",
-            "development"
-        ]
-    },
-    {
-        "id": 318,
-        "name": "Knack",
-        "type": "Low-Code Database and Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom databases and applications without coding.",
-        "website": "https://www.knack.com",
-        "tags": [
-            "low-code",
-            "database",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 319,
-        "name": "Bubble.io",
-        "type": "Low-Code Web App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom web applications without coding.",
-        "website": "https://bubble.io",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 320,
-        "name": "Adalo",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://www.adalo.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 321,
-        "name": "Appsmith",
-        "type": "Low-Code Internal Tool Builder",
-        "pricing": "Freemium",
-        "description": "Build custom internal tools without coding.",
-        "website": "https://appsmith.com",
-        "tags": [
-            "low-code",
-            "internal",
-            "tool",
-            "development"
-        ]
-    },
-    {
-        "id": 322,
-        "name": "Betty Blocks",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web applications without coding.",
-        "website": "https://www.bettyblocks.com",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 323,
-        "name": "Creatio",
-        "type": "Low-Code CRM and BPM Platform",
-        "pricing": "Paid",
-        "description": "Build custom CRM and BPM applications without coding.",
-        "website": "https://www.creatio.com",
-        "tags": [
-            "low-code",
-            "crm",
-            "bpm",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 324,
-        "name": "GeneXus",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build enterprise applications across various industries.",
-        "website": "https://www.genexus.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 325,
-        "name": "AppGyver",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://appgyver.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 326,
-        "name": "FlutterFlow",
-        "type": "Low-Code Cross-Platform App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom cross-platform mobile apps without coding.",
-        "website": "https://flutterflow.io",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development",
-            "cross-platform"
-        ]
-    },
-    {
-        "id": 327,
-        "name": "Thunkable",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://thunkable.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 328,
-        "name": "Visual LANSA",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web and mobile applications without coding.",
-        "website": "https://www.lansatechnology.com/visual-lansa",
-        "tags": [
-            "low-code",
-            "web",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 329,
-        "name": "Tilda",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create custom websites and landing pages without coding.",
-        "website": "https://tilda.cc",
-        "tags": [
-            "website",
-            "builder",
-            "landing",
-            "page",
-            "design"
-        ]
-    },
-    {
-        "id": 330,
-        "name": "Unbounce",
-        "type": "Landing Page Builder",
-        "pricing": "Paid",
-        "description": "Create high-converting landing pages without coding.",
-        "website": "https://unbounce.com",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "conversion",
-            "design"
-        ]
-    },
-    {
-        "id": 331,
-        "name": "Elementor",
-        "type": "WordPress Plugin",
-        "pricing": "Freemium",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://elementor.com",
-        "tags": [
-            "wordpress",
-            "plugin",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 332,
-        "name": "Divi",
-        "type": "WordPress Theme",
-        "pricing": "Paid",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://www.elegantthemes.com/themes/divi",
-        "tags": [
-            "wordpress",
-            "theme",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 333,
-        "name": "Make (formerly Integromat)",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.make.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 334,
-        "name": "Tray.io",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://tray.io",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 335,
-        "name": "Workato",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.workato.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 336,
-        "name": "Microsoft Power Automate",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows within Microsoft 365.",
-        "website": "https://powerautomate.microsoft.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "microsoft",
-            "365"
-        ]
-    },
-    {
-        "id": 337,
-        "name": "UiPath",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
-        "website": "https://www.uipath.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 338,
-        "name": "Automation Anywhere",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
-        "website": "https://www.automationanywhere.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 339,
-        "name": "IFTTT",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
-        "website": "https://ifttt.com",
-        "tags": [
-            "automation",
-            "applets",
-            "workflows"
-        ]
-    },
-    {
-        "id": 340,
-        "name": "BrowserStack Automate",
-        "type": "Cross-Browser Testing Automation",
-        "pricing": "Paid Plans with Limited Free Trial",
-        "description": "Automate web application testing across various browsers and devices.",
-        "website": "https://www.browserstack.com/automate",
-        "tags": [
-            "testing",
-            "automation",
-            "cross-browser"
-        ]
-    },
-    {
-        "id": 341,
-        "name": "Workfusion",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate repetitive tasks across various applications and systems.",
-        "website": "https://www.workfusion.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 342,
-        "name": "Blue Prism",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate business processes across various industries.",
-        "website": "https://www.blueprism.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "business processes"
-        ]
-    },
-    {
-        "id": 343,
-        "name": "Pega Platform",
-        "type": "Low-Code Application Development Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications quickly with a low-code approach.",
-        "website": "https://www.pega.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 344,
-        "name": "Appian Cloud",
-        "type": "Low-Code Platform as a Service (PaaS)",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications in the cloud with a low-code approach.",
-        "website": "https://www.appian.com/products/appian-cloud",
-        "tags": [
-            "low-code",
-            "paas",
-            "cloud",
-            "enterprise",
-            "application"
-        ]
-    },
-    {
-        "id": 345,
-        "name": "K2 Blackpearl",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build and deploy enterprise applications across various industries.",
-        "website": "https://www.k2.com/products/k2-blackpearl",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 346,
-        "name": "Zoho Creator",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom business applications without coding.",
-        "website": "https://www.zoho.com/creator",
-        "tags": [
-            "low-code",
-            "business",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 347,
-        "name": "Caspio Bridge",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build web applications and databases without coding.",
-        "website": "https://www.caspio.com/bridge",
-        "tags": [
-            "low-code",
-            "application",
-            "database",
-            "development"
-        ]
-    },
-    {
-        "id": 348,
-        "name": "Knack",
-        "type": "Low-Code Database and Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom databases and applications without coding.",
-        "website": "https://www.knack.com",
-        "tags": [
-            "low-code",
-            "database",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 349,
-        "name": "Bubble.io",
-        "type": "Low-Code Web App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom web applications without coding.",
-        "website": "https://bubble.io",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 350,
-        "name": "Adalo",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://www.adalo.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 351,
-        "name": "Appsmith",
-        "type": "Low-Code Internal Tool Builder",
-        "pricing": "Freemium",
-        "description": "Build custom internal tools without coding.",
-        "website": "https://appsmith.com",
-        "tags": [
-            "low-code",
-            "internal",
-            "tool",
-            "development"
-        ]
-    },
-    {
-        "id": 352,
-        "name": "Betty Blocks",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web applications without coding.",
-        "website": "https://www.bettyblocks.com",
-        "tags": [
-            "low-code",
-            "web",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 353,
-        "name": "Creatio",
-        "type": "Low-Code CRM and BPM Platform",
-        "pricing": "Paid",
-        "description": "Build custom CRM and BPM applications without coding.",
-        "website": "https://www.creatio.com",
-        "tags": [
-            "low-code",
-            "crm",
-            "bpm",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 354,
-        "name": "GeneXus",
-        "type": "Low-Code Application Platform",
-        "pricing": "Enterprise",
-        "description": "Build enterprise applications across various industries.",
-        "website": "https://www.genexus.com",
-        "tags": [
-            "low-code",
-            "enterprise",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 355,
-        "name": "AppGyver",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://appgyver.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 356,
-        "name": "FlutterFlow",
-        "type": "Low-Code Cross-Platform App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom cross-platform mobile apps without coding.",
-        "website": "https://flutterflow.io",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development",
-            "cross-platform"
-        ]
-    },
-    {
-        "id": 357,
-        "name": "Thunkable",
-        "type": "Low-Code Mobile App Builder",
-        "pricing": "Freemium",
-        "description": "Build custom mobile apps without coding.",
-        "website": "https://thunkable.com",
-        "tags": [
-            "low-code",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 358,
-        "name": "Visual LANSA",
-        "type": "Low-Code Application Platform",
-        "pricing": "Paid",
-        "description": "Build custom web and mobile applications without coding.",
-        "website": "https://www.lansatechnology.com/visual-lansa",
-        "tags": [
-            "low-code",
-            "web",
-            "mobile",
-            "application",
-            "development"
-        ]
-    },
-    {
-        "id": 359,
-        "name": "Tilda",
-        "type": "Website Builder",
-        "pricing": "Paid",
-        "description": "Create custom websites and landing pages without coding.",
-        "website": "https://tilda.cc",
-        "tags": [
-            "website",
-            "builder",
-            "landing",
-            "page",
-            "design"
-        ]
-    },
-    {
-        "id": 360,
-        "name": "Unbounce",
-        "type": "Landing Page Builder",
-        "pricing": "Paid",
-        "description": "Create high-converting landing pages without coding.",
-        "website": "https://unbounce.com",
-        "tags": [
-            "landing",
-            "page",
-            "builder",
-            "conversion",
-            "design"
-        ]
-    },
-    {
-        "id": 361,
-        "name": "Elementor",
-        "type": "WordPress Plugin",
-        "pricing": "Freemium",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://elementor.com",
-        "tags": [
-            "wordpress",
-            "plugin",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 362,
-        "name": "Divi",
-        "type": "WordPress Theme",
-        "pricing": "Paid",
-        "description": "Create custom WordPress websites with a visual builder.",
-        "website": "https://www.elegantthemes.com/themes/divi",
-        "tags": [
-            "wordpress",
-            "theme",
-            "builder",
-            "design"
-        ]
-    },
-    {
-        "id": 363,
-        "name": "Make (formerly Integromat)",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.make.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 364,
-        "name": "Tray.io",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://tray.io",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 365,
-        "name": "Workato",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows between different apps.",
-        "website": "https://www.workato.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "integration"
-        ]
-    },
-    {
-        "id": 366,
-        "name": "Microsoft Power Automate",
-        "type": "Automation Platform",
-        "pricing": "Paid",
-        "description": "Automate workflows within Microsoft 365.",
-        "website": "https://powerautomate.microsoft.com",
-        "tags": [
-            "automation",
-            "workflow",
-            "microsoft",
-            "365"
-        ]
-    },
-    {
-        "id": 367,
-        "name": "UiPath",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
-        "website": "https://www.uipath.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 368,
-        "name": "Automation Anywhere",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
-        "website": "https://www.automationanywhere.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    },
-    {
-        "id": 369,
-        "name": "IFTTT",
-        "type": "Automation Platform",
-        "pricing": "Freemium",
-        "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
-        "website": "https://ifttt.com",
-        "tags": [
-            "automation",
-            "applets",
-            "workflows"
-        ]
-    },
-    {
-        "id": 370,
-        "name": "BrowserStack Automate",
-        "type": "Cross-Browser Testing Automation",
-        "pricing": "Paid Plans with Limited Free Trial",
-        "description": "Automate web application testing across various browsers and devices.",
-        "website": "https://www.browserstack.com/automate",
-        "tags": [
-            "testing",
-            "automation",
-            "cross-browser"
-        ]
-    },
-    {
-        "id": 371,
-        "name": "Workfusion",
-        "type": "Robotic Process Automation (RPA)",
-        "pricing": "Paid",
-        "description": "Automate repetitive tasks across various applications and systems.",
-        "website": "https://www.workfusion.com",
-        "tags": [
-            "automation",
-            "rpa",
-            "workflows"
-        ]
-    }
+  {
+    "id": 1,
+    "name": "Thunderbit",
+    "type": "Automation",
+    "pricing": "Free",
+    "description": "Streamline web automation with AI-powered, no-code app creation.",
+    "website": "https://thunderbit.com",
+    "tags": [
+      "workflows",
+      "personal assistant",
+      "low-code/no-code"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Webflow",
+    "type": "Website Builder",
+    "pricing": "Paid",
+    "description": "Create responsive websites visually, without coding.",
+    "website": "https://webflow.com",
+    "tags": [
+      "website",
+      "builder",
+      "responsive",
+      "design",
+      "e-commerce"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Zapier",
+    "type": "Automation Platform",
+    "pricing": "Freemium",
+    "description": "Streamline workflows by connecting hundreds of popular apps and automating repetitive tasks with Zapier's user-friendly interface.",
+    "website": "https://zapier.com",
+    "tags": [
+      "automation",
+      "workflow",
+      "integration"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Adalo",
+    "type": "Low-Code Mobile App Builder",
+    "pricing": "Freemium",
+    "description": "Build custom mobile apps without coding.",
+    "website": "https://www.adalo.com",
+    "tags": [
+      "low-code",
+      "mobile",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bubble",
+    "type": "Web App Builder",
+    "pricing": "Freemium",
+    "description": "Visually design and build multi-user web applications without code.",
+    "website": "https://bubble.io",
+    "tags": [
+      "web",
+      "app",
+      "builder",
+      "multi-user"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Airtable",
+    "type": "Database & Collaboration",
+    "pricing": "Freemium",
+    "description": "A relational database disguised as a spreadsheet. Build powerful workflows and integrations.",
+    "website": "https://airtable.com",
+    "tags": [
+      "database",
+      "collaboration",
+      "workflows",
+      "integration"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Glide",
+    "type": "App Builder",
+    "description": "Turn Google Sheets into mobile apps in minutes. No coding required.",
+    "website": "https://glideapps.com",
+    "pricing": "Freemium",
+    "tags": [
+      "app",
+      "builder",
+      "google",
+      "sheets"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Softr",
+    "type": "Landing Page Builder",
+    "pricing": "Freemium",
+    "description": "Create beautiful and functional landing pages with a drag-and-drop interface.",
+    "website": "https://softr.io",
+    "tags": [
+      "landing",
+      "page",
+      "builder",
+      "design"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "UXPin",
+    "type": "Prototyping Tool",
+    "pricing": "Freemium",
+    "description": "Design interactive prototypes and user flows without writing code.",
+    "website": "https://www.uxpin.com",
+    "tags": [
+      "prototyping",
+      "user",
+      "flow",
+      "design"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Integromat (Now Make)",
+    "type": "Integration Platform",
+    "pricing": "Freemium",
+    "description": "Connect and automate workflows between hundreds of popular applications.",
+    "website": "https://www.make.com",
+    "tags": [
+      "integration",
+      "platform",
+      "automation",
+      "workflows"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Pabbly Connect",
+    "type": "Integration Platform & Workflow Automation",
+    "pricing": "Paid",
+    "description": "Connect apps, automate workflows, and manage data in one place.",
+    "website": "https://www.pabblyconnect.com",
+    "tags": [
+      "integration",
+      "platform",
+      "automation",
+      "data",
+      "management"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "BuildFire",
+    "type": "Mobile App Builder",
+    "pricing": "Paid",
+    "description": "Build native mobile apps with drag-and-drop features and pre-built components.",
+    "website": "https://buildfire.com",
+    "tags": [
+      "mobile",
+      "app",
+      "builder",
+      "native"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Appian",
+    "type": "Low-Code Development Platform",
+    "pricing": "Enterprise",
+    "description": "Build complex enterprise applications with a visual development environment.",
+    "website": "https://appian.com",
+    "tags": [
+      "low-code",
+      "enterprise",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Mendix",
+    "type": "Low-Code Development Platform",
+    "pricing": "Enterprise",
+    "description": "Develop and deploy web and mobile applications faster with a low-code approach.",
+    "website": "https://www.mendix.com",
+    "tags": [
+      "low-code",
+      "web",
+      "mobile",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "OutSystems",
+    "type": "Low-Code Development Platform",
+    "pricing": "Enterprise",
+    "description": "Deliver enterprise-grade applications quickly with a visual development platform.",
+    "website": "https://www.outsystems.com",
+    "tags": [
+      "low-code",
+      "enterprise",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Caspio",
+    "type": "Low-Code Development Platform",
+    "pricing": "Paid",
+    "description": "Build database applications and workflows without coding. Secure and scalable.",
+    "website": "https://www.caspio.com",
+    "tags": [
+      "low-code",
+      "database",
+      "workflows",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Voiceflow",
+    "type": "Conversational AI Platform",
+    "pricing": "Freemium",
+    "description": "Design, develop, and deploy chatbots and voice assistants visually.",
+    "website": "https://voiceflow.com",
+    "tags": [
+      "conversational",
+      "ai",
+      "chatbot",
+      "voice",
+      "assistant"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Botmaker",
+    "type": "Chatbot Development Platform",
+    "pricing": "Freemium",
+    "description": "Build chatbots for various platforms like Facebook Messenger and Telegram.",
+    "website": "https://www.botmaker.com",
+    "tags": [
+      "chatbot",
+      "development",
+      "platform",
+      "facebook",
+      "messenger",
+      "telegram"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "ManyChat",
+    "type": "Chatbot Marketing Platform",
+    "pricing": "Freemium",
+    "description": "Create chatbots for Facebook Messenger to grow leads and sales.",
+    "website": "https://manychat.com",
+    "tags": [
+      "chatbot",
+      "marketing",
+      "facebook",
+      "messenger",
+      "leads",
+      "sales"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "MobileMonkey",
+    "type": "Chatbot Marketing Platform",
+    "pricing": "Freemium",
+    "description": "Build chatbots for Facebook Messenger, SMS, and website to engage customers.",
+    "website": "https://www.mobilemonkey.com",
+    "tags": [
+      "chatbot",
+      "marketing",
+      "facebook",
+      "messenger",
+      "sms",
+      "website",
+      "engage",
+      "customers"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Appsmith",
+    "type": "Low-Code Internal Tool Builder",
+    "pricing": "Freemium",
+    "description": "Build custom internal tools without coding.",
+    "website": "https://appsmith.com",
+    "tags": [
+      "low-code",
+      "internal",
+      "tool",
+      "development"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Betty Blocks",
+    "type": "Low-Code Application Platform",
+    "pricing": "Paid",
+    "description": "Build custom web applications without coding.",
+    "website": "https://www.bettyblocks.com",
+    "tags": [
+      "low-code",
+      "web",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Creatio",
+    "type": "Low-Code CRM and BPM Platform",
+    "pricing": "Paid",
+    "description": "Build custom CRM and BPM applications without coding.",
+    "website": "https://www.creatio.com",
+    "tags": [
+      "low-code",
+      "crm",
+      "bpm",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "GeneXus",
+    "type": "Low-Code Application Platform",
+    "pricing": "Enterprise",
+    "description": "Build enterprise applications across various industries.",
+    "website": "https://www.genexus.com",
+    "tags": [
+      "low-code",
+      "enterprise",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "AppGyver",
+    "type": "Low-Code Mobile App Builder",
+    "pricing": "Freemium",
+    "description": "Build custom mobile apps without coding.",
+    "website": "https://appgyver.com",
+    "tags": [
+      "low-code",
+      "mobile",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "FlutterFlow",
+    "type": "Low-Code Cross-Platform App Builder",
+    "pricing": "Freemium",
+    "description": "Build custom cross-platform mobile apps without coding.",
+    "website": "https://flutterflow.io",
+    "tags": [
+      "low-code",
+      "mobile",
+      "application",
+      "development",
+      "cross-platform"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Thunkable",
+    "type": "Low-Code Mobile App Builder",
+    "pricing": "Freemium",
+    "description": "Build custom mobile apps without coding.",
+    "website": "https://thunkable.com",
+    "tags": [
+      "low-code",
+      "mobile",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Visual LANSA",
+    "type": "Low-Code Application Platform",
+    "pricing": "Paid",
+    "description": "Build custom web and mobile applications without coding.",
+    "website": "https://www.lansatechnology.com/visual-lansa",
+    "tags": [
+      "low-code",
+      "web",
+      "mobile",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Tilda",
+    "type": "Website Builder",
+    "pricing": "Paid",
+    "description": "Create custom websites and landing pages without coding.",
+    "website": "https://tilda.cc",
+    "tags": [
+      "website",
+      "builder",
+      "landing",
+      "page",
+      "design"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Unbounce",
+    "type": "Landing Page Builder",
+    "pricing": "Paid",
+    "description": "Create high-converting landing pages without coding.",
+    "website": "https://unbounce.com",
+    "tags": [
+      "landing",
+      "page",
+      "builder",
+      "conversion",
+      "design"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Elementor",
+    "type": "WordPress Plugin",
+    "pricing": "Freemium",
+    "description": "Create custom WordPress websites with a visual builder.",
+    "website": "https://elementor.com",
+    "tags": [
+      "wordpress",
+      "plugin",
+      "builder",
+      "design"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Divi",
+    "type": "WordPress Theme",
+    "pricing": "Paid",
+    "description": "Create custom WordPress websites with a visual builder.",
+    "website": "https://www.elegantthemes.com/themes/divi",
+    "tags": [
+      "wordpress",
+      "theme",
+      "builder",
+      "design"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Make (formerly Integromat)",
+    "type": "Automation Platform",
+    "pricing": "Paid",
+    "description": "Automate workflows between different apps.",
+    "website": "https://www.make.com",
+    "tags": [
+      "automation",
+      "workflow",
+      "integration"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Tray.io",
+    "type": "Automation Platform",
+    "pricing": "Paid",
+    "description": "Automate workflows between different apps.",
+    "website": "https://tray.io",
+    "tags": [
+      "automation",
+      "workflow",
+      "integration"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Workato",
+    "type": "Automation Platform",
+    "pricing": "Paid",
+    "description": "Automate workflows between different apps.",
+    "website": "https://www.workato.com",
+    "tags": [
+      "automation",
+      "workflow",
+      "integration"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Microsoft Power Automate",
+    "type": "Automation Platform",
+    "pricing": "Paid",
+    "description": "Automate workflows within Microsoft 365.",
+    "website": "https://powerautomate.microsoft.com",
+    "tags": [
+      "automation",
+      "workflow",
+      "microsoft",
+      "365"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "UiPath",
+    "type": "Robotic Process Automation (RPA)",
+    "pricing": "Paid",
+    "description": "Automate complex, repetitive tasks across various desktop and enterprise applications.",
+    "website": "https://www.uipath.com",
+    "tags": [
+      "automation",
+      "rpa",
+      "workflows"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Automation Anywhere",
+    "type": "Robotic Process Automation (RPA)",
+    "pricing": "Paid",
+    "description": "Automate tasks and processes, streamlining workflows and boosting productivity.",
+    "website": "https://www.automationanywhere.com",
+    "tags": [
+      "automation",
+      "rpa",
+      "workflows"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "IFTTT",
+    "type": "Automation Platform",
+    "pricing": "Freemium",
+    "description": "Create applets that connect different apps and services, triggering automated actions based on specific events.",
+    "website": "https://ifttt.com",
+    "tags": [
+      "automation",
+      "applets",
+      "workflows"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "BrowserStack Automate",
+    "type": "Cross-Browser Testing Automation",
+    "pricing": "Paid Plans with Limited Free Trial",
+    "description": "Automate web application testing across various browsers and devices.",
+    "website": "https://www.browserstack.com/automate",
+    "tags": [
+      "testing",
+      "automation",
+      "cross-browser"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Workfusion",
+    "type": "Robotic Process Automation (RPA)",
+    "pricing": "Paid",
+    "description": "Automate repetitive tasks across various applications and systems.",
+    "website": "https://www.workfusion.com",
+    "tags": [
+      "automation",
+      "rpa",
+      "workflows"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Blue Prism",
+    "type": "Robotic Process Automation (RPA)",
+    "pricing": "Paid",
+    "description": "Automate business processes across various industries.",
+    "website": "https://www.blueprism.com",
+    "tags": [
+      "automation",
+      "rpa",
+      "business processes"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Pega Platform",
+    "type": "Low-Code Application Development Platform",
+    "pricing": "Enterprise",
+    "description": "Build and deploy enterprise applications quickly with a low-code approach.",
+    "website": "https://www.pega.com",
+    "tags": [
+      "low-code",
+      "enterprise",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Appian Cloud",
+    "type": "Low-Code Platform as a Service (PaaS)",
+    "pricing": "Enterprise",
+    "description": "Build and deploy enterprise applications in the cloud with a low-code approach.",
+    "website": "https://www.appian.com/products/appian-cloud",
+    "tags": [
+      "low-code",
+      "paas",
+      "cloud",
+      "enterprise",
+      "application"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "K2 Blackpearl",
+    "type": "Low-Code Application Platform",
+    "pricing": "Enterprise",
+    "description": "Build and deploy enterprise applications across various industries.",
+    "website": "https://www.k2.com/products/k2-blackpearl",
+    "tags": [
+      "low-code",
+      "enterprise",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Zoho Creator",
+    "type": "Low-Code Application Platform",
+    "pricing": "Paid",
+    "description": "Build custom business applications without coding.",
+    "website": "https://www.zoho.com/creator",
+    "tags": [
+      "low-code",
+      "business",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Caspio Bridge",
+    "type": "Low-Code Application Platform",
+    "pricing": "Paid",
+    "description": "Build web applications and databases without coding.",
+    "website": "https://www.caspio.com/bridge",
+    "tags": [
+      "low-code",
+      "application",
+      "database",
+      "development"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Knack",
+    "type": "Low-Code Database and Application Platform",
+    "pricing": "Paid",
+    "description": "Build custom databases and applications without coding.",
+    "website": "https://www.knack.com",
+    "tags": [
+      "low-code",
+      "database",
+      "application",
+      "development"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Bubble.io",
+    "type": "Low-Code Web App Builder",
+    "pricing": "Freemium",
+    "description": "Build custom web applications without coding.",
+    "website": "https://bubble.io",
+    "tags": [
+      "low-code",
+      "web",
+      "application",
+      "development"
+    ]
+  }
 ]
