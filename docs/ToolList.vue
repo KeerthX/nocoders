@@ -103,6 +103,7 @@ export default {
   flex-wrap: wrap;
   gap: 15px;
   margin-bottom: 30px;
+ 
 }
 
 select {
@@ -111,7 +112,11 @@ select {
   min-width: 150px;
   border: 1px solid #ccc;
   border-radius: 4px;
-  background-color: #f8f8f8;
+  background-color: transparent;
+}
+
+select option{
+  color: #333;
 }
 
 .tool-grid {
