@@ -1,58 +1,32 @@
 [
   {
     "id": 1,
-    "name": "Webflow",
-    "type": "Website Builder",
+    "name": "Abstra Cloud",
+    "type": "Web App Builder",
     "pricing": "Freemium",
-    "description": "A powerful tool for designing and developing responsive websites without coding.",
-    "website": "https://webflow.com",
+    "description": "Build web apps using Python without managing infrastructure.",
+    "website": "https://abstra.io",
     "tags": [
-      "website",
-      "design",
-      "responsive"
+      "Python",
+      "web app",
+      "serverless"
     ]
   },
   {
     "id": 2,
-    "name": "Bubble",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "A visual programming platform to build web applications without code.",
-    "website": "https://bubble.io",
+    "name": "Actiondesk",
+    "type": "Spreadsheet Automation",
+    "pricing": "Paid",
+    "description": "Automate workflows using a spreadsheet interface.",
+    "website": "https://actiondesk.io",
     "tags": [
-      "app",
-      "web app",
-      "visual programming"
+      "spreadsheet",
+      "automation",
+      "workflow"
     ]
   },
   {
     "id": 3,
-    "name": "Zapier",
-    "type": "Automation",
-    "pricing": "Freemium",
-    "description": "Automates workflows by connecting various apps and services together.",
-    "website": "https://zapier.com",
-    "tags": [
-      "automation",
-      "workflow",
-      "integration"
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Airtable",
-    "type": "Database/Spreadsheets",
-    "pricing": "Freemium",
-    "description": "A flexible spreadsheet-like database tool for organizing anything.",
-    "website": "https://airtable.com",
-    "tags": [
-      "database",
-      "spreadsheet",
-      "organizing"
-    ]
-  },
-  {
-    "id": 5,
     "name": "Adalo",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -65,1359 +39,20 @@
     ]
   },
   {
-    "id": 6,
-    "name": "Glide",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Turns spreadsheets into powerful mobile apps.",
-    "website": "https://glideapps.com",
-    "tags": [
-      "mobile app",
-      "spreadsheet",
-      "easy"
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Integromat",
-    "type": "Automation",
-    "pricing": "Freemium",
-    "description": "Automate tasks and connect apps with powerful workflows.",
-    "website": "https://integromat.com",
-    "tags": [
-      "automation",
-      "workflow",
-      "integration"
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Thunkable",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Drag and drop tool to build mobile apps with no coding required.",
-    "website": "https://thunkable.com",
-    "tags": [
-      "mobile app",
-      "drag-and-drop",
-      "easy"
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Carrd",
-    "type": "Website Builder",
-    "pricing": "Freemium",
-    "description": "Simple, responsive one-page sites for pretty much anything.",
-    "website": "https://carrd.co",
-    "tags": [
-      "website",
-      "one-page",
-      "simple"
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Softr",
-    "type": "Website/App Builder",
-    "pricing": "Freemium",
-    "description": "Build web apps and websites using Airtable as your backend.",
-    "website": "https://softr.io",
-    "tags": [
-      "web app",
-      "website",
-      "Airtable"
-    ]
-  },
-  {
-    "id": 11,
-    "name": "Makerpad",
-    "type": "Learning Platform",
-    "pricing": "Paid",
-    "description": "Community and resources for learning to build no-code tools and automations.",
-    "website": "https://makerpad.co",
-    "tags": [
-      "learning",
-      "community",
-      "automation"
-    ]
-  },
-  {
-    "id": 12,
-    "name": "Voiceflow",
-    "type": "Voice App Builder",
-    "pricing": "Freemium",
-    "description": "Create and prototype voice apps without coding for Alexa and Google Assistant.",
-    "website": "https://voiceflow.com",
-    "tags": [
-      "voice app",
-      "prototyping",
-      "Alexa"
-    ]
-  },
-  {
-    "id": 13,
-    "name": "Typeform",
-    "type": "Form Builder",
-    "pricing": "Freemium",
-    "description": "Build interactive forms and surveys that people enjoy answering.",
-    "website": "https://typeform.com",
-    "tags": [
-      "forms",
-      "surveys",
-      "interactive"
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Tilda",
-    "type": "Website Builder",
-    "pricing": "Freemium",
-    "description": "A design-focused website builder with pre-designed blocks.",
-    "website": "https://tilda.cc",
-    "tags": [
-      "website",
-      "design",
-      "visual"
-    ]
-  },
-  {
-    "id": 15,
-    "name": "Outgrow",
-    "type": "Quiz/Form Builder",
-    "pricing": "Paid",
-    "description": "Create calculators, quizzes, and forms to engage your audience.",
-    "website": "https://outgrow.co",
-    "tags": [
-      "quiz",
-      "forms",
-      "engagement"
-    ]
-  },
-  {
-    "id": 16,
-    "name": "Memberstack",
-    "type": "Membership Sites",
-    "pricing": "Paid",
-    "description": "Add user authentication and payments to your website without coding.",
-    "website": "https://memberstack.com",
-    "tags": [
-      "membership",
-      "payments",
-      "authentication"
-    ]
-  },
-  {
-    "id": 17,
-    "name": "Notion",
-    "type": "Productivity",
-    "pricing": "Freemium",
-    "description": "An all-in-one workspace for notes, tasks, databases, and collaboration.",
-    "website": "https://notion.so",
-    "tags": [
-      "productivity",
-      "notes",
-      "databases"
-    ]
-  },
-  {
-    "id": 18,
-    "name": "Parabola",
-    "type": "Automation",
-    "pricing": "Freemium",
-    "description": "Automate manual data processes by connecting apps and transforming data visually.",
-    "website": "https://parabola.io",
-    "tags": [
-      "automation",
-      "data",
-      "workflow"
-    ]
-  },
-  {
-    "id": 19,
-    "name": "ClickUp",
+    "id": 4,
+    "name": "Agiled",
     "type": "Project Management",
     "pricing": "Freemium",
-    "description": "Manage tasks, projects, and workflows in a single platform.",
-    "website": "https://clickup.com",
+    "description": "All-in-one project management and CRM tool.",
+    "website": "https://agiled.app",
     "tags": [
       "project management",
-      "tasks",
-      "workflow"
-    ]
-  },
-  {
-    "id": 20,
-    "name": "GlooMaps",
-    "type": "Sitemap Builder",
-    "pricing": "Free",
-    "description": "A simple and free tool to create sitemaps quickly.",
-    "website": "https://gloomaps.com",
-    "tags": [
-      "sitemap",
-      "website",
-      "design"
-    ]
-  },
-  {
-    "id": 21,
-    "name": "Chatfuel",
-    "type": "Chatbot Builder",
-    "pricing": "Freemium",
-    "description": "Build AI-powered chatbots for Facebook Messenger without coding.",
-    "website": "https://chatfuel.com",
-    "tags": [
-      "chatbot",
-      "AI",
-      "Facebook Messenger"
-    ]
-  },
-  {
-    "id": 22,
-    "name": "Mailchimp",
-    "type": "Email Marketing",
-    "pricing": "Freemium",
-    "description": "An email marketing platform to create and send email campaigns.",
-    "website": "https://mailchimp.com",
-    "tags": [
-      "email marketing",
-      "campaigns",
-      "automation"
-    ]
-  },
-  {
-    "id": 23,
-    "name": "Webflow CMS",
-    "type": "Content Management",
-    "pricing": "Freemium",
-    "description": "Manage and create content dynamically on your Webflow sites.",
-    "website": "https://webflow.com/cms",
-    "tags": [
-      "CMS",
-      "content",
-      "website"
-    ]
-  },
-  {
-    "id": 24,
-    "name": "Monday.com",
-    "type": "Project Management",
-    "pricing": "Freemium",
-    "description": "A work operating system to manage teams, projects, and workflows.",
-    "website": "https://monday.com",
-    "tags": [
-      "project management",
-      "workflow",
-      "teams"
-    ]
-  },
-  {
-    "id": 25,
-    "name": "Landbot",
-    "type": "Chatbot Builder",
-    "pricing": "Freemium",
-    "description": "Create conversational landing pages and chatbots without coding.",
-    "website": "https://landbot.io",
-    "tags": [
-      "chatbot",
-      "landing page",
-      "conversational"
-    ]
-  },
-  {
-    "id": 26,
-    "name": "Webflow Ecommerce",
-    "type": "Ecommerce",
-    "pricing": "Freemium",
-    "description": "Create custom online stores with Webflow\u2019s ecommerce platform.",
-    "website": "https://webflow.com/ecommerce",
-    "tags": [
-      "ecommerce",
-      "website",
-      "design"
-    ]
-  },
-  {
-    "id": 27,
-    "name": "Podia",
-    "type": "Online Courses",
-    "pricing": "Paid",
-    "description": "Create and sell online courses, memberships, and digital downloads.",
-    "website": "https://podia.com",
-    "tags": [
-      "online courses",
-      "membership",
-      "digital downloads"
-    ]
-  },
-  {
-    "id": 28,
-    "name": "Wix",
-    "type": "Website Builder",
-    "pricing": "Freemium",
-    "description": "Build stunning websites with drag-and-drop tools and customizable templates.",
-    "website": "https://wix.com",
-    "tags": [
-      "website",
-      "drag-and-drop",
-      "customizable"
-    ]
-  },
-  {
-    "id": 29,
-    "name": "Calendly",
-    "type": "Scheduling",
-    "pricing": "Freemium",
-    "description": "Schedule meetings without the back-and-forth emails.",
-    "website": "https://calendly.com",
-    "tags": [
-      "scheduling",
-      "meetings",
-      "calendar"
-    ]
-  },
-  {
-    "id": 30,
-    "name": "Canva",
-    "type": "Design",
-    "pricing": "Freemium",
-    "description": "A graphic design platform to create social media graphics, presentations, and more.",
-    "website": "https://canva.com",
-    "tags": [
-      "design",
-      "graphics",
-      "social media"
-    ]
-  },
-  {
-    "id": 31,
-    "name": "PageCloud",
-    "type": "Website Builder",
-    "pricing": "Paid",
-    "description": "Design websites without coding using intuitive drag-and-drop tools.",
-    "website": "https://pagecloud.com",
-    "tags": [
-      "website",
-      "drag-and-drop",
-      "design"
-    ]
-  },
-  {
-    "id": 32,
-    "name": "Claris FileMaker",
-    "type": "Database/Spreadsheets",
-    "pricing": "Paid",
-    "description": "A custom app builder for building robust business apps without coding.",
-    "website": "https://claris.com/filemaker",
-    "tags": [
-      "database",
-      "business",
-      "app builder"
-    ]
-  },
-  {
-    "id": 33,
-    "name": "Coda",
-    "type": "Productivity",
-    "pricing": "Freemium",
-    "description": "Combines documents, spreadsheets, and apps into one powerful doc.",
-    "website": "https://coda.io",
-    "tags": [
-      "productivity",
-      "docs",
-      "apps"
-    ]
-  },
-  {
-    "id": 34,
-    "name": "Unbounce",
-    "type": "Landing Page Builder",
-    "pricing": "Freemium",
-    "description": "Build and test landing pages to convert more traffic into customers.",
-    "website": "https://unbounce.com",
-    "tags": [
-      "landing pages",
-      "conversions",
-      "design"
-    ]
-  },
-  {
-    "id": 35,
-    "name": "SurveyMonkey",
-    "type": "Survey Builder",
-    "pricing": "Freemium",
-    "description": "Create surveys and analyze the results to gain insights from your audience.",
-    "website": "https://surveymonkey.com",
-    "tags": [
-      "surveys",
-      "insights",
-      "analysis"
-    ]
-  },
-  {
-    "id": 36,
-    "name": "ConvertKit",
-    "type": "Email Marketing",
-    "pricing": "Freemium",
-    "description": "Email marketing tool for creators to grow their audience and build relationships.",
-    "website": "https://convertkit.com",
-    "tags": [
-      "email marketing",
-      "creators",
-      "audience"
-    ]
-  },
-  {
-    "id": 37,
-    "name": "Typeform Logic Jump",
-    "type": "Form Builder",
-    "pricing": "Freemium",
-    "description": "Create forms with conditional logic for personalized experiences.",
-    "website": "https://typeform.com",
-    "tags": [
-      "forms",
-      "logic",
-      "personalization"
-    ]
-  },
-  {
-    "id": 38,
-    "name": "SurveySparrow",
-    "type": "Survey Builder",
-    "pricing": "Freemium",
-    "description": "Create conversational surveys that engage and collect feedback.",
-    "website": "https://surveysparrow.com",
-    "tags": [
-      "surveys",
-      "conversational",
-      "feedback"
-    ]
-  },
-  {
-    "id": 39,
-    "name": "IFTTT",
-    "type": "Automation",
-    "pricing": "Freemium",
-    "description": "Connect and automate apps, devices, and services using applets.",
-    "website": "https://ifttt.com",
-    "tags": [
-      "automation",
-      "integration",
-      "applets"
-    ]
-  },
-  {
-    "id": 40,
-    "name": "Jetboost",
-    "type": "Webflow Add-on",
-    "pricing": "Paid",
-    "description": "Real-time search, filtering, and more for Webflow without coding.",
-    "website": "https://jetboost.io",
-    "tags": [
-      "webflow",
-      "add-on",
-      "search"
-    ]
-  },
-  {
-    "id": 41,
-    "name": "Bravo Studio",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Create native mobile apps from design prototypes without code.",
-    "website": "https://bravostudio.app",
-    "tags": [
-      "mobile app",
-      "prototypes",
-      "native"
-    ]
-  },
-  {
-    "id": 42,
-    "name": "Stacker",
-    "type": "App Builder",
-    "pricing": "Paid",
-    "description": "Turn spreadsheets into powerful applications without coding.",
-    "website": "https://stackerhq.com",
-    "tags": [
-      "app",
-      "spreadsheets",
-      "business"
-    ]
-  },
-  {
-    "id": 43,
-    "name": "Sheet2Site",
-    "type": "Website Builder",
-    "pricing": "Paid",
-    "description": "Create beautiful websites from Google Sheets without writing code.",
-    "website": "https://sheet2site.com",
-    "tags": [
-      "website",
-      "Google Sheets",
-      "simple"
-    ]
-  },
-  {
-    "id": 44,
-    "name": "OutSystems",
-    "type": "App Builder",
-    "pricing": "Paid",
-    "description": "A full-stack application platform to build enterprise apps with no code.",
-    "website": "https://outsystems.com",
-    "tags": [
-      "enterprise",
-      "apps",
-      "full-stack"
-    ]
-  },
-  {
-    "id": 45,
-    "name": "Bildr",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "A no-code platform to build custom web apps and websites from scratch.",
-    "website": "https://bildr.com",
-    "tags": [
-      "web app",
-      "website",
-      "custom"
-    ]
-  },
-  {
-    "id": 46,
-    "name": "Quick Base",
-    "type": "Database/Spreadsheets",
-    "pricing": "Paid",
-    "description": "Build custom business apps and automate workflows with no code.",
-    "website": "https://quickbase.com",
-    "tags": [
-      "business apps",
-      "automation",
-      "workflow"
-    ]
-  },
-  {
-    "id": 47,
-    "name": "Flow XO",
-    "type": "Chatbot Builder",
-    "pricing": "Freemium",
-    "description": "Create AI-powered chatbots for messaging platforms and websites.",
-    "website": "https://flowxo.com",
-    "tags": [
-      "chatbot",
-      "AI",
-      "messaging"
-    ]
-  },
-  {
-    "id": 48,
-    "name": "Formstack",
-    "type": "Form Builder",
-    "pricing": "Paid",
-    "description": "Build forms, automate workflows, and collect payments without coding.",
-    "website": "https://formstack.com",
-    "tags": [
-      "forms",
-      "workflows",
-      "payments"
-    ]
-  },
-  {
-    "id": 49,
-    "name": "AppSheet",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Create apps from data in Google Sheets and Excel.",
-    "website": "https://appsheet.com",
-    "tags": [
-      "app builder",
-      "data-driven",
-      "Google Sheets"
-    ]
-  },
-  {
-    "id": 50,
-    "name": "Pipedream",
-    "type": "Automation",
-    "pricing": "Freemium",
-    "description": "Integrate APIs and automate workflows with code or no code.",
-    "website": "https://pipedream.com",
-    "tags": [
-      "API integration",
-      "automation",
-      "workflow"
-    ]
-  },
-  {
-    "id": 51,
-    "name": "Builder",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Create applications with a no-code interface.",
-    "website": "https://builder.io",
-    "tags": [
-      "app builder",
-      "no-code",
-      "visual"
-    ]
-  },
-  {
-    "id": 52,
-    "name": "Glideapps",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Build mobile apps from spreadsheets quickly.",
-    "website": "https://glideapps.com",
-    "tags": [
-      "mobile app",
-      "spreadsheet",
-      "quick"
-    ]
-  },
-  {
-    "id": 53,
-    "name": "Betty Blocks",
-    "type": "App Builder",
-    "pricing": "Subscription",
-    "description": "Develop enterprise-grade applications without writing code.",
-    "website": "https://bettyblocks.com",
-    "tags": [
-      "app builder",
-      "enterprise",
-      "no-code"
-    ]
-  },
-  {
-    "id": 54,
-    "name": "Quixy",
-    "type": "App Builder",
-    "pricing": "Subscription",
-    "description": "Create applications and automate processes without coding.",
-    "website": "https://quixy.com",
-    "tags": [
-      "app builder",
-      "automation",
-      "processes"
-    ]
-  },
-  {
-    "id": 55,
-    "name": "Tynker",
-    "type": "Education",
-    "pricing": "Freemium",
-    "description": "Teach coding with interactive lessons and visual blocks.",
-    "website": "https://tynker.com",
-    "tags": [
-      "education",
-      "interactive",
-      "coding"
-    ]
-  },
-  {
-    "id": 56,
-    "name": "Appgyver",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Create professional-grade apps with a visual builder.",
-    "website": "https://appgyver.com",
-    "tags": [
-      "app builder",
-      "visual",
-      "professional"
-    ]
-  },
-  {
-    "id": 57,
-    "name": "Plumsail",
-    "type": "Forms/Automation",
-    "pricing": "Subscription",
-    "description": "Create and manage forms and workflows easily.",
-    "website": "https://plumsail.com",
-    "tags": [
-      "forms",
-      "automation",
-      "workflows"
-    ]
-  },
-  {
-    "id": 58,
-    "name": "Pory",
-    "type": "Website Builder",
-    "pricing": "Freemium",
-    "description": "Build custom websites and apps from Airtable data.",
-    "website": "https://pory.io",
-    "tags": [
-      "website",
-      "custom",
-      "Airtable"
-    ]
-  },
-  {
-    "id": 59,
-    "name": "DronaHQ",
-    "type": "App Builder",
-    "pricing": "Subscription",
-    "description": "Build and deploy enterprise-grade applications without coding.",
-    "website": "https://dronahq.com",
-    "tags": [
-      "enterprise",
-      "app builder",
-      "no-code"
-    ]
-  },
-  {
-    "id": 60,
-    "name": "n8n",
-    "type": "Automation",
-    "pricing": "Freemium",
-    "description": "Automate workflows and integrate with various apps.",
-    "website": "https://n8n.io",
-    "tags": [
-      "automation",
-      "integration",
-      "workflows"
-    ]
-  },
-  {
-    "id": 61,
-    "name": "Tylr",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Build custom apps with a focus on ease of use and flexibility.",
-    "website": "https://tylr.io",
-    "tags": [
-      "app builder",
-      "custom",
-      "easy-to-use"
-    ]
-  },
-  {
-    "id": 62,
-    "name": "Glitch",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Create web apps and collaborate with others in real-time.",
-    "website": "https://glitch.com",
-    "tags": [
-      "web app",
-      "collaboration",
-      "real-time"
-    ]
-  },
-  {
-    "id": 63,
-    "name": "Form.io",
-    "type": "Form Builder",
-    "pricing": "Freemium",
-    "description": "Build and manage forms and APIs with a powerful interface.",
-    "website": "https://form.io",
-    "tags": [
-      "forms",
-      "API",
-      "management"
-    ]
-  },
-  {
-    "id": 64,
-    "name": "Retool",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Build internal tools quickly with pre-built components.",
-    "website": "https://retool.com",
-    "tags": [
-      "internal tools",
-      "components",
-      "business"
-    ]
-  },
-  {
-    "id": 65,
-    "name": "Mendix",
-    "type": "App Builder",
-    "pricing": "Paid",
-    "description": "Low-code platform for developing and deploying enterprise apps.",
-    "website": "https://mendix.com",
-    "tags": [
-      "enterprise",
-      "low-code",
-      "deployment"
-    ]
-  },
-  {
-    "id": 66,
-    "name": "Appian",
-    "type": "App Builder",
-    "pricing": "Paid",
-    "description": "Build enterprise-grade apps and workflows with low-code.",
-    "website": "https://appian.com",
-    "tags": [
-      "enterprise",
-      "workflow",
-      "low-code"
-    ]
-  },
-  {
-    "id": 67,
-    "name": "Kissflow",
-    "type": "Workflow Automation",
-    "pricing": "Paid",
-    "description": "Create and manage business processes and workflows.",
-    "website": "https://kissflow.com",
-    "tags": [
-      "workflow",
-      "business process",
-      "automation"
-    ]
-  },
-  {
-    "id": 68,
-    "name": "Ninox",
-    "type": "Database App Builder",
-    "pricing": "Paid",
-    "description": "Create custom business apps with a powerful database.",
-    "website": "https://ninox.com",
-    "tags": [
-      "database",
-      "business apps",
-      "custom"
-    ]
-  },
-  {
-    "id": 69,
-    "name": "Knack",
-    "type": "Database App Builder",
-    "pricing": "Paid",
-    "description": "Build online databases and web apps without coding.",
-    "website": "https://knack.com",
-    "tags": [
-      "database",
-      "web app",
-      "business"
-    ]
-  },
-  {
-    "id": 70,
-    "name": "Zoho Creator",
-    "type": "App Builder",
-    "pricing": "Paid",
-    "description": "Build custom business apps with a low-code platform.",
-    "website": "https://zoho.com/creator",
-    "tags": [
-      "business apps",
-      "low-code",
-      "custom"
-    ]
-  },
-  {
-    "id": 71,
-    "name": "AppMaster",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Generate source code for backend, web, and mobile applications.",
-    "website": "https://appmaster.io",
-    "tags": [
-      "backend",
-      "web",
-      "mobile"
-    ]
-  },
-  {
-    "id": 72,
-    "name": "Fibery",
-    "type": "Workspace",
-    "pricing": "Paid",
-    "description": "Build your own work tool by connecting various features.",
-    "website": "https://fibery.io",
-    "tags": [
-      "workspace",
-      "customizable",
+      "CRM",
       "collaboration"
     ]
   },
   {
-    "id": 73,
-    "name": "Xano",
-    "type": "Backend Builder",
-    "pricing": "Freemium",
-    "description": "Build scalable backends for web and mobile apps without coding.",
-    "website": "https://xano.com",
-    "tags": [
-      "backend",
-      "scalable",
-      "API"
-    ]
-  },
-  {
-    "id": 74,
-    "name": "Fliplet",
-    "type": "App Builder",
-    "pricing": "Paid",
-    "description": "Create enterprise mobile and web apps without coding.",
-    "website": "https://fliplet.com",
-    "tags": [
-      "enterprise",
-      "mobile",
-      "web app"
-    ]
-  },
-  {
-    "id": 75,
-    "name": "Stencyl",
-    "type": "Game Builder",
-    "pricing": "Freemium",
-    "description": "Create 2D games for mobile and web without coding.",
-    "website": "https://stencyl.com",
-    "tags": [
-      "game development",
-      "2D",
-      "mobile"
-    ]
-  },
-  {
-    "id": 76,
-    "name": "Bravo",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Turn Figma designs into native mobile apps.",
-    "website": "https://bravostudio.app",
-    "tags": [
-      "mobile app",
-      "Figma",
-      "design"
-    ]
-  },
-  {
-    "id": 77,
-    "name": "Appy Pie",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Create mobile apps, chatbots, and websites without coding.",
-    "website": "https://appypie.com",
-    "tags": [
-      "mobile app",
-      "chatbot",
-      "website"
-    ]
-  },
-  {
-    "id": 78,
-    "name": "FlutterFlow",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Build native mobile apps using Flutter without coding.",
-    "website": "https://flutterflow.io",
-    "tags": [
-      "mobile app",
-      "Flutter",
-      "visual"
-    ]
-  },
-  {
-    "id": 79,
-    "name": "Racket",
-    "type": "Backend Builder",
-    "pricing": "Paid",
-    "description": "Build and deploy backends for web and mobile apps.",
-    "website": "https://racket.com",
-    "tags": [
-      "backend",
-      "API",
-      "deployment"
-    ]
-  },
-  {
-    "id": 80,
-    "name": "Unqork",
-    "type": "App Builder",
-    "pricing": "Paid",
-    "description": "Enterprise no-code platform for complex applications.",
-    "website": "https://unqork.com",
-    "tags": [
-      "enterprise",
-      "complex",
-      "no-code"
-    ]
-  },
-  {
-    "id": 81,
-    "name": "Treelab",
-    "type": "Diagram Builder",
-    "pricing": "Freemium",
-    "description": "Create flowcharts, mind maps, and org charts easily.",
-    "website": "https://treelab.com",
-    "tags": [
-      "diagrams",
-      "flowcharts",
-      "visualization"
-    ]
-  },
-  {
-    "id": 82,
-    "name": "Jotform",
-    "type": "Form Builder",
-    "pricing": "Freemium",
-    "description": "Create online forms, surveys, and quizzes with ease.",
-    "website": "https://jotform.com",
-    "tags": [
-      "forms",
-      "surveys",
-      "quizzes"
-    ]
-  },
-  {
-    "id": 83,
-    "name": "Nintex",
-    "type": "Workflow Automation",
-    "pricing": "Paid",
-    "description": "Automate business processes and workflows.",
-    "website": "https://nintex.com",
-    "tags": [
-      "workflow",
-      "automation",
-      "business process"
-    ]
-  },
-  {
-    "id": 84,
-    "name": "Creatio",
-    "type": "CRM/BPM Platform",
-    "pricing": "Paid",
-    "description": "Build and automate CRM and business processes.",
-    "website": "https://creatio.com",
-    "tags": [
-      "CRM",
-      "BPM",
-      "low-code"
-    ]
-  },
-  {
-    "id": 85,
-    "name": "Kintone",
-    "type": "Database App Builder",
-    "pricing": "Paid",
-    "description": "Create custom business apps on a flexible cloud platform.",
-    "website": "https://kintone.com",
-    "tags": [
-      "database",
-      "business apps",
-      "cloud"
-    ]
-  },
-  {
-    "id": 86,
-    "name": "Caspio",
-    "type": "Database App Builder",
-    "pricing": "Freemium",
-    "description": "Build database applications without coding.",
-    "website": "https://caspio.com",
-    "tags": [
-      "database",
-      "web app",
-      "business"
-    ]
-  },
-  {
-    "id": 87,
-    "name": "Directual",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Create scalable web apps and APIs without coding.",
-    "website": "https://directual.com",
-    "tags": [
-      "web app",
-      "API",
-      "scalable"
-    ]
-  },
-  {
-    "id": 88,
-    "name": "Stackby",
-    "type": "Spreadsheet Database",
-    "pricing": "Freemium",
-    "description": "Combine spreadsheets, databases, and APIs in one platform.",
-    "website": "https://stackby.com",
-    "tags": [
-      "spreadsheet",
-      "database",
-      "API"
-    ]
-  },
-  {
-    "id": 89,
-    "name": "Nocode.tech",
-    "type": "Directory",
-    "pricing": "Free",
-    "description": "A curated directory of no-code tools and resources.",
-    "website": "https://nocode.tech",
-    "tags": [
-      "directory",
-      "resources",
-      "tools"
-    ]
-  },
-  {
-    "id": 90,
-    "name": "Bubble.io",
-    "type": "App Builder",
-    "pricing": "Freemium",
-    "description": "Build and host web applications without coding.",
-    "website": "https://bubble.io",
-    "tags": [
-      "web app",
-      "hosting",
-      "visual"
-    ]
-  },
-  {
-    "id": 91,
-    "name": "Powerapps",
-    "type": "App Builder",
-    "pricing": "Paid",
-    "description": "Microsoft's low-code platform for building business apps.",
-    "website": "https://powerapps.microsoft.com",
-    "tags": [
-      "Microsoft",
-      "business apps",
-      "low-code"
-    ]
-  },
-  {
-    "id": 92,
-    "name": "Alpha Anywhere",
-    "type": "App Builder",
-    "pricing": "Paid",
-    "description": "Build web and mobile apps with a low-code approach.",
-    "website": "https://alphasoftware.com",
-    "tags": [
-      "web app",
-      "mobile",
-      "low-code"
-    ]
-  },
-  {
-    "id": 93,
-    "name": "Automate.io",
-    "type": "Automation",
-    "pricing": "Freemium",
-    "description": "Connect apps and automate business workflows.",
-    "website": "https://automate.io",
-    "tags": [
-      "automation",
-      "integration",
-      "workflow"
-    ]
-  },
-  {
-    "id": 94,
-    "name": "Tadabase",
-    "type": "Database App Builder",
-    "pricing": "Paid",
-    "description": "Build custom database apps without coding.",
-    "website": "https://tadabase.io",
-    "tags": [
-      "database",
-      "custom apps",
-      "no-code"
-    ]
-  },
-  {
-    "id": 95,
-    "name": "FlowForma",
-    "type": "Process Automation",
-    "pricing": "Paid",
-    "description": "No-code business process management and workflow automation.",
-    "website": "https://flowforma.com",
-    "tags": [
-      "workflow",
-      "BPM",
-      "automation"
-    ]
-  },
-  {
-    "id": 96,
-    "name": "Buildfire",
-    "type": "Mobile App Builder",
-    "pricing": "Paid",
-    "description": "Create custom mobile apps for iOS and Android.",
-    "website": "https://buildfire.com",
-    "tags": [
-      "mobile app",
-      "iOS",
-      "Android"
-    ]
-  },
-  {
-    "id": 97,
-    "name": "Boundless",
-    "type": "Web Design",
-    "pricing": "Freemium",
-    "description": "Design and launch websites visually.",
-    "website": "https://boundlesslabs.com",
-    "tags": [
-      "web design",
-      "visual",
-      "launch"
-    ]
-  },
-  {
-    "id": 98,
-    "name": "Shoutem",
-    "type": "Mobile App Builder",
-    "pricing": "Paid",
-    "description": "Build native mobile apps for iOS and Android.",
-    "website": "https://shoutem.com",
-    "tags": [
-      "mobile app",
-      "native",
-      "cross-platform"
-    ]
-  },
-  {
-    "id": 99,
-    "name": "Ycode",
-    "type": "Web App Builder",
-    "pricing": "Freemium",
-    "description": "Visual web app builder with a focus on clean code.",
-    "website": "https://ycode.com",
-    "tags": [
-      "web app",
-      "visual",
-      "clean code"
-    ]
-  },
-  {
-    "id": 100,
-    "name": "Clutch",
-    "type": "Mobile App Builder",
-    "pricing": "Paid",
-    "description": "Build native mobile apps from Figma designs.",
-    "website": "https://clutch.io",
-    "tags": [
-      "mobile app",
-      "Figma",
-      "design"
-    ]
-  },
-  {
-    "id": 101,
-    "name": "Busywork",
-    "type": "Workflow Automation",
-    "pricing": "Paid",
-    "description": "Automate business processes with a visual interface.",
-    "website": "https://busywork.co",
-    "tags": [
-      "workflow",
-      "automation",
-      "visual"
-    ]
-  },
-  {
-    "id": 102,
-    "name": "Thunkable X",
-    "type": "Mobile App Builder",
-    "pricing": "Freemium",
-    "description": "Create native mobile apps with drag-and-drop.",
-    "website": "https://thunkable.com",
-    "tags": [
-      "mobile app",
-      "drag-and-drop",
-      "native"
-    ]
-  },
-  {
-    "id": 103,
-    "name": "Forest Admin",
-    "type": "Admin Panel Builder",
-    "pricing": "Freemium",
-    "description": "Build and deploy custom admin panels.",
-    "website": "https://forest-admin.com",
-    "tags": [
-      "admin panel",
-      "custom",
-      "deployment"
-    ]
-  },
-  {
-    "id": 104,
-    "name": "Budibase",
-    "type": "Web App Builder",
-    "pricing": "Open Source",
-    "description": "Open-source low-code platform for building business apps.",
-    "website": "https://budibase.com",
-    "tags": [
-      "open-source",
-      "business apps",
-      "low-code"
-    ]
-  },
-  {
-    "id": 105,
-    "name": "Draftbit",
-    "type": "Mobile App Builder",
-    "pricing": "Paid",
-    "description": "Build native mobile apps visually and export the code.",
-    "website": "https://draftbit.com",
-    "tags": [
-      "mobile app",
-      "visual",
-      "code export"
-    ]
-  },
-  {
-    "id": 106,
-    "name": "Aire",
-    "type": "Integration Platform",
-    "pricing": "Paid",
-    "description": "Connect apps and automate workflows without coding.",
-    "website": "https://aire.io",
-    "tags": [
-      "integration",
-      "automation",
-      "no-code"
-    ]
-  },
-  {
-    "id": 107,
-    "name": "Anvil",
-    "type": "Web App Builder",
-    "pricing": "Freemium",
-    "description": "Build web apps with nothing but Python.",
-    "website": "https://anvil.works",
-    "tags": [
-      "web app",
-      "Python",
-      "full-stack"
-    ]
-  },
-  {
-    "id": 108,
-    "name": "Noloco",
-    "type": "Web App Builder",
-    "pricing": "Paid",
-    "description": "Build custom portals and internal tools.",
-    "website": "https://noloco.io",
-    "tags": [
-      "portals",
-      "internal tools",
-      "custom"
-    ]
-  },
-  {
-    "id": 109,
-    "name": "Miro",
-    "type": "Collaboration",
-    "pricing": "Freemium",
-    "description": "Online collaborative whiteboard platform.",
-    "website": "https://miro.com",
-    "tags": [
-      "collaboration",
-      "whiteboard",
-      "visual"
-    ]
-  },
-  {
-    "id": 110,
+    "id": 5,
     "name": "Agorapulse",
     "type": "Social Media Management",
     "pricing": "Paid",
@@ -1430,20 +65,2165 @@
     ]
   },
   {
-    "id": 111,
-    "name": "Memberium",
-    "type": "Membership Sites",
+    "id": 6,
+    "name": "Aire",
+    "type": "Integration Platform",
     "pricing": "Paid",
-    "description": "Create and manage membership sites.",
-    "website": "https://memberium.com",
+    "description": "Connect apps and automate workflows without coding.",
+    "website": "https://aire.io",
     "tags": [
-      "membership",
-      "WordPress",
-      "integration"
+      "integration",
+      "automation",
+      "no-code"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Airkit",
+    "type": "Customer Experience",
+    "pricing": "Paid",
+    "description": "Build digital customer experiences and journeys.",
+    "website": "https://airkit.com",
+    "tags": [
+      "CX",
+      "journey builder",
+      "omnichannel"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Airtable",
+    "type": "Database/Spreadsheets",
+    "pricing": "Freemium",
+    "description": "A flexible spreadsheet-like database tool for organizing anything.",
+    "website": "https://airtable.com",
+    "tags": [
+      "database",
+      "spreadsheet",
+      "organizing"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Airtable Interfaces",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Create custom interfaces and apps on top of Airtable bases.",
+    "website": "https://airtable.com/interfaces",
+    "tags": [
+      "Airtable",
+      "custom interface",
+      "data-driven"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Albato",
+    "type": "Integration Platform",
+    "pricing": "Freemium",
+    "description": "Connect apps and automate workflows.",
+    "website": "https://albato.com",
+    "tags": [
+      "integration",
+      "automation",
+      "workflow"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Alpha Anywhere",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Build web and mobile apps with a low-code approach.",
+    "website": "https://alphasoftware.com",
+    "tags": [
+      "web app",
+      "mobile",
+      "low-code"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Amplication",
+    "type": "Backend Builder",
+    "pricing": "Open Source",
+    "description": "Generate Node.js applications with GraphQL and REST APIs.",
+    "website": "https://amplication.com",
+    "tags": [
+      "backend",
+      "Node.js",
+      "open-source"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Anvil",
+    "type": "Web App Builder",
+    "pricing": "Freemium",
+    "description": "Build web apps with nothing but Python.",
+    "website": "https://anvil.works",
+    "tags": [
+      "web app",
+      "Python",
+      "full-stack"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "AppGini",
+    "type": "Database App Builder",
+    "pricing": "Paid",
+    "description": "Generate PHP web database applications from MySQL databases.",
+    "website": "https://bigprof.com/appgini",
+    "tags": [
+      "PHP",
+      "MySQL",
+      "database"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Appgyver",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Create professional-grade apps with a visual builder.",
+    "website": "https://appgyver.com",
+    "tags": [
+      "app builder",
+      "visual",
+      "professional"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Appian",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Build enterprise-grade apps and workflows with low-code.",
+    "website": "https://appian.com",
+    "tags": [
+      "enterprise",
+      "workflow",
+      "low-code"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "AppMaster",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Generate source code for backend, web, and mobile applications.",
+    "website": "https://appmaster.io",
+    "tags": [
+      "backend",
+      "web",
+      "mobile"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "AppSheet",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Create apps from data in Google Sheets and Excel.",
+    "website": "https://appsheet.com",
+    "tags": [
+      "app builder",
+      "data-driven",
+      "Google Sheets"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Appsmith",
+    "type": "Internal Tools",
+    "pricing": "Open Source",
+    "description": "Build custom internal tools with a drag-and-drop interface.",
+    "website": "https://appsmith.com",
+    "tags": [
+      "internal tools",
+      "open-source",
+      "drag-and-drop"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Appy Pie",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Create mobile apps, chatbots, and websites without coding.",
+    "website": "https://appypie.com",
+    "tags": [
+      "mobile app",
+      "chatbot",
+      "website"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Appy Pie AppMakr",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Create Android and iOS apps without coding.",
+    "website": "https://appypie.com/app-builder",
+    "tags": [
+      "mobile app",
+      "Android",
+      "iOS"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Appy Pie Connect",
+    "type": "Automation",
+    "pricing": "Freemium",
+    "description": "Connect apps and automate workflows without coding.",
+    "website": "https://appypie.com/connect",
+    "tags": [
+      "automation",
+      "integration",
+      "workflow"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Apteo",
+    "type": "AI-Powered Analytics",
+    "pricing": "Paid",
+    "description": "Build predictive models without coding.",
+    "website": "https://apteo.co",
+    "tags": [
+      "AI",
+      "analytics",
+      "predictive modeling"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Arengu",
+    "type": "Form Builder",
+    "pricing": "Freemium",
+    "description": "Create forms with advanced features and integrations.",
+    "website": "https://arengu.com",
+    "tags": [
+      "forms",
+      "integrations",
+      "authentication"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Autocode",
+    "type": "API Integration",
+    "pricing": "Freemium",
+    "description": "Build, host, and scale APIs and automations.",
+    "website": "https://autocode.com",
+    "tags": [
+      "API",
+      "automation",
+      "serverless"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Automate.io",
+    "type": "Automation",
+    "pricing": "Freemium",
+    "description": "Connect apps and automate business workflows.",
+    "website": "https://automate.io",
+    "tags": [
+      "automation",
+      "integration",
+      "workflow"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Azion",
+    "type": "Edge Computing",
+    "pricing": "Paid",
+    "description": "Build and run serverless applications at the edge.",
+    "website": "https://azion.com",
+    "tags": [
+      "edge computing",
+      "serverless",
+      "CDN"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Azuqua",
+    "type": "Integration Platform",
+    "pricing": "Paid",
+    "description": "Connect cloud applications and automate business processes.",
+    "website": "https://azuqua.com",
+    "tags": [
+      "integration",
+      "automation",
+      "cloud"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Backendless",
+    "type": "Backend as a Service",
+    "pricing": "Freemium",
+    "description": "Provides backend, API services, and a visual app builder.",
+    "website": "https://backendless.com",
+    "tags": [
+      "backend",
+      "API",
+      "visual development"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Balsamiq",
+    "type": "UI Mockup Tool",
+    "pricing": "Paid",
+    "description": "Create low-fidelity wireframes and UI mockups.",
+    "website": "https://balsamiq.com",
+    "tags": [
+      "wireframing",
+      "UI design",
+      "prototyping"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Bardeen",
+    "type": "Workflow Automation",
+    "pricing": "Freemium",
+    "description": "Automate repetitive tasks across multiple apps.",
+    "website": "https://bardeen.ai",
+    "tags": [
+      "automation",
+      "productivity",
+      "AI"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Baserow",
+    "type": "Database",
+    "pricing": "Open Source",
+    "description": "Open-source no-code database and Airtable alternative.",
+    "website": "https://baserow.io",
+    "tags": [
+      "database",
+      "open-source",
+      "Airtable alternative"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Beaconstac",
+    "type": "QR Code Platform",
+    "pricing": "Paid",
+    "description": "Create and manage QR codes for marketing campaigns.",
+    "website": "https://beaconstac.com",
+    "tags": [
+      "QR codes",
+      "marketing",
+      "mobile"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Beamer",
+    "type": "User Engagement",
+    "pricing": "Paid",
+    "description": "Announce updates and collect feedback from users.",
+    "website": "https://getbeamer.com",
+    "tags": [
+      "user engagement",
+      "feedback",
+      "announcements"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Betty Blocks",
+    "type": "App Builder",
+    "pricing": "Subscription",
+    "description": "Develop enterprise-grade applications without writing code.",
+    "website": "https://bettyblocks.com",
+    "tags": [
+      "app builder",
+      "enterprise",
+      "no-code"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Bigin",
+    "type": "CRM",
+    "pricing": "Paid",
+    "description": "Simple CRM for small businesses.",
+    "website": "https://bigin.com",
+    "tags": [
+      "CRM",
+      "small business",
+      "sales"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Bildr",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "A no-code platform to build custom web apps and websites from scratch.",
+    "website": "https://bildr.com",
+    "tags": [
+      "web app",
+      "website",
+      "custom"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Blackbird",
+    "type": "Integration Platform",
+    "pricing": "Paid",
+    "description": "Connect apps and data sources without code.",
+    "website": "https://blackbird.io",
+    "tags": [
+      "integration",
+      "automation",
+      "data"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Blink",
+    "type": "Intranet Platform",
+    "pricing": "Paid",
+    "description": "Build company intranets and internal communication tools.",
+    "website": "https://joinblink.com",
+    "tags": [
+      "intranet",
+      "internal comms",
+      "employee engagement"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Blocs",
+    "type": "Website Builder",
+    "pricing": "Paid",
+    "description": "Create responsive websites visually on Mac.",
+    "website": "https://blocsapp.com",
+    "tags": [
+      "website",
+      "Mac",
+      "visual design"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Blynk",
+    "type": "IoT Platform",
+    "pricing": "Freemium",
+    "description": "Build Internet of Things applications without coding.",
+    "website": "https://blynk.io",
+    "tags": [
+      "IoT",
+      "mobile app",
+      "hardware"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Boundless",
+    "type": "Web Design",
+    "pricing": "Freemium",
+    "description": "Design and launch websites visually.",
+    "website": "https://boundlesslabs.com",
+    "tags": [
+      "web design",
+      "visual",
+      "launch"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Boundlesslabs",
+    "type": "Web Design",
+    "pricing": "Freemium",
+    "description": "Design and launch websites visually.",
+    "website": "https://boundlesslabs.com",
+    "tags": [
+      "web design",
+      "visual editor",
+      "launch"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Bravo",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Turn Figma designs into native mobile apps.",
+    "website": "https://bravostudio.app",
+    "tags": [
+      "mobile app",
+      "Figma",
+      "design"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Bravo Studio",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Create native mobile apps from design prototypes without code.",
+    "website": "https://bravostudio.app",
+    "tags": [
+      "mobile app",
+      "prototypes",
+      "native"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "BreakSafe",
+    "type": "App Testing",
+    "pricing": "Paid",
+    "description": "Test mobile apps on real devices without coding.",
+    "website": "https://breaksafe.com",
+    "tags": [
+      "app testing",
+      "mobile",
+      "QA"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Brisk Logic",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Build web and mobile apps with a visual interface.",
+    "website": "https://brisklogic.co",
+    "tags": [
+      "app builder",
+      "web",
+      "mobile"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Bubble",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "A visual programming platform to build web applications without code.",
+    "website": "https://bubble.io",
+    "tags": [
+      "app",
+      "web app",
+      "visual programming"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Bubble.io",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Build and host web applications without coding.",
+    "website": "https://bubble.io",
+    "tags": [
+      "web app",
+      "hosting",
+      "visual"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Budibase",
+    "type": "Web App Builder",
+    "pricing": "Open Source",
+    "description": "Open-source low-code platform for building business apps.",
+    "website": "https://budibase.com",
+    "tags": [
+      "open-source",
+      "business apps",
+      "low-code"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Buildbox",
+    "type": "Game Builder",
+    "pricing": "Paid",
+    "description": "Create games for mobile and desktop without coding.",
+    "website": "https://buildbox.com",
+    "tags": [
+      "game development",
+      "no-code",
+      "mobile"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Builder",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Create applications with a no-code interface.",
+    "website": "https://builder.io",
+    "tags": [
+      "app builder",
+      "no-code",
+      "visual"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Builder.ai",
+    "type": "App Development",
+    "pricing": "Paid",
+    "description": "Build custom software using AI-powered tools.",
+    "website": "https://builder.ai",
+    "tags": [
+      "AI",
+      "app development",
+      "custom software"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Buildfire",
+    "type": "Mobile App Builder",
+    "pricing": "Paid",
+    "description": "Create custom mobile apps for iOS and Android.",
+    "website": "https://buildfire.com",
+    "tags": [
+      "mobile app",
+      "iOS",
+      "Android"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Busywork",
+    "type": "Workflow Automation",
+    "pricing": "Paid",
+    "description": "Automate business processes with a visual interface.",
+    "website": "https://busywork.co",
+    "tags": [
+      "workflow",
+      "automation",
+      "visual"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Byteline",
+    "type": "Backend Builder",
+    "pricing": "Freemium",
+    "description": "Build and deploy custom APIs without coding.",
+    "website": "https://byteline.io",
+    "tags": [
+      "API",
+      "backend",
+      "no-code"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Calendly",
+    "type": "Scheduling",
+    "pricing": "Freemium",
+    "description": "Schedule meetings without the back-and-forth emails.",
+    "website": "https://calendly.com",
+    "tags": [
+      "scheduling",
+      "meetings",
+      "calendar"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Canva",
+    "type": "Design",
+    "pricing": "Freemium",
+    "description": "A graphic design platform to create social media graphics, presentations, and more.",
+    "website": "https://canva.com",
+    "tags": [
+      "design",
+      "graphics",
+      "social media"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Carrd",
+    "type": "Website Builder",
+    "pricing": "Freemium",
+    "description": "Simple, responsive one-page sites for pretty much anything.",
+    "website": "https://carrd.co",
+    "tags": [
+      "website",
+      "one-page",
+      "simple"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Caspio",
+    "type": "Database App Builder",
+    "pricing": "Freemium",
+    "description": "Build database applications without coding.",
+    "website": "https://caspio.com",
+    "tags": [
+      "database",
+      "web app",
+      "business"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Causal",
+    "type": "Financial Modeling",
+    "pricing": "Freemium",
+    "description": "Create interactive financial models and forecasts.",
+    "website": "https://causal.app",
+    "tags": [
+      "financial modeling",
+      "forecasting",
+      "data visualization"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Causeway",
+    "type": "Spreadsheet Automation",
+    "pricing": "Paid",
+    "description": "Automate complex Excel and Google Sheets workflows.",
+    "website": "https://causeway.io",
+    "tags": [
+      "spreadsheet",
+      "automation",
+      "workflow"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Celsius",
+    "type": "IoT Platform",
+    "pricing": "Paid",
+    "description": "Build and manage IoT solutions without coding.",
+    "website": "https://celsiusiot.com",
+    "tags": [
+      "IoT",
+      "hardware",
+      "connectivity"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Chatfuel",
+    "type": "Chatbot Builder",
+    "pricing": "Freemium",
+    "description": "Build AI-powered chatbots for Facebook Messenger without coding.",
+    "website": "https://chatfuel.com",
+    "tags": [
+      "chatbot",
+      "AI",
+      "Facebook Messenger"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Citymakerapp",
+    "type": "Urban Planning",
+    "pricing": "Paid",
+    "description": "Create and visualize urban development projects.",
+    "website": "https://citymakerapp.com",
+    "tags": [
+      "urban planning",
+      "visualization",
+      "collaboration"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Clappia",
+    "type": "Business App Builder",
+    "pricing": "Paid",
+    "description": "Create custom business apps without coding.",
+    "website": "https://clappia.com",
+    "tags": [
+      "business apps",
+      "workflow",
+      "forms"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Claris FileMaker",
+    "type": "Database/Spreadsheets",
+    "pricing": "Paid",
+    "description": "A custom app builder for building robust business apps without coding.",
+    "website": "https://claris.com/filemaker",
+    "tags": [
+      "database",
+      "business",
+      "app builder"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Cleo",
+    "type": "AI Writing Assistant",
+    "pricing": "Freemium",
+    "description": "Generate marketing copy and content using AI.",
+    "website": "https://meetcleo.com",
+    "tags": [
+      "AI",
+      "writing",
+      "marketing"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "ClickUp",
+    "type": "Project Management",
+    "pricing": "Freemium",
+    "description": "Manage tasks, projects, and workflows in a single platform.",
+    "website": "https://clickup.com",
+    "tags": [
+      "project management",
+      "tasks",
+      "workflow"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Cliniko",
+    "type": "Healthcare Management",
+    "pricing": "Paid",
+    "description": "Practice management software for healthcare providers.",
+    "website": "https://cliniko.com",
+    "tags": [
+      "healthcare",
+      "practice management",
+      "scheduling"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "CloudApper",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Create custom business apps for various industries.",
+    "website": "https://cloudapper.com",
+    "tags": [
+      "business apps",
+      "industry-specific",
+      "customization"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Clutch",
+    "type": "Mobile App Builder",
+    "pricing": "Paid",
+    "description": "Build native mobile apps from Figma designs.",
+    "website": "https://clutch.io",
+    "tags": [
+      "mobile app",
+      "Figma",
+      "design"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Coda",
+    "type": "Productivity",
+    "pricing": "Freemium",
+    "description": "Combines documents, spreadsheets, and apps into one powerful doc.",
+    "website": "https://coda.io",
+    "tags": [
+      "productivity",
+      "docs",
+      "apps"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Codecademy",
+    "type": "Learning Platform",
+    "pricing": "Freemium",
+    "description": "Interactive platform for learning to code.",
+    "website": "https://codecademy.com",
+    "tags": [
+      "education",
+      "coding",
+      "interactive"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Codelessly",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Convert Figma designs to Flutter code.",
+    "website": "https://codelessly.io",
+    "tags": [
+      "Flutter",
+      "Figma",
+      "design-to-code"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Codemap",
+    "type": "API Builder",
+    "pricing": "Freemium",
+    "description": "Design, build, and ship APIs without coding.",
+    "website": "https://codemap.ai",
+    "tags": [
+      "API",
+      "visual development",
+      "deployment"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Codemix",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Build web and mobile apps using a visual interface.",
+    "website": "https://codemix.com",
+    "tags": [
+      "app builder",
+      "web",
+      "mobile"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Cogram",
+    "type": "AI Meeting Assistant",
+    "pricing": "Paid",
+    "description": "AI-powered tool for transcribing and summarizing meetings.",
+    "website": "https://cogram.com",
+    "tags": [
+      "AI",
+      "transcription",
+      "meeting notes"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Cohesive",
+    "type": "AI-Powered Development",
+    "pricing": "Paid",
+    "description": "Build software using natural language and AI.",
+    "website": "https://cohesive.so",
+    "tags": [
+      "AI",
+      "natural language",
+      "development"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Compt",
+    "type": "Employee Benefits",
+    "pricing": "Paid",
+    "description": "Personalized employee perk stipends platform.",
+    "website": "https://compt.io",
+    "tags": [
+      "HR",
+      "employee benefits",
+      "perks"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Conquest",
+    "type": "Game Development",
+    "pricing": "Paid",
+    "description": "Create 2D and 3D games without coding.",
+    "website": "https://conquest.dev",
+    "tags": [
+      "game development",
+      "2D",
+      "3D"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Convertigo",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Low-code platform for building mobile and web applications.",
+    "website": "https://convertigo.com",
+    "tags": [
+      "mobile app",
+      "web app",
+      "low-code"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "ConvertKit",
+    "type": "Email Marketing",
+    "pricing": "Freemium",
+    "description": "Email marketing tool for creators to grow their audience and build relationships.",
+    "website": "https://convertkit.com",
+    "tags": [
+      "email marketing",
+      "creators",
+      "audience"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Convo",
+    "type": "Workplace Communication",
+    "pricing": "Paid",
+    "description": "Enterprise social networking and collaboration platform.",
+    "website": "https://convo.com",
+    "tags": [
+      "communication",
+      "collaboration",
+      "enterprise"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Coscreen",
+    "type": "Screen Sharing",
+    "pricing": "Paid",
+    "description": "Collaborative screen sharing for remote teams.",
+    "website": "https://coscreen.co",
+    "tags": [
+      "screen sharing",
+      "collaboration",
+      "remote work"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Cotalker",
+    "type": "Workplace OS",
+    "pricing": "Paid",
+    "description": "Build custom workflows and automate processes.",
+    "website": "https://cotalker.com",
+    "tags": [
+      "workflow",
+      "automation",
+      "collaboration"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Coupler.io",
+    "type": "Data Integration",
+    "pricing": "Freemium",
+    "description": "Automate data flows between apps and databases.",
+    "website": "https://coupler.io",
+    "tags": [
+      "data integration",
+      "automation",
+      "analytics"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Craftbase",
+    "type": "Database Builder",
+    "pricing": "Paid",
+    "description": "Create and manage databases with a visual interface.",
+    "website": "https://craftbase.io",
+    "tags": [
+      "database",
+      "visual development",
+      "data management"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Crayon",
+    "type": "AI Design Tool",
+    "pricing": "Freemium",
+    "description": "Generate and edit images using AI.",
+    "website": "https://crayon.com",
+    "tags": [
+      "AI",
+      "design",
+      "image generation"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Creatio",
+    "type": "CRM/BPM Platform",
+    "pricing": "Paid",
+    "description": "Build and automate CRM and business processes.",
+    "website": "https://creatio.com",
+    "tags": [
+      "CRM",
+      "BPM",
+      "low-code"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Crowd.dev",
+    "type": "Community Management",
+    "pricing": "Open Source",
+    "description": "Open-source community management and engagement platform.",
+    "website": "https://crowd.dev",
+    "tags": [
+      "community",
+      "engagement",
+      "open-source"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Crowdbotics",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Build and deploy web and mobile apps using React and Django.",
+    "website": "https://crowdbotics.com",
+    "tags": [
+      "React",
+      "Django",
+      "app development"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Crust",
+    "type": "CRM/ERP Platform",
+    "pricing": "Open Source",
+    "description": "Unified work management platform with low-code capabilities.",
+    "website": "https://crust.tech",
+    "tags": [
+      "CRM",
+      "ERP",
+      "open-source"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Cutout.pro",
+    "type": "AI Image Editing",
+    "pricing": "Freemium",
+    "description": "Remove backgrounds and edit images using AI.",
+    "website": "https://cutout.pro",
+    "tags": [
+      "AI",
+      "image editing",
+      "design"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Cyclr",
+    "type": "Integration Platform",
+    "pricing": "Paid",
+    "description": "Embed integrations into SaaS applications.",
+    "website": "https://cyclr.com",
+    "tags": [
+      "integration",
+      "SaaS",
+      "API"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Dacor",
+    "type": "Website Builder",
+    "pricing": "Freemium",
+    "description": "Create websites with a focus on design and creativity.",
+    "website": "https://dacor.io",
+    "tags": [
+      "website",
+      "design",
+      "creativity"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Dashblock",
+    "type": "Web Automation",
+    "pricing": "Paid",
+    "description": "Turn any website into an API without coding.",
+    "website": "https://dashblock.com",
+    "tags": [
+      "web scraping",
+      "API",
+      "automation"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Datamosh",
+    "type": "Data Visualization",
+    "pricing": "Paid",
+    "description": "Create interactive data visualizations without coding.",
+    "website": "https://datamosh.io",
+    "tags": [
+      "data visualization",
+      "interactive",
+      "analytics"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Deci",
+    "type": "AI Optimization",
+    "pricing": "Paid",
+    "description": "Optimize deep learning models for production.",
+    "website": "https://deci.ai",
+    "tags": [
+      "AI",
+      "deep learning",
+      "optimization"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Delio",
+    "type": "Investment Management",
+    "pricing": "Paid",
+    "description": "Private markets technology for financial institutions.",
+    "website": "https://deliowealth.com",
+    "tags": [
+      "fintech",
+      "investment",
+      "private markets"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Deskera",
+    "type": "ERP",
+    "pricing": "Paid",
+    "description": "All-in-one business management software.",
+    "website": "https://deskera.com",
+    "tags": [
+      "ERP",
+      "accounting",
+      "HR"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "DhiWise",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Convert designs to React, React Native, and Flutter code.",
+    "website": "https://dhiwise.com",
+    "tags": [
+      "React",
+      "Flutter",
+      "design-to-code"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Diagram",
+    "type": "AI Design Tool",
+    "pricing": "Paid",
+    "description": "Generate UI designs using AI.",
+    "website": "https://diagram.com",
+    "tags": [
+      "AI",
+      "UI design",
+      "prototyping"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Diffbot",
+    "type": "Web Scraping",
+    "pricing": "Paid",
+    "description": "Extract structured data from websites using AI.",
+    "website": "https://diffbot.com",
+    "tags": [
+      "web scraping",
+      "AI",
+      "data extraction"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Directual",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Create scalable web apps and APIs without coding.",
+    "website": "https://directual.com",
+    "tags": [
+      "web app",
+      "API",
+      "scalable"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Documate",
+    "type": "Document Automation",
+    "pricing": "Paid",
+    "description": "Create document automation workflows for legal professionals.",
+    "website": "https://documate.org",
+    "tags": [
+      "legal tech",
+      "document automation",
+      "workflow"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Doppler",
+    "type": "Secrets Management",
+    "pricing": "Freemium",
+    "description": "Manage secrets and app configurations securely.",
+    "website": "https://doppler.com",
+    "tags": [
+      "DevOps",
+      "security",
+      "configuration management"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Dorik",
+    "type": "Website Builder",
+    "pricing": "Paid",
+    "description": "Build responsive websites with a drag-and-drop interface.",
+    "website": "https://dorik.com",
+    "tags": [
+      "website builder",
+      "responsive",
+      "drag-and-drop"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Draftbit",
+    "type": "Mobile App Builder",
+    "pricing": "Paid",
+    "description": "Build native mobile apps visually and export the code.",
+    "website": "https://draftbit.com",
+    "tags": [
+      "mobile app",
+      "visual",
+      "code export"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "DragApp",
+    "type": "Web App Builder",
+    "pricing": "Freemium",
+    "description": "Build web applications using drag-and-drop components.",
+    "website": "https://dragapp.com",
+    "tags": [
+      "web app",
+      "drag-and-drop",
+      "visual development"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Drapcode",
+    "type": "Web App Builder",
+    "pricing": "Freemium",
+    "description": "Build web applications using a visual interface.",
+    "website": "https://drapcode.com",
+    "tags": [
+      "web app",
+      "visual development",
+      "drag-and-drop"
     ]
   },
   {
     "id": 112,
+    "name": "Draxlr",
+    "type": "Analytics Platform",
+    "pricing": "Paid",
+    "description": "Create custom analytics dashboards without SQL.",
+    "website": "https://draxlr.com",
+    "tags": [
+      "analytics",
+      "dashboards",
+      "no-code"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "DronaHQ",
+    "type": "App Builder",
+    "pricing": "Subscription",
+    "description": "Build and deploy enterprise-grade applications without coding.",
+    "website": "https://dronahq.com",
+    "tags": [
+      "enterprise",
+      "app builder",
+      "no-code"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Dynaboard",
+    "type": "Web App Builder",
+    "pricing": "Paid",
+    "description": "Build web apps with a spreadsheet-like interface.",
+    "website": "https://dynaboard.com",
+    "tags": [
+      "web app",
+      "spreadsheet",
+      "visual"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Easybase",
+    "type": "Backend Platform",
+    "pricing": "Freemium",
+    "description": "Build and deploy backends for web and mobile apps.",
+    "website": "https://easybase.io",
+    "tags": [
+      "backend",
+      "database",
+      "API"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Elementor",
+    "type": "WordPress Page Builder",
+    "pricing": "Freemium",
+    "description": "Create custom WordPress designs with a visual drag-and-drop editor.",
+    "website": "https://elementor.com",
+    "tags": [
+      "WordPress",
+      "page builder",
+      "visual editor"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Elfsight",
+    "type": "Widget Builder",
+    "pricing": "Freemium",
+    "description": "Create and embed customizable widgets for websites.",
+    "website": "https://elfsight.com",
+    "tags": [
+      "widgets",
+      "customization",
+      "embed"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Elocance",
+    "type": "Audio Content",
+    "pricing": "Paid",
+    "description": "Convert text content into audio using AI voices.",
+    "website": "https://elocance.com",
+    "tags": [
+      "audio",
+      "AI",
+      "content creation"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Empion",
+    "type": "Employee Engagement",
+    "pricing": "Paid",
+    "description": "Build employee engagement programs without coding.",
+    "website": "https://empion.ai",
+    "tags": [
+      "HR",
+      "employee engagement",
+      "no-code"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Enzyme",
+    "type": "QA Management",
+    "pricing": "Paid",
+    "description": "Manage and automate software testing processes.",
+    "website": "https://enzyme.com",
+    "tags": [
+      "QA",
+      "testing",
+      "project management"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Erxes",
+    "type": "CRM Platform",
+    "pricing": "Open Source",
+    "description": "Open-source alternative to Hubspot, with marketing and sales tools.",
+    "website": "https://erxes.io",
+    "tags": [
+      "CRM",
+      "marketing",
+      "open-source"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "EspoCRM",
+    "type": "CRM",
+    "pricing": "Open Source",
+    "description": "Customizable open-source CRM platform.",
+    "website": "https://espocrm.com",
+    "tags": [
+      "CRM",
+      "open-source",
+      "customization"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Evervault",
+    "type": "Data Privacy",
+    "pricing": "Paid",
+    "description": "Encrypt and process sensitive data without changing code.",
+    "website": "https://evervault.com",
+    "tags": [
+      "encryption",
+      "data privacy",
+      "compliance"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Evidence",
+    "type": "Data Visualization",
+    "pricing": "Open Source",
+    "description": "Create data visualizations from SQL queries.",
+    "website": "https://evidence.dev",
+    "tags": [
+      "data visualization",
+      "SQL",
+      "open-source"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Evryplace",
+    "type": "Virtual Events",
+    "pricing": "Paid",
+    "description": "Create immersive 3D virtual events and spaces.",
+    "website": "https://evryplace.com",
+    "tags": [
+      "virtual events",
+      "3D",
+      "immersive"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "ExpoLab",
+    "type": "Mobile App Builder",
+    "pricing": "Freemium",
+    "description": "Build React Native apps using a visual interface.",
+    "website": "https://expolab.io",
+    "tags": [
+      "mobile app",
+      "React Native",
+      "visual development"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Feathery",
+    "type": "Form Builder",
+    "pricing": "Freemium",
+    "description": "Build complex forms and workflows without coding.",
+    "website": "https://feathery.io",
+    "tags": [
+      "forms",
+      "workflow",
+      "customization"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Felvin",
+    "type": "AI App Builder",
+    "pricing": "Paid",
+    "description": "Build AI-powered apps without coding.",
+    "website": "https://felvin.com",
+    "tags": [
+      "AI",
+      "app development",
+      "no-code"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Fera",
+    "type": "E-commerce",
+    "pricing": "Paid",
+    "description": "Add social proof and marketing tools to online stores.",
+    "website": "https://fera.ai",
+    "tags": [
+      "e-commerce",
+      "marketing",
+      "social proof"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Fibery",
+    "type": "Workspace",
+    "pricing": "Paid",
+    "description": "Build your own work tool by connecting various features.",
+    "website": "https://fibery.io",
+    "tags": [
+      "workspace",
+      "customizable",
+      "collaboration"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Figjam",
+    "type": "Collaboration",
+    "pricing": "Freemium",
+    "description": "Online whiteboard for team collaboration.",
+    "website": "https://figma.com/figjam",
+    "tags": [
+      "collaboration",
+      "whiteboard",
+      "brainstorming"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Figma",
+    "type": "Design & Prototyping",
+    "pricing": "Freemium",
+    "description": "Design, prototype, and collaborate on interface designs.",
+    "website": "https://figma.com",
+    "tags": [
+      "design",
+      "prototyping",
+      "collaboration"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "FileMaker",
+    "type": "Database",
+    "pricing": "Paid",
+    "description": "Create custom apps for business needs.",
+    "website": "https://claris.com/filemaker",
+    "tags": [
+      "database",
+      "app development",
+      "business"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Firedrop",
+    "type": "AI Web Design",
+    "pricing": "Freemium",
+    "description": "Design websites using AI-powered suggestions.",
+    "website": "https://firedrop.ai",
+    "tags": [
+      "web design",
+      "AI",
+      "automation"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Firetable",
+    "type": "Database",
+    "pricing": "Open Source",
+    "description": "Spreadsheet-database hybrid with a powerful data editor.",
+    "website": "https://firetable.io",
+    "tags": [
+      "database",
+      "spreadsheet",
+      "open-source"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Flazio",
+    "type": "Website Builder",
+    "pricing": "Freemium",
+    "description": "Create websites with a focus on design and ease of use.",
+    "website": "https://flazio.com",
+    "tags": [
+      "website builder",
+      "design",
+      "user-friendly"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Fleeting Notes",
+    "type": "Note-taking",
+    "pricing": "Freemium",
+    "description": "Take quick notes that sync with your favorite apps.",
+    "website": "https://fleeting-notes.com",
+    "tags": [
+      "note-taking",
+      "productivity",
+      "integration"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Fliplet",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Create enterprise mobile and web apps without coding.",
+    "website": "https://fliplet.com",
+    "tags": [
+      "enterprise",
+      "mobile",
+      "web app"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Flodesk",
+    "type": "Email Marketing",
+    "pricing": "Paid",
+    "description": "Design-focused email marketing platform for small businesses.",
+    "website": "https://flodesk.com",
+    "tags": [
+      "email marketing",
+      "design",
+      "small business"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Flow XO",
+    "type": "Chatbot Builder",
+    "pricing": "Freemium",
+    "description": "Create AI-powered chatbots for messaging platforms and websites.",
+    "website": "https://flowxo.com",
+    "tags": [
+      "chatbot",
+      "AI",
+      "messaging"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "FlowForma",
+    "type": "Process Automation",
+    "pricing": "Paid",
+    "description": "No-code business process management and workflow automation.",
+    "website": "https://flowforma.com",
+    "tags": [
+      "workflow",
+      "BPM",
+      "automation"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "FlutterFlow",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Build native mobile apps using Flutter without coding.",
+    "website": "https://flutterflow.io",
+    "tags": [
+      "mobile app",
+      "Flutter",
+      "visual"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Forest Admin",
+    "type": "Admin Panel Builder",
+    "pricing": "Freemium",
+    "description": "Build and deploy custom admin panels.",
+    "website": "https://forest-admin.com",
+    "tags": [
+      "admin panel",
+      "custom",
+      "deployment"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Forestadmin",
+    "type": "Admin Panel Builder",
+    "pricing": "Freemium",
+    "description": "Build and deploy custom admin panels.",
+    "website": "https://forestadmin.com",
+    "tags": [
+      "admin panel",
+      "customization",
+      "deployment"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Form.io",
+    "type": "Form Builder",
+    "pricing": "Freemium",
+    "description": "Build and manage forms and APIs with a powerful interface.",
+    "website": "https://form.io",
+    "tags": [
+      "forms",
+      "API",
+      "management"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Formaloo",
+    "type": "Form & Survey Builder",
+    "pricing": "Freemium",
+    "description": "Create smart forms, surveys, and automation workflows.",
+    "website": "https://formaloo.com",
+    "tags": [
+      "forms",
+      "surveys",
+      "automation"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Formcake",
+    "type": "Form Backend",
+    "pricing": "Freemium",
+    "description": "Handle form submissions for static websites.",
+    "website": "https://formcake.com",
+    "tags": [
+      "forms",
+      "API",
+      "backend"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Formsort",
+    "type": "Form Builder",
+    "pricing": "Paid",
+    "description": "Create multi-step forms with advanced logic.",
+    "website": "https://formsort.com",
+    "tags": [
+      "forms",
+      "multi-step",
+      "logic"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Formstack",
+    "type": "Form Builder",
+    "pricing": "Paid",
+    "description": "Build forms, automate workflows, and collect payments without coding.",
+    "website": "https://formstack.com",
+    "tags": [
+      "forms",
+      "workflows",
+      "payments"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Forte",
+    "type": "AI Music Creation",
+    "pricing": "Freemium",
+    "description": "Create original music using AI.",
+    "website": "https://fortemusic.io",
+    "tags": [
+      "AI",
+      "music creation",
+      "creativity"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Foxly",
+    "type": "Customer Feedback",
+    "pricing": "Paid",
+    "description": "Collect and analyze customer feedback.",
+    "website": "https://foxly.com",
+    "tags": [
+      "customer feedback",
+      "analytics",
+      "surveys"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Frappe",
+    "type": "ERP Framework",
+    "pricing": "Open Source",
+    "description": "Build and customize business apps on an open-source ERP.",
+    "website": "https://frappeframework.com",
+    "tags": [
+      "ERP",
+      "open-source",
+      "customization"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Frontly",
+    "type": "Web App Builder",
+    "pricing": "Paid",
+    "description": "Build web apps using pre-built UI components.",
+    "website": "https://frontly.com",
+    "tags": [
+      "web app",
+      "UI components",
+      "rapid development"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Frost",
+    "type": "UI Design",
+    "pricing": "Paid",
+    "description": "Generate UI designs from low-fidelity wireframes.",
+    "website": "https://frost.app",
+    "tags": [
+      "UI design",
+      "AI",
+      "wireframing"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Fusebit",
+    "type": "API Integration",
+    "pricing": "Paid",
+    "description": "Build and deploy API integrations quickly.",
+    "website": "https://fusebit.io",
+    "tags": [
+      "API",
+      "integration",
+      "developer tools"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Gadget",
+    "type": "Web App Builder",
+    "pricing": "Paid",
+    "description": "Build and deploy web apps with a focus on data modeling.",
+    "website": "https://gadget.dev",
+    "tags": [
+      "web app",
+      "data modeling",
+      "deployment"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Gaiatext",
+    "type": "Text Analysis",
+    "pricing": "Paid",
+    "description": "Analyze and visualize text data without coding.",
+    "website": "https://gaiatext.com",
+    "tags": [
+      "text analysis",
+      "visualization",
+      "NLP"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Gamesalad",
+    "type": "Game Builder",
+    "pricing": "Freemium",
+    "description": "Create and publish 2D games without coding.",
+    "website": "https://gamesalad.com",
+    "tags": [
+      "game development",
+      "2D",
+      "publishing"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Ganttpro",
+    "type": "Project Management",
+    "pricing": "Paid",
+    "description": "Create and manage Gantt charts for project planning.",
+    "website": "https://ganttpro.com",
+    "tags": [
+      "project management",
+      "Gantt charts",
+      "planning"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Geekbot",
+    "type": "Team Communication",
+    "pricing": "Paid",
+    "description": "Run asynchronous stand-ups and surveys in Slack.",
+    "website": "https://geekbot.com",
+    "tags": [
+      "team communication",
+      "Slack",
+      "remote work"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Genially",
+    "type": "Presentation Builder",
+    "pricing": "Freemium",
+    "description": "Create interactive and animated content.",
+    "website": "https://genial.ly",
+    "tags": [
+      "presentations",
+      "interactive",
+      "animation"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Getform",
+    "type": "Form Backend",
+    "pricing": "Freemium",
+    "description": "Manage form submissions for static websites.",
+    "website": "https://getform.io",
+    "tags": [
+      "forms",
+      "API",
+      "backend"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Ghost",
+    "type": "Publishing Platform",
+    "pricing": "Open Source",
+    "description": "Professional publishing platform for creators and businesses.",
+    "website": "https://ghost.org",
+    "tags": [
+      "publishing",
+      "blogging",
+      "membership"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Givebutter",
+    "type": "Fundraising",
+    "pricing": "Freemium",
+    "description": "All-in-one fundraising platform for nonprofits.",
+    "website": "https://givebutter.com",
+    "tags": [
+      "fundraising",
+      "nonprofit",
+      "donations"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Glair",
+    "type": "AI Vision Platform",
+    "pricing": "Paid",
+    "description": "Build and deploy computer vision solutions.",
+    "website": "https://glair.ai",
+    "tags": [
+      "AI",
+      "computer vision",
+      "no-code"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Glide",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Turns spreadsheets into powerful mobile apps.",
+    "website": "https://glideapps.com",
+    "tags": [
+      "mobile app",
+      "spreadsheet",
+      "easy"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Glideapps",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Build mobile apps from spreadsheets quickly.",
+    "website": "https://glideapps.com",
+    "tags": [
+      "mobile app",
+      "spreadsheet",
+      "quick"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Glitch",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Create web apps and collaborate with others in real-time.",
+    "website": "https://glitch.com",
+    "tags": [
+      "web app",
+      "collaboration",
+      "real-time"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "GlooMaps",
+    "type": "Sitemap Builder",
+    "pricing": "Free",
+    "description": "A simple and free tool to create sitemaps quickly.",
+    "website": "https://gloomaps.com",
+    "tags": [
+      "sitemap",
+      "website",
+      "design"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Glow",
+    "type": "Podcast Monetization",
+    "pricing": "Paid",
+    "description": "Monetize podcasts with memberships and subscriptions.",
+    "website": "https://glow.fm",
+    "tags": [
+      "podcast",
+      "monetization",
+      "subscriptions"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Glowapp",
+    "type": "Knowledge Base",
+    "pricing": "Freemium",
+    "description": "Create and share visual guides and SOPs.",
+    "website": "https://glowapp.com",
+    "tags": [
+      "knowledge base",
+      "documentation",
+      "visual guides"
+    ]
+  },
+  {
+    "id": 172,
     "name": "Gmelius",
     "type": "Collaboration",
     "pricing": "Freemium",
@@ -1456,59 +2236,449 @@
     ]
   },
   {
-    "id": 113,
-    "name": "Netlify",
-    "type": "Web Hosting",
-    "pricing": "Freemium",
-    "description": "Build, deploy, and host web projects.",
-    "website": "https://netlify.com",
-    "tags": [
-      "web hosting",
-      "deployment",
-      "serverless"
-    ]
-  },
-  {
-    "id": 114,
-    "name": "Scribe",
-    "type": "Documentation",
-    "pricing": "Freemium",
-    "description": "Automatically generate step-by-step guides.",
-    "website": "https://scribehow.com",
-    "tags": [
-      "documentation",
-      "guides",
-      "automation"
-    ]
-  },
-  {
-    "id": 115,
-    "name": "Paperform",
-    "type": "Form Builder",
-    "pricing": "Paid",
-    "description": "Create beautiful forms and product pages.",
-    "website": "https://paperform.co",
-    "tags": [
-      "forms",
-      "product pages",
-      "design"
-    ]
-  },
-  {
-    "id": 116,
-    "name": "Rippling",
+    "id": 173,
+    "name": "GoHarbor",
     "type": "HR Management",
     "pricing": "Paid",
-    "description": "Manage HR, IT, and Finance in one platform.",
-    "website": "https://rippling.com",
+    "description": "All-in-one HR management platform for small businesses.",
+    "website": "https://goharbor.com",
     "tags": [
       "HR",
-      "IT",
+      "small business",
       "employee management"
     ]
   },
   {
-    "id": 117,
+    "id": 174,
+    "name": "Goodbarber",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Create native mobile apps and progressive web apps.",
+    "website": "https://goodbarber.com",
+    "tags": [
+      "mobile app",
+      "PWA",
+      "native"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Grandpal",
+    "type": "IoT Platform",
+    "pricing": "Paid",
+    "description": "Build and manage IoT applications without coding.",
+    "website": "https://grandpal.com",
+    "tags": [
+      "IoT",
+      "automation",
+      "no-code"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Growform",
+    "type": "Form Builder",
+    "pricing": "Paid",
+    "description": "Create multi-step forms optimized for conversions.",
+    "website": "https://growform.io",
+    "tags": [
+      "forms",
+      "multi-step",
+      "conversion optimization"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Guru",
+    "type": "Knowledge Management",
+    "pricing": "Paid",
+    "description": "Organize and share team knowledge.",
+    "website": "https://getguru.com",
+    "tags": [
+      "knowledge management",
+      "collaboration",
+      "documentation"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Hasura",
+    "type": "GraphQL Backend",
+    "pricing": "Open Source",
+    "description": "Instantly create GraphQL APIs for your data.",
+    "website": "https://hasura.io",
+    "tags": [
+      "GraphQL",
+      "API",
+      "backend"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Heap",
+    "type": "Product Analytics",
+    "pricing": "Freemium",
+    "description": "Automatically capture web and mobile app usage data.",
+    "website": "https://heap.io",
+    "tags": [
+      "analytics",
+      "user behavior",
+      "automatic tracking"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Helloguru",
+    "type": "AI Business Analysis",
+    "pricing": "Paid",
+    "description": "Generate business insights using AI.",
+    "website": "https://helloguru.io",
+    "tags": [
+      "AI",
+      "business analysis",
+      "data insights"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Hexometer",
+    "type": "Website Monitoring",
+    "pricing": "Paid",
+    "description": "Monitor websites for issues and performance.",
+    "website": "https://hexometer.com",
+    "tags": [
+      "website monitoring",
+      "performance",
+      "alerts"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Hivebrite",
+    "type": "Community Platform",
+    "pricing": "Paid",
+    "description": "Build and manage online communities.",
+    "website": "https://hivebrite.com",
+    "tags": [
+      "community management",
+      "engagement",
+      "networking"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Honeycode",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Build mobile and web apps powered by AWS.",
+    "website": "https://honeycode.aws",
+    "tags": [
+      "mobile app",
+      "web app",
+      "AWS"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Hoptree",
+    "type": "Decision Trees",
+    "pricing": "Freemium",
+    "description": "Create interactive decision trees and flowcharts.",
+    "website": "https://hoptree.com",
+    "tags": [
+      "decision trees",
+      "flowcharts",
+      "interactive"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Hotglue",
+    "type": "Data Integration",
+    "pricing": "Paid",
+    "description": "Build and embed data integrations into your product.",
+    "website": "https://hotglue.com",
+    "tags": [
+      "data integration",
+      "API",
+      "embedded"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Hovu",
+    "type": "Rewards Platform",
+    "pricing": "Paid",
+    "description": "Create and manage customer loyalty programs.",
+    "website": "https://hovu.co",
+    "tags": [
+      "loyalty programs",
+      "customer retention",
+      "rewards"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "IFTTT",
+    "type": "Automation",
+    "pricing": "Freemium",
+    "description": "Connect and automate apps, devices, and services using applets.",
+    "website": "https://ifttt.com",
+    "tags": [
+      "automation",
+      "integration",
+      "applets"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Instapage",
+    "type": "Landing Page Builder",
+    "pricing": "Paid",
+    "description": "Create and optimize post-click landing pages.",
+    "website": "https://instapage.com",
+    "tags": [
+      "landing page",
+      "optimization",
+      "marketing"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Integromat",
+    "type": "Automation",
+    "pricing": "Freemium",
+    "description": "Automate tasks and connect apps with powerful workflows.",
+    "website": "https://integromat.com",
+    "tags": [
+      "automation",
+      "workflow",
+      "integration"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Involve.me",
+    "type": "Form/Quiz Builder",
+    "pricing": "Paid",
+    "description": "Create interactive forms, quizzes, and calculators.",
+    "website": "https://involve.me",
+    "tags": [
+      "forms",
+      "quizzes",
+      "interactive"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Jemi",
+    "type": "Website Builder",
+    "pricing": "Freemium",
+    "description": "Create personal websites and portfolios.",
+    "website": "https://jemi.app",
+    "tags": [
+      "website",
+      "portfolio",
+      "personal branding"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "JetAdmin",
+    "type": "Internal Tools",
+    "pricing": "Freemium",
+    "description": "Build internal tools and customer portals without coding.",
+    "website": "https://jetadmin.io",
+    "tags": [
+      "internal tools",
+      "customer portal",
+      "no-code"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Jetboost",
+    "type": "Webflow Add-on",
+    "pricing": "Paid",
+    "description": "Real-time search, filtering, and more for Webflow without coding.",
+    "website": "https://jetboost.io",
+    "tags": [
+      "webflow",
+      "add-on",
+      "search"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Jotform",
+    "type": "Form Builder",
+    "pricing": "Freemium",
+    "description": "Create online forms, surveys, and quizzes with ease.",
+    "website": "https://jotform.com",
+    "tags": [
+      "forms",
+      "surveys",
+      "quizzes"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Jotform Apps",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Create no-code apps and mobile forms.",
+    "website": "https://jotform.com/products/apps",
+    "tags": [
+      "mobile app",
+      "forms",
+      "no-code"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Jutsu.ai",
+    "type": "AI Development",
+    "pricing": "Paid",
+    "description": "Build and deploy AI models without coding.",
+    "website": "https://jutsu.ai",
+    "tags": [
+      "AI",
+      "machine learning",
+      "no-code"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Keypatron",
+    "type": "Music Creation",
+    "pricing": "Paid",
+    "description": "Create music using AI-powered tools.",
+    "website": "https://keypatron.com",
+    "tags": [
+      "music",
+      "AI",
+      "creativity"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Kintone",
+    "type": "Database App Builder",
+    "pricing": "Paid",
+    "description": "Create custom business apps on a flexible cloud platform.",
+    "website": "https://kintone.com",
+    "tags": [
+      "database",
+      "business apps",
+      "cloud"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Kissflow",
+    "type": "Workflow Automation",
+    "pricing": "Paid",
+    "description": "Create and manage business processes and workflows.",
+    "website": "https://kissflow.com",
+    "tags": [
+      "workflow",
+      "business process",
+      "automation"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Knack",
+    "type": "Database App Builder",
+    "pricing": "Paid",
+    "description": "Build online databases and web apps without coding.",
+    "website": "https://knack.com",
+    "tags": [
+      "database",
+      "web app",
+      "business"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Knowee",
+    "type": "Info Product Creation",
+    "pricing": "Paid",
+    "description": "Create and sell online courses and digital products.",
+    "website": "https://knowee.co",
+    "tags": [
+      "online courses",
+      "digital products",
+      "e-learning"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Koding",
+    "type": "Cloud IDE",
+    "pricing": "Paid",
+    "description": "Cloud-based development environment for teams.",
+    "website": "https://koding.com",
+    "tags": [
+      "cloud IDE",
+      "collaboration",
+      "development"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Kody",
+    "type": "API Builder",
+    "pricing": "Freemium",
+    "description": "Build APIs visually without writing code.",
+    "website": "https://kody.ai",
+    "tags": [
+      "API",
+      "visual development",
+      "no-code"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Kony",
+    "type": "App Development Platform",
+    "pricing": "Paid",
+    "description": "Enterprise-grade multi-channel app development platform.",
+    "website": "https://kony.com",
+    "tags": [
+      "enterprise",
+      "multi-channel",
+      "app development"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "K-Queue",
+    "type": "Workflow Automation",
+    "pricing": "Paid",
+    "description": "Automate and manage complex, multi-step workflows.",
+    "website": "https://cis-k-queue.com",
+    "tags": [
+      "workflow",
+      "automation",
+      "management"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Landbot",
+    "type": "Chatbot Builder",
+    "pricing": "Freemium",
+    "description": "Create conversational landing pages and chatbots without coding.",
+    "website": "https://landbot.io",
+    "tags": [
+      "chatbot",
+      "landing page",
+      "conversational"
+    ]
+  },
+  {
+    "id": 207,
     "name": "Leadpages",
     "type": "Landing Page Builder",
     "pricing": "Paid",
@@ -1521,7 +2691,930 @@
     ]
   },
   {
-    "id": 118,
+    "id": 208,
+    "name": "Legalife",
+    "type": "Legal Document Creator",
+    "pricing": "Paid",
+    "description": "Create legal documents without a lawyer.",
+    "website": "https://legalife.fr",
+    "tags": [
+      "legal",
+      "documents",
+      "automation"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "LightGuide",
+    "type": "AR Work Instructions",
+    "pricing": "Paid",
+    "description": "Create augmented reality work instructions for manufacturing.",
+    "website": "https://lightguidesys.com",
+    "tags": [
+      "AR",
+      "manufacturing",
+      "work instructions"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Lobe",
+    "type": "AI Model Builder",
+    "pricing": "Free",
+    "description": "Train machine learning models with a visual interface.",
+    "website": "https://lobe.ai",
+    "tags": [
+      "AI",
+      "machine learning",
+      "visual"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Lowdefy",
+    "type": "Web App Builder",
+    "pricing": "Open Source",
+    "description": "Build internal tools, admin panels, and BI dashboards with YAML.",
+    "website": "https://lowdefy.com",
+    "tags": [
+      "internal tools",
+      "YAML",
+      "open-source"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Lumavate",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Create progressive web apps without coding.",
+    "website": "https://lumavate.com",
+    "tags": [
+      "PWA",
+      "web app",
+      "no-code"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Macon",
+    "type": "Chatbot Builder",
+    "pricing": "Freemium",
+    "description": "Build AI-powered chatbots without coding.",
+    "website": "https://macon.ai",
+    "tags": [
+      "chatbot",
+      "AI",
+      "no-code"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Mailchimp",
+    "type": "Email Marketing",
+    "pricing": "Freemium",
+    "description": "An email marketing platform to create and send email campaigns.",
+    "website": "https://mailchimp.com",
+    "tags": [
+      "email marketing",
+      "campaigns",
+      "automation"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Make",
+    "type": "Automation",
+    "pricing": "Freemium",
+    "description": "Visual platform to design, build, and automate workflows.",
+    "website": "https://make.com",
+    "tags": [
+      "automation",
+      "workflow",
+      "visual"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Makerpad",
+    "type": "Learning Platform",
+    "pricing": "Paid",
+    "description": "Community and resources for learning to build no-code tools and automations.",
+    "website": "https://makerpad.co",
+    "tags": [
+      "learning",
+      "community",
+      "automation"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "MakerSuite",
+    "type": "AI Development",
+    "pricing": "Free",
+    "description": "Google's no-code AI model development platform.",
+    "website": "https://makersuite.google.com",
+    "tags": [
+      "AI",
+      "Google",
+      "prototyping"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Meiro Composer",
+    "type": "Customer Data Platform",
+    "pricing": "Paid",
+    "description": "Build and manage customer data platforms.",
+    "website": "https://meiro.io",
+    "tags": [
+      "CDP",
+      "data management",
+      "marketing"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Memberful",
+    "type": "Membership Platform",
+    "pricing": "Paid",
+    "description": "Sell memberships and digital products on your own website.",
+    "website": "https://memberful.com",
+    "tags": [
+      "membership",
+      "e-commerce",
+      "integration"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Memberium",
+    "type": "Membership Sites",
+    "pricing": "Paid",
+    "description": "Create and manage membership sites.",
+    "website": "https://memberium.com",
+    "tags": [
+      "membership",
+      "WordPress",
+      "integration"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Memberstack",
+    "type": "Membership Sites",
+    "pricing": "Paid",
+    "description": "Add user authentication and payments to your website without coding.",
+    "website": "https://memberstack.com",
+    "tags": [
+      "membership",
+      "payments",
+      "authentication"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Mendix",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Low-code platform for developing and deploying enterprise apps.",
+    "website": "https://mendix.com",
+    "tags": [
+      "enterprise",
+      "low-code",
+      "deployment"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Metabase",
+    "type": "Business Intelligence",
+    "pricing": "Open Source",
+    "description": "Create dashboards and visualize data without SQL.",
+    "website": "https://metabase.com",
+    "tags": [
+      "BI",
+      "data visualization",
+      "open-source"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Miro",
+    "type": "Collaboration",
+    "pricing": "Freemium",
+    "description": "Online collaborative whiteboard platform.",
+    "website": "https://miro.com",
+    "tags": [
+      "collaboration",
+      "whiteboard",
+      "visual"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Monday.com",
+    "type": "Project Management",
+    "pricing": "Freemium",
+    "description": "A work operating system to manage teams, projects, and workflows.",
+    "website": "https://monday.com",
+    "tags": [
+      "project management",
+      "workflow",
+      "teams"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "n8n",
+    "type": "Automation",
+    "pricing": "Freemium",
+    "description": "Automate workflows and integrate with various apps.",
+    "website": "https://n8n.io",
+    "tags": [
+      "automation",
+      "integration",
+      "workflows"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "n8n.io",
+    "type": "Workflow Automation",
+    "pricing": "Open Source",
+    "description": "Extendable workflow automation tool with fair-code distribution.",
+    "website": "https://n8n.io",
+    "tags": [
+      "workflow",
+      "automation",
+      "open-source"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Nativebase",
+    "type": "UI Component Library",
+    "pricing": "Open Source",
+    "description": "Accessible, utility-first component library for React Native.",
+    "website": "https://nativebase.io",
+    "tags": [
+      "React Native",
+      "UI components",
+      "accessibility"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Navattic",
+    "type": "Product Demo",
+    "pricing": "Paid",
+    "description": "Create interactive product demos without coding.",
+    "website": "https://navattic.com",
+    "tags": [
+      "product demo",
+      "interactive",
+      "SaaS"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Netlify",
+    "type": "Web Hosting",
+    "pricing": "Freemium",
+    "description": "Build, deploy, and host web projects.",
+    "website": "https://netlify.com",
+    "tags": [
+      "web hosting",
+      "deployment",
+      "serverless"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Ninox",
+    "type": "Database App Builder",
+    "pricing": "Paid",
+    "description": "Create custom business apps with a powerful database.",
+    "website": "https://ninox.com",
+    "tags": [
+      "database",
+      "business apps",
+      "custom"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Nintex",
+    "type": "Workflow Automation",
+    "pricing": "Paid",
+    "description": "Automate business processes and workflows.",
+    "website": "https://nintex.com",
+    "tags": [
+      "workflow",
+      "automation",
+      "business process"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Nocode.tech",
+    "type": "Directory",
+    "pricing": "Free",
+    "description": "A curated directory of no-code tools and resources.",
+    "website": "https://nocode.tech",
+    "tags": [
+      "directory",
+      "resources",
+      "tools"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "NoCodeAPI",
+    "type": "API Builder",
+    "pricing": "Freemium",
+    "description": "Connect APIs without code and generate endpoints.",
+    "website": "https://nocodeapi.com",
+    "tags": [
+      "API",
+      "integration",
+      "no-code"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "NoCodeDB",
+    "type": "Database",
+    "pricing": "Paid",
+    "description": "Create and manage databases without coding.",
+    "website": "https://nocodedb.com",
+    "tags": [
+      "database",
+      "no-code",
+      "visual"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Noloco",
+    "type": "Web App Builder",
+    "pricing": "Paid",
+    "description": "Build custom portals and internal tools.",
+    "website": "https://noloco.io",
+    "tags": [
+      "portals",
+      "internal tools",
+      "custom"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Noodl",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Build web and mobile apps with a visual interface.",
+    "website": "https://noodl.net",
+    "tags": [
+      "web app",
+      "mobile app",
+      "visual"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Notion",
+    "type": "Productivity",
+    "pricing": "Freemium",
+    "description": "An all-in-one workspace for notes, tasks, databases, and collaboration.",
+    "website": "https://notion.so",
+    "tags": [
+      "productivity",
+      "notes",
+      "databases"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Novice",
+    "type": "Mobile App Builder",
+    "pricing": "Paid",
+    "description": "Build iOS apps using Notion as a CMS.",
+    "website": "https://noviceapp.io",
+    "tags": [
+      "iOS",
+      "Notion",
+      "CMS"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Octoparse",
+    "type": "Web Scraping",
+    "pricing": "Freemium",
+    "description": "Extract web data without coding.",
+    "website": "https://octoparse.com",
+    "tags": [
+      "web scraping",
+      "data extraction",
+      "automation"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Odoo",
+    "type": "ERP/CRM Platform",
+    "pricing": "Open Source",
+    "description": "Suite of business management software with low-code capabilities.",
+    "website": "https://odoo.com",
+    "tags": [
+      "ERP",
+      "CRM",
+      "open-source"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "OneSignal",
+    "type": "Push Notifications",
+    "pricing": "Freemium",
+    "description": "Implement push notifications without coding.",
+    "website": "https://onesignal.com",
+    "tags": [
+      "notifications",
+      "mobile",
+      "web"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "OpnForm",
+    "type": "Form Builder",
+    "pricing": "Open Source",
+    "description": "Create forms with advanced features and integrations.",
+    "website": "https://opnform.com",
+    "tags": [
+      "forms",
+      "open-source",
+      "integrations"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Outgrow",
+    "type": "Quiz/Form Builder",
+    "pricing": "Paid",
+    "description": "Create calculators, quizzes, and forms to engage your audience.",
+    "website": "https://outgrow.co",
+    "tags": [
+      "quiz",
+      "forms",
+      "engagement"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "OutSystems",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "A full-stack application platform to build enterprise apps with no code.",
+    "website": "https://outsystems.com",
+    "tags": [
+      "enterprise",
+      "apps",
+      "full-stack"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "PageCloud",
+    "type": "Website Builder",
+    "pricing": "Paid",
+    "description": "Design websites without coding using intuitive drag-and-drop tools.",
+    "website": "https://pagecloud.com",
+    "tags": [
+      "website",
+      "drag-and-drop",
+      "design"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Paperform",
+    "type": "Form Builder",
+    "pricing": "Paid",
+    "description": "Create beautiful forms and product pages.",
+    "website": "https://paperform.co",
+    "tags": [
+      "forms",
+      "product pages",
+      "design"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Parabola",
+    "type": "Automation",
+    "pricing": "Freemium",
+    "description": "Automate manual data processes by connecting apps and transforming data visually.",
+    "website": "https://parabola.io",
+    "tags": [
+      "automation",
+      "data",
+      "workflow"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Partytown",
+    "type": "Web Performance",
+    "pricing": "Free",
+    "description": "Relocate resource-intensive scripts off the main thread.",
+    "website": "https://partytown.builder.io",
+    "tags": [
+      "web performance",
+      "optimization",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Phontober",
+    "type": "Mobile App Builder",
+    "pricing": "Paid",
+    "description": "Create iOS and Android apps from Photoshop designs.",
+    "website": "https://phontober.com",
+    "tags": [
+      "mobile app",
+      "Photoshop",
+      "design-to-app"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Pikt",
+    "type": "Landing Page Builder",
+    "pricing": "Paid",
+    "description": "Design-focused landing page builder for high-conversion pages.",
+    "website": "https://pikt.com",
+    "tags": [
+      "landing page",
+      "design",
+      "conversion"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Pinegrow",
+    "type": "Web Editor",
+    "pricing": "Paid",
+    "description": "Visual web editor for building responsive websites and apps.",
+    "website": "https://pinegrow.com",
+    "tags": [
+      "web design",
+      "responsive",
+      "visual editor"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Pipedream",
+    "type": "Automation",
+    "pricing": "Freemium",
+    "description": "Integrate APIs and automate workflows with code or no code.",
+    "website": "https://pipedream.com",
+    "tags": [
+      "API integration",
+      "automation",
+      "workflow"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Pipefy",
+    "type": "Process Management",
+    "pricing": "Freemium",
+    "description": "Automate and manage business processes.",
+    "website": "https://pipefy.com",
+    "tags": [
+      "workflow",
+      "process management",
+      "automation"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Pixelixe",
+    "type": "Graphic Design",
+    "pricing": "Freemium",
+    "description": "Create and edit graphics for social media and web.",
+    "website": "https://pixelixe.com",
+    "tags": [
+      "graphic design",
+      "social media",
+      "web graphics"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "PlainJS",
+    "type": "JavaScript Plugins",
+    "pricing": "Free",
+    "description": "Collection of vanilla JavaScript plugins for common functionalities.",
+    "website": "https://plainjs.com",
+    "tags": [
+      "JavaScript",
+      "plugins",
+      "web development"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Plasmic",
+    "type": "Web Design",
+    "pricing": "Freemium",
+    "description": "Visual builder for React-based websites and web apps.",
+    "website": "https://plasmic.app",
+    "tags": [
+      "React",
+      "web design",
+      "visual"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Plumsail",
+    "type": "Forms/Automation",
+    "pricing": "Subscription",
+    "description": "Create and manage forms and workflows easily.",
+    "website": "https://plumsail.com",
+    "tags": [
+      "forms",
+      "automation",
+      "workflows"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Podia",
+    "type": "Online Courses",
+    "pricing": "Paid",
+    "description": "Create and sell online courses, memberships, and digital downloads.",
+    "website": "https://podia.com",
+    "tags": [
+      "online courses",
+      "membership",
+      "digital downloads"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Pory",
+    "type": "Website Builder",
+    "pricing": "Freemium",
+    "description": "Build custom websites and apps from Airtable data.",
+    "website": "https://pory.io",
+    "tags": [
+      "website",
+      "custom",
+      "Airtable"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Powerapps",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Microsoft's low-code platform for building business apps.",
+    "website": "https://powerapps.microsoft.com",
+    "tags": [
+      "Microsoft",
+      "business apps",
+      "low-code"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Pulpless",
+    "type": "Web App Builder",
+    "pricing": "Paid",
+    "description": "Build web apps using natural language instructions.",
+    "website": "https://pulpless.com",
+    "tags": [
+      "web app",
+      "natural language",
+      "AI"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Quarkly",
+    "type": "Web Design",
+    "pricing": "Freemium",
+    "description": "Design and develop websites using React components.",
+    "website": "https://quarkly.io",
+    "tags": [
+      "web design",
+      "React",
+      "visual editor"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Quick Base",
+    "type": "Database/Spreadsheets",
+    "pricing": "Paid",
+    "description": "Build custom business apps and automate workflows with no code.",
+    "website": "https://quickbase.com",
+    "tags": [
+      "business apps",
+      "automation",
+      "workflow"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Quixy",
+    "type": "App Builder",
+    "pricing": "Subscription",
+    "description": "Create applications and automate processes without coding.",
+    "website": "https://quixy.com",
+    "tags": [
+      "app builder",
+      "automation",
+      "processes"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Racket",
+    "type": "Backend Builder",
+    "pricing": "Paid",
+    "description": "Build and deploy backends for web and mobile apps.",
+    "website": "https://racket.com",
+    "tags": [
+      "backend",
+      "API",
+      "deployment"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Ratio",
+    "type": "Web App Builder",
+    "pricing": "Paid",
+    "description": "Create web apps with spreadsheet-like interface and real-time collaboration.",
+    "website": "https://ratio.me",
+    "tags": [
+      "web app",
+      "spreadsheet",
+      "collaboration"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Readymag",
+    "type": "Web Design",
+    "pricing": "Paid",
+    "description": "Create websites, presentations, and other digital experiences.",
+    "website": "https://readymag.com",
+    "tags": [
+      "web design",
+      "presentations",
+      "digital publishing"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Retool",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Build internal tools quickly with pre-built components.",
+    "website": "https://retool.com",
+    "tags": [
+      "internal tools",
+      "components",
+      "business"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Rippling",
+    "type": "HR Management",
+    "pricing": "Paid",
+    "description": "Manage HR, IT, and Finance in one platform.",
+    "website": "https://rippling.com",
+    "tags": [
+      "HR",
+      "IT",
+      "employee management"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Roboflow",
+    "type": "Computer Vision",
+    "pricing": "Freemium",
+    "description": "Build and deploy custom computer vision models without coding.",
+    "website": "https://roboflow.com",
+    "tags": [
+      "computer vision",
+      "AI",
+      "no-code"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Scribe",
+    "type": "Documentation",
+    "pricing": "Freemium",
+    "description": "Automatically generate step-by-step guides.",
+    "website": "https://scribehow.com",
+    "tags": [
+      "documentation",
+      "guides",
+      "automation"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Sheet2Site",
+    "type": "Website Builder",
+    "pricing": "Paid",
+    "description": "Create beautiful websites from Google Sheets without writing code.",
+    "website": "https://sheet2site.com",
+    "tags": [
+      "website",
+      "Google Sheets",
+      "simple"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Shopify",
+    "type": "E-commerce",
+    "pricing": "Paid",
+    "description": "Build and manage online stores.",
+    "website": "https://shopify.com",
+    "tags": [
+      "e-commerce",
+      "online store",
+      "retail"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Shoutem",
+    "type": "Mobile App Builder",
+    "pricing": "Paid",
+    "description": "Build native mobile apps for iOS and Android.",
+    "website": "https://shoutem.com",
+    "tags": [
+      "mobile app",
+      "native",
+      "cross-platform"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Sizle",
+    "type": "Presentation Platform",
+    "pricing": "Freemium",
+    "description": "Create, share, and track interactive presentations.",
+    "website": "https://sizle.io",
+    "tags": [
+      "presentations",
+      "interactive",
+      "analytics"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Sktch.io",
+    "type": "Graphic Design",
+    "pricing": "Free",
+    "description": "Simple online graphic design tool for quick mockups.",
+    "website": "https://sktch.io",
+    "tags": [
+      "graphic design",
+      "mockups",
+      "online tool"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Softr",
+    "type": "Website/App Builder",
+    "pricing": "Freemium",
+    "description": "Build web apps and websites using Airtable as your backend.",
+    "website": "https://softr.io",
+    "tags": [
+      "web app",
+      "website",
+      "Airtable"
+    ]
+  },
+  {
+    "id": 279,
     "name": "Squarespace",
     "type": "Website Builder",
     "pricing": "Paid",
@@ -1534,7 +3627,124 @@
     ]
   },
   {
-    "id": 119,
+    "id": 280,
+    "name": "Stackby",
+    "type": "Spreadsheet Database",
+    "pricing": "Freemium",
+    "description": "Combine spreadsheets, databases, and APIs in one platform.",
+    "website": "https://stackby.com",
+    "tags": [
+      "spreadsheet",
+      "database",
+      "API"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Stacker",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Turn spreadsheets into powerful applications without coding.",
+    "website": "https://stackerhq.com",
+    "tags": [
+      "app",
+      "spreadsheets",
+      "business"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Stately",
+    "type": "State Machine Builder",
+    "pricing": "Freemium",
+    "description": "Visualize and generate state machines for software.",
+    "website": "https://stately.ai",
+    "tags": [
+      "state machines",
+      "visualization",
+      "code generation"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Stencyl",
+    "type": "Game Builder",
+    "pricing": "Freemium",
+    "description": "Create 2D games for mobile and web without coding.",
+    "website": "https://stencyl.com",
+    "tags": [
+      "game development",
+      "2D",
+      "mobile"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Storybook",
+    "type": "UI Development",
+    "pricing": "Free",
+    "description": "Build, test, and document UI components in isolation.",
+    "website": "https://storybook.js.org",
+    "tags": [
+      "UI components",
+      "testing",
+      "documentation"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Superblocks",
+    "type": "Internal Tools",
+    "pricing": "Freemium",
+    "description": "Build internal tools and admin panels quickly.",
+    "website": "https://superblocks.com",
+    "tags": [
+      "internal tools",
+      "admin panel",
+      "business"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "SurveyMonkey",
+    "type": "Survey Builder",
+    "pricing": "Freemium",
+    "description": "Create surveys and analyze the results to gain insights from your audience.",
+    "website": "https://surveymonkey.com",
+    "tags": [
+      "surveys",
+      "insights",
+      "analysis"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "SurveySparrow",
+    "type": "Survey Builder",
+    "pricing": "Freemium",
+    "description": "Create conversational surveys that engage and collect feedback.",
+    "website": "https://surveysparrow.com",
+    "tags": [
+      "surveys",
+      "conversational",
+      "feedback"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Tadabase",
+    "type": "Database App Builder",
+    "pricing": "Paid",
+    "description": "Build custom database apps without coding.",
+    "website": "https://tadabase.io",
+    "tags": [
+      "database",
+      "custom apps",
+      "no-code"
+    ]
+  },
+  {
+    "id": 289,
     "name": "Teachable",
     "type": "Online Courses",
     "pricing": "Paid",
@@ -1547,16 +3757,328 @@
     ]
   },
   {
-    "id": 120,
-    "name": "Shopify",
-    "type": "E-commerce",
-    "pricing": "Paid",
-    "description": "Build and manage online stores.",
-    "website": "https://shopify.com",
+    "id": 290,
+    "name": "Teta",
+    "type": "Mobile App Builder",
+    "pricing": "Freemium",
+    "description": "Build Flutter apps visually and export clean code.",
+    "website": "https://teta.so",
     "tags": [
-      "e-commerce",
-      "online store",
-      "retail"
+      "Flutter",
+      "mobile app",
+      "visual development"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Thunkable",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Drag and drop tool to build mobile apps with no coding required.",
+    "website": "https://thunkable.com",
+    "tags": [
+      "mobile app",
+      "drag-and-drop",
+      "easy"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Thunkable X",
+    "type": "Mobile App Builder",
+    "pricing": "Freemium",
+    "description": "Create native mobile apps with drag-and-drop.",
+    "website": "https://thunkable.com",
+    "tags": [
+      "mobile app",
+      "drag-and-drop",
+      "native"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Tideflow",
+    "type": "Workflow Automation",
+    "pricing": "Open Source",
+    "description": "Open-source workflow automation platform.",
+    "website": "https://tideflow.io",
+    "tags": [
+      "workflow",
+      "automation",
+      "open-source"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Tilda",
+    "type": "Website Builder",
+    "pricing": "Freemium",
+    "description": "A design-focused website builder with pre-designed blocks.",
+    "website": "https://tilda.cc",
+    "tags": [
+      "website",
+      "design",
+      "visual"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Tooljet",
+    "type": "Internal Tools",
+    "pricing": "Open Source",
+    "description": "Build and deploy internal tools with a low-code platform.",
+    "website": "https://tooljet.io",
+    "tags": [
+      "internal tools",
+      "low-code",
+      "open-source"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Treelab",
+    "type": "Diagram Builder",
+    "pricing": "Freemium",
+    "description": "Create flowcharts, mind maps, and org charts easily.",
+    "website": "https://treelab.com",
+    "tags": [
+      "diagrams",
+      "flowcharts",
+      "visualization"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Tylr",
+    "type": "App Builder",
+    "pricing": "Freemium",
+    "description": "Build custom apps with a focus on ease of use and flexibility.",
+    "website": "https://tylr.io",
+    "tags": [
+      "app builder",
+      "custom",
+      "easy-to-use"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Tynker",
+    "type": "Education",
+    "pricing": "Freemium",
+    "description": "Teach coding with interactive lessons and visual blocks.",
+    "website": "https://tynker.com",
+    "tags": [
+      "education",
+      "interactive",
+      "coding"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Typeform",
+    "type": "Form Builder",
+    "pricing": "Freemium",
+    "description": "Build interactive forms and surveys that people enjoy answering.",
+    "website": "https://typeform.com",
+    "tags": [
+      "forms",
+      "surveys",
+      "interactive"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Typeform Logic Jump",
+    "type": "Form Builder",
+    "pricing": "Freemium",
+    "description": "Create forms with conditional logic for personalized experiences.",
+    "website": "https://typeform.com",
+    "tags": [
+      "forms",
+      "logic",
+      "personalization"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Uibakery",
+    "type": "Web App Builder",
+    "pricing": "Paid",
+    "description": "Build web applications with pre-built UI components.",
+    "website": "https://uibakery.io",
+    "tags": [
+      "web app",
+      "UI components",
+      "visual"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Unbounce",
+    "type": "Landing Page Builder",
+    "pricing": "Freemium",
+    "description": "Build and test landing pages to convert more traffic into customers.",
+    "website": "https://unbounce.com",
+    "tags": [
+      "landing pages",
+      "conversions",
+      "design"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Unqork",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Enterprise no-code platform for complex applications.",
+    "website": "https://unqork.com",
+    "tags": [
+      "enterprise",
+      "complex",
+      "no-code"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Voiceflow",
+    "type": "Voice App Builder",
+    "pricing": "Freemium",
+    "description": "Create and prototype voice apps without coding for Alexa and Google Assistant.",
+    "website": "https://voiceflow.com",
+    "tags": [
+      "voice app",
+      "prototyping",
+      "Alexa"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Wasp",
+    "type": "Web App Builder",
+    "pricing": "Open Source",
+    "description": "Configure web apps with a simple DSL and generate full-stack code.",
+    "website": "https://wasp-lang.dev",
+    "tags": [
+      "web app",
+      "DSL",
+      "full-stack"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Webflow",
+    "type": "Website Builder",
+    "pricing": "Freemium",
+    "description": "A powerful tool for designing and developing responsive websites without coding.",
+    "website": "https://webflow.com",
+    "tags": [
+      "website",
+      "design",
+      "responsive"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Webflow CMS",
+    "type": "Content Management",
+    "pricing": "Freemium",
+    "description": "Manage and create content dynamically on your Webflow sites.",
+    "website": "https://webflow.com/cms",
+    "tags": [
+      "CMS",
+      "content",
+      "website"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Webflow Ecommerce",
+    "type": "Ecommerce",
+    "pricing": "Freemium",
+    "description": "Create custom online stores with Webflow\u2019s ecommerce platform.",
+    "website": "https://webflow.com/ecommerce",
+    "tags": [
+      "ecommerce",
+      "website",
+      "design"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Wix",
+    "type": "Website Builder",
+    "pricing": "Freemium",
+    "description": "Build stunning websites with drag-and-drop tools and customizable templates.",
+    "website": "https://wix.com",
+    "tags": [
+      "website",
+      "drag-and-drop",
+      "customizable"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Xano",
+    "type": "Backend Builder",
+    "pricing": "Freemium",
+    "description": "Build scalable backends for web and mobile apps without coding.",
+    "website": "https://xano.com",
+    "tags": [
+      "backend",
+      "scalable",
+      "API"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Ycode",
+    "type": "Web App Builder",
+    "pricing": "Freemium",
+    "description": "Visual web app builder with a focus on clean code.",
+    "website": "https://ycode.com",
+    "tags": [
+      "web app",
+      "visual",
+      "clean code"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Zapier",
+    "type": "Automation",
+    "pricing": "Freemium",
+    "description": "Automates workflows by connecting various apps and services together.",
+    "website": "https://zapier.com",
+    "tags": [
+      "automation",
+      "workflow",
+      "integration"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Zoho Creator",
+    "type": "App Builder",
+    "pricing": "Paid",
+    "description": "Build custom business apps with a low-code platform.",
+    "website": "https://zoho.com/creator",
+    "tags": [
+      "business apps",
+      "low-code",
+      "custom"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Zyro",
+    "type": "Website Builder",
+    "pricing": "Paid",
+    "description": "AI-powered website builder with e-commerce capabilities.",
+    "website": "https://zyro.com",
+    "tags": [
+      "website",
+      "AI",
+      "e-commerce"
     ]
   }
 ]
