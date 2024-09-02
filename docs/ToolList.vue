@@ -19,31 +19,20 @@
 
       <!-- Tool Grid -->
       <div class="tool-grid">
-        <div v-for="(item, index) in paginatedTools" :key="index" class="tool-card">
-          <div v-if="item.type === 'ad'" class="ad-container">
-            <!-- Raw Google Ad Code -->
-            <ins class="adsbygoogle"
-                style="display:block"
-                data-ad-format="fluid"
-                data-ad-layout-key="-fm-1t-w-do+12r"
-                data-ad-client="ca-pub-3455593813294115"
-                data-ad-slot="6265102665"></ins>
+        <div v-for="(item, index) in filteredTools" :key="index" class="tool-card">
+          <div class="tool-header">
+            <img :src="getLogoUrl(item.website)" :alt="item.name + ' logo'" class="tool-logo">
+            <div class="tool-title">
+              <h3>{{ item.name }}</h3>
+            </div>
           </div>
-          <div v-else>
-            <div class="tool-header">
-              <img :src="getLogoUrl(item.website)" :alt="item.name + ' logo'" class="tool-logo">
-              <div class="tool-title">
-                <h3>{{ item.name }}</h3>
-              </div>
-            </div>
-            <p class="tool-pricing">{{ item.pricing }}</p>
-            <p class="tool-description">{{ item.description }}</p>
-            <div class="tool-tags">
-              <span v-for="tag in item.tags" :key="tag" class="tag">#{{ tag }}</span>
-            </div>
-            <div class="tool-footer">
-              <a :href="item.website" target="_blank" rel="noopener noreferrer" class="visit-btn">Visit <span class="arrow">↗</span></a>
-            </div>
+          <p class="tool-pricing">{{ item.pricing }}</p>
+          <p class="tool-description">{{ item.description }}</p>
+          <div class="tool-tags">
+            <span v-for="tag in item.tags" :key="tag" class="tag">#{{ tag }}</span>
+          </div>
+          <div class="tool-footer">
+            <a :href="item.website" target="_blank" rel="noopener noreferrer" class="visit-btn">Visit <span class="arrow">↗</span></a>
           </div>
         </div>
       </div>
@@ -52,79 +41,59 @@
 </template>
 
 <script>
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted } from 'vue';
 
 export default {
   setup() {
-    const tools = ref([])
-    const typeFilter = ref('')
-    const pricingFilter = ref('')
-    const tagFilter = ref('')
+    const tools = ref([]);
+    const typeFilter = ref('');
+    const pricingFilter = ref('');
+    const tagFilter = ref('');
 
     onMounted(async () => {
       try {
-        const response = await fetch('/tools.json')
+        const response = await fetch('/tools.json');
         if (!response.ok) {
-          throw new Error('Network response was not ok')
+          throw new Error('Network response was not ok');
         }
-        const data = await response.json()
-        tools.value = data
-        console.log('Tools data fetched:', tools.value)
+        const data = await response.json();
+        tools.value = data;
+        console.log('Tools data fetched:', tools.value);
       } catch (error) {
-        console.error('Failed to fetch tools:', error)
+        console.error('Failed to fetch tools:', error);
       }
+    });
 
-      // Load Google Ads script
-      const adsScript = document.createElement('script')
-      adsScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
-      adsScript.async = true
-      adsScript.setAttribute('crossorigin', 'anonymous')
-      document.head.appendChild(adsScript)
-
-      adsScript.onload = () => {
-        (adsbygoogle = window.adsbygoogle || []).push({})
-      }
-    })
-
-    const uniqueTypes = computed(() => [...new Set(tools.value.map(tool => tool.type))])
-    const uniquePricing = computed(() => [...new Set(tools.value.map(tool => tool.pricing))])
-    const uniqueTags = computed(() => [...new Set(tools.value.flatMap(tool => tool.tags))])
+    const uniqueTypes = computed(() => [...new Set(tools.value.map(tool => tool.type))]);
+    const uniquePricing = computed(() => [...new Set(tools.value.map(tool => tool.pricing))]);
+    const uniqueTags = computed(() => [...new Set(tools.value.flatMap(tool => tool.tags))]);
 
     const filteredTools = computed(() => {
       return tools.value.filter(tool => {
-        const matchesType = !typeFilter.value || tool.type === typeFilter.value
-        const matchesPricing = !pricingFilter.value || tool.pricing === pricingFilter.value
-        const matchesTag = !tagFilter.value || tool.tags.includes(tagFilter.value)
-        return matchesType && matchesPricing && matchesTag
-      })
-    })
-
-    const paginatedTools = computed(() => {
-      const toolsList = filteredTools.value.slice() // Create a copy to insert the ad
-      // Insert an ad every 4 tools
-      for (let i = 4; i < toolsList.length; i += 5) {
-        toolsList.splice(i, 0, { type: 'ad' })
-      }
-      return toolsList
-    })
+        const matchesType = !typeFilter.value || tool.type === typeFilter.value;
+        const matchesPricing = !pricingFilter.value || tool.pricing === pricingFilter.value;
+        const matchesTag = !tagFilter.value || tool.tags.includes(tagFilter.value);
+        return matchesType && matchesPricing && matchesTag;
+      });
+    });
 
     const getLogoUrl = (website) => {
-      const domain = new URL(website).hostname
-      return `https://www.google.com/s2/favicons?domain=${domain}&sz=64`
-    }
+      const domain = new URL(website).hostname;
+      return `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
+    };
 
     return {
-      paginatedTools,
+      filteredTools,
       typeFilter,
       pricingFilter,
       tagFilter,
       uniqueTypes,
       uniquePricing,
       uniqueTags,
-      getLogoUrl
-    }
-  }
-}
+      getLogoUrl,
+    };
+  },
+};
 </script>
 
 <style>
@@ -254,22 +223,6 @@ select option {
   margin-left: 4px;
 }
 
-.ad-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #f8f9fa;
-  padding: 20px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  border-radius: 8px;
-  grid-column: span 3; /* Makes ad span the entire width of the grid */
-}
-
-.sidebar {
-  flex: 1;
-  margin-left: 20px;
-}
-
 @media (max-width: 1024px) {
   .tool-grid {
     grid-template-columns: repeat(2, 1fr);
@@ -302,10 +255,6 @@ select option {
 @media (max-width: 768px) {
   .container {
     flex-direction: column;
-  }
-
-  .sidebar {
-    margin: 20px 0;
   }
 }
 </style>
