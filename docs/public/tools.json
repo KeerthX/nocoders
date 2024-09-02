@@ -144,6 +144,18 @@
   },
   {
     "id": 12,
+    "name": "Alteryx",
+    "type": "Data analysis",
+    "pricing": "Custom pricing",
+    "description": "Data preparation and analysis tool",
+    "website": "https://alteryx.com",
+    "tags": [
+      "Data analysis",
+      "Analytics"
+    ]
+  },
+  {
+    "id": 13,
     "name": "Amplication",
     "type": "Backend Builder",
     "pricing": "Open Source",
@@ -156,7 +168,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 14,
     "name": "Anvil",
     "type": "Web App Builder",
     "pricing": "Freemium",
@@ -169,7 +181,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 15,
     "name": "AppGini",
     "type": "Database App Builder",
     "pricing": "Paid",
@@ -182,7 +194,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 16,
     "name": "Appgyver",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -195,7 +207,7 @@
     ]
   },
   {
-    "id": 16,
+    "id": 17,
     "name": "Appian",
     "type": "App Builder",
     "pricing": "Paid",
@@ -208,7 +220,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 18,
     "name": "AppMaster",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -221,7 +233,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 19,
     "name": "AppSheet",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -234,7 +246,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 20,
     "name": "Appsmith",
     "type": "Internal Tools",
     "pricing": "Open Source",
@@ -247,7 +259,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": 21,
     "name": "Appy Pie",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -260,7 +272,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 22,
     "name": "Appy Pie AppMakr",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -273,7 +285,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 23,
     "name": "Appy Pie Connect",
     "type": "Automation",
     "pricing": "Freemium",
@@ -286,7 +298,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 24,
     "name": "Apteo",
     "type": "AI-Powered Analytics",
     "pricing": "Paid",
@@ -299,7 +311,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 25,
     "name": "Arengu",
     "type": "Form Builder",
     "pricing": "Freemium",
@@ -312,7 +324,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 26,
     "name": "Autocode",
     "type": "API Integration",
     "pricing": "Freemium",
@@ -325,7 +337,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 27,
     "name": "Automate.io",
     "type": "Automation",
     "pricing": "Freemium",
@@ -338,7 +350,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 28,
     "name": "Azion",
     "type": "Edge Computing",
     "pricing": "Paid",
@@ -351,7 +363,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 29,
     "name": "Azuqua",
     "type": "Integration Platform",
     "pricing": "Paid",
@@ -364,7 +376,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 30,
     "name": "Backendless",
     "type": "Backend as a Service",
     "pricing": "Freemium",
@@ -377,7 +389,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 31,
     "name": "Balsamiq",
     "type": "UI Mockup Tool",
     "pricing": "Paid",
@@ -390,7 +402,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 32,
     "name": "Bardeen",
     "type": "Workflow Automation",
     "pricing": "Freemium",
@@ -403,7 +415,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 33,
     "name": "Baserow",
     "type": "Database",
     "pricing": "Open Source",
@@ -416,7 +428,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 34,
     "name": "Beaconstac",
     "type": "QR Code Platform",
     "pricing": "Paid",
@@ -429,7 +441,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 35,
     "name": "Beamer",
     "type": "User Engagement",
     "pricing": "Paid",
@@ -442,7 +454,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 36,
     "name": "Betty Blocks",
     "type": "App Builder",
     "pricing": "Subscription",
@@ -455,7 +467,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 37,
     "name": "Bigin",
     "type": "CRM",
     "pricing": "Paid",
@@ -468,7 +480,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 38,
     "name": "Bildr",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -481,7 +493,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 39,
     "name": "Blackbird",
     "type": "Integration Platform",
     "pricing": "Paid",
@@ -494,7 +506,7 @@
     ]
   },
   {
-    "id": 39,
+    "id": 40,
     "name": "Blink",
     "type": "Intranet Platform",
     "pricing": "Paid",
@@ -507,7 +519,7 @@
     ]
   },
   {
-    "id": 40,
+    "id": 41,
     "name": "Blocs",
     "type": "Website Builder",
     "pricing": "Paid",
@@ -520,7 +532,7 @@
     ]
   },
   {
-    "id": 41,
+    "id": 42,
     "name": "Blynk",
     "type": "IoT Platform",
     "pricing": "Freemium",
@@ -533,7 +545,19 @@
     ]
   },
   {
-    "id": 42,
+    "id": 43,
+    "name": "Botsonic",
+    "type": "Chatbot builder",
+    "pricing": "Free plan, Starter from $49/mo",
+    "description": "AI-powered chatbot builder",
+    "website": "https://writesonic.com",
+    "tags": [
+      "Chatbots",
+      "AI"
+    ]
+  },
+  {
+    "id": 44,
     "name": "Boundless",
     "type": "Web Design",
     "pricing": "Freemium",
@@ -546,7 +570,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 45,
     "name": "Boundlesslabs",
     "type": "Web Design",
     "pricing": "Freemium",
@@ -559,7 +583,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 46,
     "name": "Bravo",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -572,7 +596,7 @@
     ]
   },
   {
-    "id": 45,
+    "id": 47,
     "name": "Bravo Studio",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -585,7 +609,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 48,
     "name": "BreakSafe",
     "type": "App Testing",
     "pricing": "Paid",
@@ -598,7 +622,7 @@
     ]
   },
   {
-    "id": 47,
+    "id": 49,
     "name": "Brisk Logic",
     "type": "App Builder",
     "pricing": "Paid",
@@ -611,7 +635,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 50,
     "name": "Bubble",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -624,7 +648,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 51,
     "name": "Bubble.io",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -637,7 +661,7 @@
     ]
   },
   {
-    "id": 50,
+    "id": 52,
     "name": "Budibase",
     "type": "Web App Builder",
     "pricing": "Open Source",
@@ -650,7 +674,7 @@
     ]
   },
   {
-    "id": 51,
+    "id": 53,
     "name": "Buildbox",
     "type": "Game Builder",
     "pricing": "Paid",
@@ -663,7 +687,7 @@
     ]
   },
   {
-    "id": 52,
+    "id": 54,
     "name": "Builder",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -676,7 +700,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 55,
     "name": "Builder.ai",
     "type": "App Development",
     "pricing": "Paid",
@@ -689,7 +713,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 56,
     "name": "Buildfire",
     "type": "Mobile App Builder",
     "pricing": "Paid",
@@ -702,7 +726,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 57,
     "name": "Busywork",
     "type": "Workflow Automation",
     "pricing": "Paid",
@@ -715,7 +739,7 @@
     ]
   },
   {
-    "id": 56,
+    "id": 58,
     "name": "Byteline",
     "type": "Backend Builder",
     "pricing": "Freemium",
@@ -728,7 +752,7 @@
     ]
   },
   {
-    "id": 57,
+    "id": 59,
     "name": "Calendly",
     "type": "Scheduling",
     "pricing": "Freemium",
@@ -741,7 +765,19 @@
     ]
   },
   {
-    "id": 58,
+    "id": 60,
+    "name": "Campaignware",
+    "type": "Quiz builder",
+    "pricing": "From $49/mo",
+    "description": "Quiz creation and management tool",
+    "website": "https://campaignware.com",
+    "tags": [
+      "Quizzes",
+      "Marketing"
+    ]
+  },
+  {
+    "id": 61,
     "name": "Canva",
     "type": "Design",
     "pricing": "Freemium",
@@ -754,7 +790,7 @@
     ]
   },
   {
-    "id": 59,
+    "id": 62,
     "name": "Carrd",
     "type": "Website Builder",
     "pricing": "Freemium",
@@ -767,7 +803,7 @@
     ]
   },
   {
-    "id": 60,
+    "id": 63,
     "name": "Caspio",
     "type": "Database App Builder",
     "pricing": "Freemium",
@@ -780,7 +816,7 @@
     ]
   },
   {
-    "id": 61,
+    "id": 64,
     "name": "Causal",
     "type": "Financial Modeling",
     "pricing": "Freemium",
@@ -793,7 +829,7 @@
     ]
   },
   {
-    "id": 62,
+    "id": 65,
     "name": "Causeway",
     "type": "Spreadsheet Automation",
     "pricing": "Paid",
@@ -806,7 +842,7 @@
     ]
   },
   {
-    "id": 63,
+    "id": 66,
     "name": "Celsius",
     "type": "IoT Platform",
     "pricing": "Paid",
@@ -819,7 +855,7 @@
     ]
   },
   {
-    "id": 64,
+    "id": 67,
     "name": "Chatfuel",
     "type": "Chatbot Builder",
     "pricing": "Freemium",
@@ -832,7 +868,7 @@
     ]
   },
   {
-    "id": 65,
+    "id": 68,
     "name": "Citymakerapp",
     "type": "Urban Planning",
     "pricing": "Paid",
@@ -845,7 +881,7 @@
     ]
   },
   {
-    "id": 66,
+    "id": 69,
     "name": "Clappia",
     "type": "Business App Builder",
     "pricing": "Paid",
@@ -858,7 +894,7 @@
     ]
   },
   {
-    "id": 67,
+    "id": 70,
     "name": "Claris FileMaker",
     "type": "Database/Spreadsheets",
     "pricing": "Paid",
@@ -871,7 +907,7 @@
     ]
   },
   {
-    "id": 68,
+    "id": 71,
     "name": "Cleo",
     "type": "AI Writing Assistant",
     "pricing": "Freemium",
@@ -884,7 +920,19 @@
     ]
   },
   {
-    "id": 69,
+    "id": 72,
+    "name": "Clickfunnels",
+    "type": "Marketing funnels",
+    "pricing": "From $97/mo",
+    "description": "Sales funnel and landing page builder",
+    "website": "https://clickfunnels.com",
+    "tags": [
+      "Marketing",
+      "Sales"
+    ]
+  },
+  {
+    "id": 73,
     "name": "ClickUp",
     "type": "Project Management",
     "pricing": "Freemium",
@@ -897,7 +945,7 @@
     ]
   },
   {
-    "id": 70,
+    "id": 74,
     "name": "Cliniko",
     "type": "Healthcare Management",
     "pricing": "Paid",
@@ -910,7 +958,7 @@
     ]
   },
   {
-    "id": 71,
+    "id": 75,
     "name": "CloudApper",
     "type": "App Builder",
     "pricing": "Paid",
@@ -923,7 +971,7 @@
     ]
   },
   {
-    "id": 72,
+    "id": 76,
     "name": "Clutch",
     "type": "Mobile App Builder",
     "pricing": "Paid",
@@ -936,7 +984,7 @@
     ]
   },
   {
-    "id": 73,
+    "id": 77,
     "name": "Coda",
     "type": "Productivity",
     "pricing": "Freemium",
@@ -949,7 +997,7 @@
     ]
   },
   {
-    "id": 74,
+    "id": 78,
     "name": "Codecademy",
     "type": "Learning Platform",
     "pricing": "Freemium",
@@ -962,7 +1010,7 @@
     ]
   },
   {
-    "id": 75,
+    "id": 79,
     "name": "Codelessly",
     "type": "App Builder",
     "pricing": "Paid",
@@ -975,7 +1023,7 @@
     ]
   },
   {
-    "id": 76,
+    "id": 80,
     "name": "Codemap",
     "type": "API Builder",
     "pricing": "Freemium",
@@ -988,7 +1036,7 @@
     ]
   },
   {
-    "id": 77,
+    "id": 81,
     "name": "Codemix",
     "type": "App Builder",
     "pricing": "Paid",
@@ -1001,7 +1049,7 @@
     ]
   },
   {
-    "id": 78,
+    "id": 82,
     "name": "Cogram",
     "type": "AI Meeting Assistant",
     "pricing": "Paid",
@@ -1014,7 +1062,7 @@
     ]
   },
   {
-    "id": 79,
+    "id": 83,
     "name": "Cohesive",
     "type": "AI-Powered Development",
     "pricing": "Paid",
@@ -1027,7 +1075,7 @@
     ]
   },
   {
-    "id": 80,
+    "id": 84,
     "name": "Compt",
     "type": "Employee Benefits",
     "pricing": "Paid",
@@ -1040,7 +1088,7 @@
     ]
   },
   {
-    "id": 81,
+    "id": 85,
     "name": "Conquest",
     "type": "Game Development",
     "pricing": "Paid",
@@ -1053,7 +1101,7 @@
     ]
   },
   {
-    "id": 82,
+    "id": 86,
     "name": "Convertigo",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -1066,7 +1114,7 @@
     ]
   },
   {
-    "id": 83,
+    "id": 87,
     "name": "ConvertKit",
     "type": "Email Marketing",
     "pricing": "Freemium",
@@ -1079,7 +1127,7 @@
     ]
   },
   {
-    "id": 84,
+    "id": 88,
     "name": "Convo",
     "type": "Workplace Communication",
     "pricing": "Paid",
@@ -1092,7 +1140,7 @@
     ]
   },
   {
-    "id": 85,
+    "id": 89,
     "name": "Coscreen",
     "type": "Screen Sharing",
     "pricing": "Paid",
@@ -1105,7 +1153,7 @@
     ]
   },
   {
-    "id": 86,
+    "id": 90,
     "name": "Cotalker",
     "type": "Workplace OS",
     "pricing": "Paid",
@@ -1118,7 +1166,7 @@
     ]
   },
   {
-    "id": 87,
+    "id": 91,
     "name": "Coupler.io",
     "type": "Data Integration",
     "pricing": "Freemium",
@@ -1131,7 +1179,7 @@
     ]
   },
   {
-    "id": 88,
+    "id": 92,
     "name": "Craftbase",
     "type": "Database Builder",
     "pricing": "Paid",
@@ -1144,7 +1192,7 @@
     ]
   },
   {
-    "id": 89,
+    "id": 93,
     "name": "Crayon",
     "type": "AI Design Tool",
     "pricing": "Freemium",
@@ -1157,7 +1205,7 @@
     ]
   },
   {
-    "id": 90,
+    "id": 94,
     "name": "Creatio",
     "type": "CRM/BPM Platform",
     "pricing": "Paid",
@@ -1170,7 +1218,7 @@
     ]
   },
   {
-    "id": 91,
+    "id": 95,
     "name": "Crowd.dev",
     "type": "Community Management",
     "pricing": "Open Source",
@@ -1183,7 +1231,7 @@
     ]
   },
   {
-    "id": 92,
+    "id": 96,
     "name": "Crowdbotics",
     "type": "App Builder",
     "pricing": "Paid",
@@ -1196,7 +1244,7 @@
     ]
   },
   {
-    "id": 93,
+    "id": 97,
     "name": "Crust",
     "type": "CRM/ERP Platform",
     "pricing": "Open Source",
@@ -1209,7 +1257,7 @@
     ]
   },
   {
-    "id": 94,
+    "id": 98,
     "name": "Cutout.pro",
     "type": "AI Image Editing",
     "pricing": "Freemium",
@@ -1222,7 +1270,7 @@
     ]
   },
   {
-    "id": 95,
+    "id": 99,
     "name": "Cyclr",
     "type": "Integration Platform",
     "pricing": "Paid",
@@ -1235,7 +1283,7 @@
     ]
   },
   {
-    "id": 96,
+    "id": 100,
     "name": "Dacor",
     "type": "Website Builder",
     "pricing": "Freemium",
@@ -1248,7 +1296,7 @@
     ]
   },
   {
-    "id": 97,
+    "id": 101,
     "name": "Dashblock",
     "type": "Web Automation",
     "pricing": "Paid",
@@ -1261,7 +1309,19 @@
     ]
   },
   {
-    "id": 98,
+    "id": 102,
+    "name": "Dataiku",
+    "type": "Data science platform",
+    "pricing": "Custom pricing",
+    "description": "Collaborative data science platform",
+    "website": "https://dataiku.com",
+    "tags": [
+      "Data science",
+      "Analytics"
+    ]
+  },
+  {
+    "id": 103,
     "name": "Datamosh",
     "type": "Data Visualization",
     "pricing": "Paid",
@@ -1274,7 +1334,7 @@
     ]
   },
   {
-    "id": 99,
+    "id": 104,
     "name": "Deci",
     "type": "AI Optimization",
     "pricing": "Paid",
@@ -1287,7 +1347,7 @@
     ]
   },
   {
-    "id": 100,
+    "id": 105,
     "name": "Delio",
     "type": "Investment Management",
     "pricing": "Paid",
@@ -1300,7 +1360,7 @@
     ]
   },
   {
-    "id": 101,
+    "id": 106,
     "name": "Deskera",
     "type": "ERP",
     "pricing": "Paid",
@@ -1313,7 +1373,7 @@
     ]
   },
   {
-    "id": 102,
+    "id": 107,
     "name": "DhiWise",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -1326,7 +1386,7 @@
     ]
   },
   {
-    "id": 103,
+    "id": 108,
     "name": "Diagram",
     "type": "AI Design Tool",
     "pricing": "Paid",
@@ -1339,7 +1399,7 @@
     ]
   },
   {
-    "id": 104,
+    "id": 109,
     "name": "Diffbot",
     "type": "Web Scraping",
     "pricing": "Paid",
@@ -1352,7 +1412,7 @@
     ]
   },
   {
-    "id": 105,
+    "id": 110,
     "name": "Directual",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -1365,7 +1425,7 @@
     ]
   },
   {
-    "id": 106,
+    "id": 111,
     "name": "Documate",
     "type": "Document Automation",
     "pricing": "Paid",
@@ -1378,7 +1438,7 @@
     ]
   },
   {
-    "id": 107,
+    "id": 112,
     "name": "Doppler",
     "type": "Secrets Management",
     "pricing": "Freemium",
@@ -1391,7 +1451,7 @@
     ]
   },
   {
-    "id": 108,
+    "id": 113,
     "name": "Dorik",
     "type": "Website Builder",
     "pricing": "Paid",
@@ -1404,7 +1464,7 @@
     ]
   },
   {
-    "id": 109,
+    "id": 114,
     "name": "Draftbit",
     "type": "Mobile App Builder",
     "pricing": "Paid",
@@ -1417,7 +1477,7 @@
     ]
   },
   {
-    "id": 110,
+    "id": 115,
     "name": "DragApp",
     "type": "Web App Builder",
     "pricing": "Freemium",
@@ -1430,7 +1490,7 @@
     ]
   },
   {
-    "id": 111,
+    "id": 116,
     "name": "Drapcode",
     "type": "Web App Builder",
     "pricing": "Freemium",
@@ -1443,7 +1503,7 @@
     ]
   },
   {
-    "id": 112,
+    "id": 117,
     "name": "Draxlr",
     "type": "Analytics Platform",
     "pricing": "Paid",
@@ -1456,7 +1516,7 @@
     ]
   },
   {
-    "id": 113,
+    "id": 118,
     "name": "DronaHQ",
     "type": "App Builder",
     "pricing": "Subscription",
@@ -1469,7 +1529,19 @@
     ]
   },
   {
-    "id": 114,
+    "id": 119,
+    "name": "Dundas",
+    "type": "Business intelligence",
+    "pricing": "Custom pricing",
+    "description": "BI dashboard and reporting tool",
+    "website": "https://dundas.com",
+    "tags": [
+      "Business intelligence",
+      "Dashboards"
+    ]
+  },
+  {
+    "id": 120,
     "name": "Dynaboard",
     "type": "Web App Builder",
     "pricing": "Paid",
@@ -1482,7 +1554,7 @@
     ]
   },
   {
-    "id": 115,
+    "id": 121,
     "name": "Easybase",
     "type": "Backend Platform",
     "pricing": "Freemium",
@@ -1495,7 +1567,7 @@
     ]
   },
   {
-    "id": 116,
+    "id": 122,
     "name": "Elementor",
     "type": "WordPress Page Builder",
     "pricing": "Freemium",
@@ -1508,7 +1580,7 @@
     ]
   },
   {
-    "id": 117,
+    "id": 123,
     "name": "Elfsight",
     "type": "Widget Builder",
     "pricing": "Freemium",
@@ -1521,7 +1593,7 @@
     ]
   },
   {
-    "id": 118,
+    "id": 124,
     "name": "Elocance",
     "type": "Audio Content",
     "pricing": "Paid",
@@ -1534,7 +1606,7 @@
     ]
   },
   {
-    "id": 119,
+    "id": 125,
     "name": "Empion",
     "type": "Employee Engagement",
     "pricing": "Paid",
@@ -1547,7 +1619,7 @@
     ]
   },
   {
-    "id": 120,
+    "id": 126,
     "name": "Enzyme",
     "type": "QA Management",
     "pricing": "Paid",
@@ -1560,7 +1632,7 @@
     ]
   },
   {
-    "id": 121,
+    "id": 127,
     "name": "Erxes",
     "type": "CRM Platform",
     "pricing": "Open Source",
@@ -1573,7 +1645,7 @@
     ]
   },
   {
-    "id": 122,
+    "id": 128,
     "name": "EspoCRM",
     "type": "CRM",
     "pricing": "Open Source",
@@ -1586,7 +1658,7 @@
     ]
   },
   {
-    "id": 123,
+    "id": 129,
     "name": "Evervault",
     "type": "Data Privacy",
     "pricing": "Paid",
@@ -1599,7 +1671,7 @@
     ]
   },
   {
-    "id": 124,
+    "id": 130,
     "name": "Evidence",
     "type": "Data Visualization",
     "pricing": "Open Source",
@@ -1612,7 +1684,7 @@
     ]
   },
   {
-    "id": 125,
+    "id": 131,
     "name": "Evryplace",
     "type": "Virtual Events",
     "pricing": "Paid",
@@ -1625,7 +1697,7 @@
     ]
   },
   {
-    "id": 126,
+    "id": 132,
     "name": "ExpoLab",
     "type": "Mobile App Builder",
     "pricing": "Freemium",
@@ -1638,7 +1710,7 @@
     ]
   },
   {
-    "id": 127,
+    "id": 133,
     "name": "Feathery",
     "type": "Form Builder",
     "pricing": "Freemium",
@@ -1651,7 +1723,7 @@
     ]
   },
   {
-    "id": 128,
+    "id": 134,
     "name": "Felvin",
     "type": "AI App Builder",
     "pricing": "Paid",
@@ -1664,7 +1736,7 @@
     ]
   },
   {
-    "id": 129,
+    "id": 135,
     "name": "Fera",
     "type": "E-commerce",
     "pricing": "Paid",
@@ -1677,7 +1749,7 @@
     ]
   },
   {
-    "id": 130,
+    "id": 136,
     "name": "Fibery",
     "type": "Workspace",
     "pricing": "Paid",
@@ -1690,7 +1762,7 @@
     ]
   },
   {
-    "id": 131,
+    "id": 137,
     "name": "Figjam",
     "type": "Collaboration",
     "pricing": "Freemium",
@@ -1703,7 +1775,7 @@
     ]
   },
   {
-    "id": 132,
+    "id": 138,
     "name": "Figma",
     "type": "Design & Prototyping",
     "pricing": "Freemium",
@@ -1716,7 +1788,7 @@
     ]
   },
   {
-    "id": 133,
+    "id": 139,
     "name": "FileMaker",
     "type": "Database",
     "pricing": "Paid",
@@ -1729,7 +1801,7 @@
     ]
   },
   {
-    "id": 134,
+    "id": 140,
     "name": "Firedrop",
     "type": "AI Web Design",
     "pricing": "Freemium",
@@ -1742,7 +1814,7 @@
     ]
   },
   {
-    "id": 135,
+    "id": 141,
     "name": "Firetable",
     "type": "Database",
     "pricing": "Open Source",
@@ -1755,7 +1827,7 @@
     ]
   },
   {
-    "id": 136,
+    "id": 142,
     "name": "Flazio",
     "type": "Website Builder",
     "pricing": "Freemium",
@@ -1768,7 +1840,7 @@
     ]
   },
   {
-    "id": 137,
+    "id": 143,
     "name": "Fleeting Notes",
     "type": "Note-taking",
     "pricing": "Freemium",
@@ -1781,7 +1853,7 @@
     ]
   },
   {
-    "id": 138,
+    "id": 144,
     "name": "Fliplet",
     "type": "App Builder",
     "pricing": "Paid",
@@ -1794,7 +1866,7 @@
     ]
   },
   {
-    "id": 139,
+    "id": 145,
     "name": "Flodesk",
     "type": "Email Marketing",
     "pricing": "Paid",
@@ -1807,7 +1879,7 @@
     ]
   },
   {
-    "id": 140,
+    "id": 146,
     "name": "Flow XO",
     "type": "Chatbot Builder",
     "pricing": "Freemium",
@@ -1820,7 +1892,7 @@
     ]
   },
   {
-    "id": 141,
+    "id": 147,
     "name": "FlowForma",
     "type": "Process Automation",
     "pricing": "Paid",
@@ -1833,7 +1905,7 @@
     ]
   },
   {
-    "id": 142,
+    "id": 148,
     "name": "FlutterFlow",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -1846,7 +1918,7 @@
     ]
   },
   {
-    "id": 143,
+    "id": 149,
     "name": "Forest Admin",
     "type": "Admin Panel Builder",
     "pricing": "Freemium",
@@ -1859,7 +1931,7 @@
     ]
   },
   {
-    "id": 144,
+    "id": 150,
     "name": "Forestadmin",
     "type": "Admin Panel Builder",
     "pricing": "Freemium",
@@ -1872,7 +1944,7 @@
     ]
   },
   {
-    "id": 145,
+    "id": 151,
     "name": "Form.io",
     "type": "Form Builder",
     "pricing": "Freemium",
@@ -1885,7 +1957,7 @@
     ]
   },
   {
-    "id": 146,
+    "id": 152,
     "name": "Formaloo",
     "type": "Form & Survey Builder",
     "pricing": "Freemium",
@@ -1898,7 +1970,7 @@
     ]
   },
   {
-    "id": 147,
+    "id": 153,
     "name": "Formcake",
     "type": "Form Backend",
     "pricing": "Freemium",
@@ -1911,7 +1983,7 @@
     ]
   },
   {
-    "id": 148,
+    "id": 154,
     "name": "Formsort",
     "type": "Form Builder",
     "pricing": "Paid",
@@ -1924,7 +1996,7 @@
     ]
   },
   {
-    "id": 149,
+    "id": 155,
     "name": "Formstack",
     "type": "Form Builder",
     "pricing": "Paid",
@@ -1937,7 +2009,7 @@
     ]
   },
   {
-    "id": 150,
+    "id": 156,
     "name": "Forte",
     "type": "AI Music Creation",
     "pricing": "Freemium",
@@ -1950,7 +2022,7 @@
     ]
   },
   {
-    "id": 151,
+    "id": 157,
     "name": "Foxly",
     "type": "Customer Feedback",
     "pricing": "Paid",
@@ -1963,7 +2035,19 @@
     ]
   },
   {
-    "id": 152,
+    "id": 158,
+    "name": "Framer",
+    "type": "Prototyping tool",
+    "pricing": "Free plan, Pro from $20/mo",
+    "description": "Interactive design prototype tool",
+    "website": "https://framer.com",
+    "tags": [
+      "Prototyping",
+      "Design"
+    ]
+  },
+  {
+    "id": 159,
     "name": "Frappe",
     "type": "ERP Framework",
     "pricing": "Open Source",
@@ -1976,7 +2060,7 @@
     ]
   },
   {
-    "id": 153,
+    "id": 160,
     "name": "Frontly",
     "type": "Web App Builder",
     "pricing": "Paid",
@@ -1989,7 +2073,7 @@
     ]
   },
   {
-    "id": 154,
+    "id": 161,
     "name": "Frost",
     "type": "UI Design",
     "pricing": "Paid",
@@ -2002,7 +2086,7 @@
     ]
   },
   {
-    "id": 155,
+    "id": 162,
     "name": "Fusebit",
     "type": "API Integration",
     "pricing": "Paid",
@@ -2015,7 +2099,7 @@
     ]
   },
   {
-    "id": 156,
+    "id": 163,
     "name": "Gadget",
     "type": "Web App Builder",
     "pricing": "Paid",
@@ -2028,7 +2112,7 @@
     ]
   },
   {
-    "id": 157,
+    "id": 164,
     "name": "Gaiatext",
     "type": "Text Analysis",
     "pricing": "Paid",
@@ -2041,7 +2125,7 @@
     ]
   },
   {
-    "id": 158,
+    "id": 165,
     "name": "Gamesalad",
     "type": "Game Builder",
     "pricing": "Freemium",
@@ -2054,7 +2138,7 @@
     ]
   },
   {
-    "id": 159,
+    "id": 166,
     "name": "Ganttpro",
     "type": "Project Management",
     "pricing": "Paid",
@@ -2067,7 +2151,7 @@
     ]
   },
   {
-    "id": 160,
+    "id": 167,
     "name": "Geekbot",
     "type": "Team Communication",
     "pricing": "Paid",
@@ -2080,7 +2164,7 @@
     ]
   },
   {
-    "id": 161,
+    "id": 168,
     "name": "Genially",
     "type": "Presentation Builder",
     "pricing": "Freemium",
@@ -2093,7 +2177,7 @@
     ]
   },
   {
-    "id": 162,
+    "id": 169,
     "name": "Getform",
     "type": "Form Backend",
     "pricing": "Freemium",
@@ -2106,7 +2190,7 @@
     ]
   },
   {
-    "id": 163,
+    "id": 170,
     "name": "Ghost",
     "type": "Publishing Platform",
     "pricing": "Open Source",
@@ -2119,7 +2203,7 @@
     ]
   },
   {
-    "id": 164,
+    "id": 171,
     "name": "Givebutter",
     "type": "Fundraising",
     "pricing": "Freemium",
@@ -2132,7 +2216,7 @@
     ]
   },
   {
-    "id": 165,
+    "id": 172,
     "name": "Glair",
     "type": "AI Vision Platform",
     "pricing": "Paid",
@@ -2145,7 +2229,7 @@
     ]
   },
   {
-    "id": 166,
+    "id": 173,
     "name": "Glide",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -2158,7 +2242,7 @@
     ]
   },
   {
-    "id": 167,
+    "id": 174,
     "name": "Glideapps",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -2171,7 +2255,7 @@
     ]
   },
   {
-    "id": 168,
+    "id": 175,
     "name": "Glitch",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -2184,7 +2268,7 @@
     ]
   },
   {
-    "id": 169,
+    "id": 176,
     "name": "GlooMaps",
     "type": "Sitemap Builder",
     "pricing": "Free",
@@ -2197,7 +2281,7 @@
     ]
   },
   {
-    "id": 170,
+    "id": 177,
     "name": "Glow",
     "type": "Podcast Monetization",
     "pricing": "Paid",
@@ -2210,7 +2294,7 @@
     ]
   },
   {
-    "id": 171,
+    "id": 178,
     "name": "Glowapp",
     "type": "Knowledge Base",
     "pricing": "Freemium",
@@ -2223,7 +2307,7 @@
     ]
   },
   {
-    "id": 172,
+    "id": 179,
     "name": "Gmelius",
     "type": "Collaboration",
     "pricing": "Freemium",
@@ -2236,7 +2320,7 @@
     ]
   },
   {
-    "id": 173,
+    "id": 180,
     "name": "GoHarbor",
     "type": "HR Management",
     "pricing": "Paid",
@@ -2249,7 +2333,7 @@
     ]
   },
   {
-    "id": 174,
+    "id": 181,
     "name": "Goodbarber",
     "type": "App Builder",
     "pricing": "Paid",
@@ -2262,7 +2346,7 @@
     ]
   },
   {
-    "id": 175,
+    "id": 182,
     "name": "Grandpal",
     "type": "IoT Platform",
     "pricing": "Paid",
@@ -2275,7 +2359,7 @@
     ]
   },
   {
-    "id": 176,
+    "id": 183,
     "name": "Growform",
     "type": "Form Builder",
     "pricing": "Paid",
@@ -2288,7 +2372,19 @@
     ]
   },
   {
-    "id": 177,
+    "id": 184,
+    "name": "Gumroad",
+    "type": "E-commerce",
+    "pricing": "Free plan + 10% + $0.30 per transaction",
+    "description": "Platform for creators to sell digital products",
+    "website": "https://gumroad.com",
+    "tags": [
+      "E-commerce",
+      "Digital products"
+    ]
+  },
+  {
+    "id": 185,
     "name": "Guru",
     "type": "Knowledge Management",
     "pricing": "Paid",
@@ -2301,7 +2397,7 @@
     ]
   },
   {
-    "id": 178,
+    "id": 186,
     "name": "Hasura",
     "type": "GraphQL Backend",
     "pricing": "Open Source",
@@ -2314,7 +2410,7 @@
     ]
   },
   {
-    "id": 179,
+    "id": 187,
     "name": "Heap",
     "type": "Product Analytics",
     "pricing": "Freemium",
@@ -2327,7 +2423,7 @@
     ]
   },
   {
-    "id": 180,
+    "id": 188,
     "name": "Helloguru",
     "type": "AI Business Analysis",
     "pricing": "Paid",
@@ -2340,7 +2436,7 @@
     ]
   },
   {
-    "id": 181,
+    "id": 189,
     "name": "Hexometer",
     "type": "Website Monitoring",
     "pricing": "Paid",
@@ -2353,7 +2449,19 @@
     ]
   },
   {
-    "id": 182,
+    "id": 190,
+    "name": "Heyflow",
+    "type": "Form builder",
+    "pricing": "From \u20ac49/mo",
+    "description": "Advanced form and survey builder",
+    "website": "https://heyflow.app",
+    "tags": [
+      "Forms",
+      "Surveys"
+    ]
+  },
+  {
+    "id": 191,
     "name": "Hivebrite",
     "type": "Community Platform",
     "pricing": "Paid",
@@ -2366,7 +2474,7 @@
     ]
   },
   {
-    "id": 183,
+    "id": 192,
     "name": "Honeycode",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -2379,7 +2487,7 @@
     ]
   },
   {
-    "id": 184,
+    "id": 193,
     "name": "Hoptree",
     "type": "Decision Trees",
     "pricing": "Freemium",
@@ -2392,7 +2500,7 @@
     ]
   },
   {
-    "id": 185,
+    "id": 194,
     "name": "Hotglue",
     "type": "Data Integration",
     "pricing": "Paid",
@@ -2405,7 +2513,7 @@
     ]
   },
   {
-    "id": 186,
+    "id": 195,
     "name": "Hovu",
     "type": "Rewards Platform",
     "pricing": "Paid",
@@ -2418,7 +2526,7 @@
     ]
   },
   {
-    "id": 187,
+    "id": 196,
     "name": "IFTTT",
     "type": "Automation",
     "pricing": "Freemium",
@@ -2431,7 +2539,7 @@
     ]
   },
   {
-    "id": 188,
+    "id": 197,
     "name": "Instapage",
     "type": "Landing Page Builder",
     "pricing": "Paid",
@@ -2444,7 +2552,7 @@
     ]
   },
   {
-    "id": 189,
+    "id": 198,
     "name": "Integromat",
     "type": "Automation",
     "pricing": "Freemium",
@@ -2457,7 +2565,7 @@
     ]
   },
   {
-    "id": 190,
+    "id": 199,
     "name": "Involve.me",
     "type": "Form/Quiz Builder",
     "pricing": "Paid",
@@ -2470,7 +2578,7 @@
     ]
   },
   {
-    "id": 191,
+    "id": 200,
     "name": "Jemi",
     "type": "Website Builder",
     "pricing": "Freemium",
@@ -2483,7 +2591,7 @@
     ]
   },
   {
-    "id": 192,
+    "id": 201,
     "name": "JetAdmin",
     "type": "Internal Tools",
     "pricing": "Freemium",
@@ -2496,7 +2604,7 @@
     ]
   },
   {
-    "id": 193,
+    "id": 202,
     "name": "Jetboost",
     "type": "Webflow Add-on",
     "pricing": "Paid",
@@ -2509,7 +2617,7 @@
     ]
   },
   {
-    "id": 194,
+    "id": 203,
     "name": "Jotform",
     "type": "Form Builder",
     "pricing": "Freemium",
@@ -2522,7 +2630,7 @@
     ]
   },
   {
-    "id": 195,
+    "id": 204,
     "name": "Jotform Apps",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -2535,7 +2643,7 @@
     ]
   },
   {
-    "id": 196,
+    "id": 205,
     "name": "Jutsu.ai",
     "type": "AI Development",
     "pricing": "Paid",
@@ -2548,7 +2656,19 @@
     ]
   },
   {
-    "id": 197,
+    "id": 206,
+    "name": "Kartra",
+    "type": "All-in-one platform",
+    "pricing": "From $99/mo",
+    "description": "Marketing, sales, and business management platform",
+    "website": "https://kartra.com",
+    "tags": [
+      "Marketing",
+      "Business management"
+    ]
+  },
+  {
+    "id": 207,
     "name": "Keypatron",
     "type": "Music Creation",
     "pricing": "Paid",
@@ -2561,7 +2681,7 @@
     ]
   },
   {
-    "id": 198,
+    "id": 208,
     "name": "Kintone",
     "type": "Database App Builder",
     "pricing": "Paid",
@@ -2574,7 +2694,7 @@
     ]
   },
   {
-    "id": 199,
+    "id": 209,
     "name": "Kissflow",
     "type": "Workflow Automation",
     "pricing": "Paid",
@@ -2587,7 +2707,7 @@
     ]
   },
   {
-    "id": 200,
+    "id": 210,
     "name": "Knack",
     "type": "Database App Builder",
     "pricing": "Paid",
@@ -2600,7 +2720,7 @@
     ]
   },
   {
-    "id": 201,
+    "id": 211,
     "name": "Knowee",
     "type": "Info Product Creation",
     "pricing": "Paid",
@@ -2613,7 +2733,7 @@
     ]
   },
   {
-    "id": 202,
+    "id": 212,
     "name": "Koding",
     "type": "Cloud IDE",
     "pricing": "Paid",
@@ -2626,7 +2746,7 @@
     ]
   },
   {
-    "id": 203,
+    "id": 213,
     "name": "Kody",
     "type": "API Builder",
     "pricing": "Freemium",
@@ -2639,7 +2759,7 @@
     ]
   },
   {
-    "id": 204,
+    "id": 214,
     "name": "Kony",
     "type": "App Development Platform",
     "pricing": "Paid",
@@ -2652,7 +2772,7 @@
     ]
   },
   {
-    "id": 205,
+    "id": 215,
     "name": "K-Queue",
     "type": "Workflow Automation",
     "pricing": "Paid",
@@ -2665,7 +2785,7 @@
     ]
   },
   {
-    "id": 206,
+    "id": 216,
     "name": "Landbot",
     "type": "Chatbot Builder",
     "pricing": "Freemium",
@@ -2678,7 +2798,7 @@
     ]
   },
   {
-    "id": 207,
+    "id": 217,
     "name": "Leadpages",
     "type": "Landing Page Builder",
     "pricing": "Paid",
@@ -2691,7 +2811,7 @@
     ]
   },
   {
-    "id": 208,
+    "id": 218,
     "name": "Legalife",
     "type": "Legal Document Creator",
     "pricing": "Paid",
@@ -2704,7 +2824,7 @@
     ]
   },
   {
-    "id": 209,
+    "id": 219,
     "name": "LightGuide",
     "type": "AR Work Instructions",
     "pricing": "Paid",
@@ -2717,7 +2837,7 @@
     ]
   },
   {
-    "id": 210,
+    "id": 220,
     "name": "Lobe",
     "type": "AI Model Builder",
     "pricing": "Free",
@@ -2730,7 +2850,19 @@
     ]
   },
   {
-    "id": 211,
+    "id": 221,
+    "name": "Looker Studio",
+    "type": "Data visualization",
+    "pricing": "Free",
+    "description": "Data visualization and reporting tool",
+    "website": "https://lookerstudio.google.com",
+    "tags": [
+      "Data visualization",
+      "Reporting"
+    ]
+  },
+  {
+    "id": 222,
     "name": "Lowdefy",
     "type": "Web App Builder",
     "pricing": "Open Source",
@@ -2743,7 +2875,7 @@
     ]
   },
   {
-    "id": 212,
+    "id": 223,
     "name": "Lumavate",
     "type": "App Builder",
     "pricing": "Paid",
@@ -2756,7 +2888,7 @@
     ]
   },
   {
-    "id": 213,
+    "id": 224,
     "name": "Macon",
     "type": "Chatbot Builder",
     "pricing": "Freemium",
@@ -2769,7 +2901,7 @@
     ]
   },
   {
-    "id": 214,
+    "id": 225,
     "name": "Mailchimp",
     "type": "Email Marketing",
     "pricing": "Freemium",
@@ -2782,7 +2914,7 @@
     ]
   },
   {
-    "id": 215,
+    "id": 226,
     "name": "Make",
     "type": "Automation",
     "pricing": "Freemium",
@@ -2795,7 +2927,19 @@
     ]
   },
   {
-    "id": 216,
+    "id": 227,
+    "name": "Make (Integromat)",
+    "type": "Process automation",
+    "pricing": "Free plan, Core from $9/mo",
+    "description": "Visual automation platform",
+    "website": "https://make.com",
+    "tags": [
+      "Automation",
+      "Integration"
+    ]
+  },
+  {
+    "id": 228,
     "name": "Makerpad",
     "type": "Learning Platform",
     "pricing": "Paid",
@@ -2808,7 +2952,7 @@
     ]
   },
   {
-    "id": 217,
+    "id": 229,
     "name": "MakerSuite",
     "type": "AI Development",
     "pricing": "Free",
@@ -2821,7 +2965,7 @@
     ]
   },
   {
-    "id": 218,
+    "id": 230,
     "name": "Meiro Composer",
     "type": "Customer Data Platform",
     "pricing": "Paid",
@@ -2834,7 +2978,7 @@
     ]
   },
   {
-    "id": 219,
+    "id": 231,
     "name": "Memberful",
     "type": "Membership Platform",
     "pricing": "Paid",
@@ -2847,7 +2991,7 @@
     ]
   },
   {
-    "id": 220,
+    "id": 232,
     "name": "Memberium",
     "type": "Membership Sites",
     "pricing": "Paid",
@@ -2860,7 +3004,7 @@
     ]
   },
   {
-    "id": 221,
+    "id": 233,
     "name": "Memberstack",
     "type": "Membership Sites",
     "pricing": "Paid",
@@ -2873,7 +3017,7 @@
     ]
   },
   {
-    "id": 222,
+    "id": 234,
     "name": "Mendix",
     "type": "App Builder",
     "pricing": "Paid",
@@ -2886,7 +3030,7 @@
     ]
   },
   {
-    "id": 223,
+    "id": 235,
     "name": "Metabase",
     "type": "Business Intelligence",
     "pricing": "Open Source",
@@ -2899,7 +3043,19 @@
     ]
   },
   {
-    "id": 224,
+    "id": 236,
+    "name": "Microsoft Power Apps",
+    "type": "Low-code platform",
+    "pricing": "From $5/user/mo",
+    "description": "Low-code application development platform",
+    "website": "https://powerapps.microsoft.com",
+    "tags": [
+      "Low-code",
+      "Business apps"
+    ]
+  },
+  {
+    "id": 237,
     "name": "Miro",
     "type": "Collaboration",
     "pricing": "Freemium",
@@ -2912,7 +3068,7 @@
     ]
   },
   {
-    "id": 225,
+    "id": 238,
     "name": "Monday.com",
     "type": "Project Management",
     "pricing": "Freemium",
@@ -2925,7 +3081,7 @@
     ]
   },
   {
-    "id": 226,
+    "id": 239,
     "name": "n8n",
     "type": "Automation",
     "pricing": "Freemium",
@@ -2938,7 +3094,7 @@
     ]
   },
   {
-    "id": 227,
+    "id": 240,
     "name": "n8n.io",
     "type": "Workflow Automation",
     "pricing": "Open Source",
@@ -2951,7 +3107,7 @@
     ]
   },
   {
-    "id": 228,
+    "id": 241,
     "name": "Nativebase",
     "type": "UI Component Library",
     "pricing": "Open Source",
@@ -2964,7 +3120,7 @@
     ]
   },
   {
-    "id": 229,
+    "id": 242,
     "name": "Navattic",
     "type": "Product Demo",
     "pricing": "Paid",
@@ -2977,7 +3133,7 @@
     ]
   },
   {
-    "id": 230,
+    "id": 243,
     "name": "Netlify",
     "type": "Web Hosting",
     "pricing": "Freemium",
@@ -2990,7 +3146,7 @@
     ]
   },
   {
-    "id": 231,
+    "id": 244,
     "name": "Ninox",
     "type": "Database App Builder",
     "pricing": "Paid",
@@ -3003,7 +3159,7 @@
     ]
   },
   {
-    "id": 232,
+    "id": 245,
     "name": "Nintex",
     "type": "Workflow Automation",
     "pricing": "Paid",
@@ -3016,7 +3172,7 @@
     ]
   },
   {
-    "id": 233,
+    "id": 246,
     "name": "Nocode.tech",
     "type": "Directory",
     "pricing": "Free",
@@ -3029,7 +3185,7 @@
     ]
   },
   {
-    "id": 234,
+    "id": 247,
     "name": "NoCodeAPI",
     "type": "API Builder",
     "pricing": "Freemium",
@@ -3042,7 +3198,7 @@
     ]
   },
   {
-    "id": 235,
+    "id": 248,
     "name": "NoCodeDB",
     "type": "Database",
     "pricing": "Paid",
@@ -3055,7 +3211,7 @@
     ]
   },
   {
-    "id": 236,
+    "id": 249,
     "name": "Noloco",
     "type": "Web App Builder",
     "pricing": "Paid",
@@ -3068,7 +3224,7 @@
     ]
   },
   {
-    "id": 237,
+    "id": 250,
     "name": "Noodl",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -3081,7 +3237,7 @@
     ]
   },
   {
-    "id": 238,
+    "id": 251,
     "name": "Notion",
     "type": "Productivity",
     "pricing": "Freemium",
@@ -3094,7 +3250,7 @@
     ]
   },
   {
-    "id": 239,
+    "id": 252,
     "name": "Novice",
     "type": "Mobile App Builder",
     "pricing": "Paid",
@@ -3107,7 +3263,7 @@
     ]
   },
   {
-    "id": 240,
+    "id": 253,
     "name": "Octoparse",
     "type": "Web Scraping",
     "pricing": "Freemium",
@@ -3120,7 +3276,7 @@
     ]
   },
   {
-    "id": 241,
+    "id": 254,
     "name": "Odoo",
     "type": "ERP/CRM Platform",
     "pricing": "Open Source",
@@ -3133,7 +3289,7 @@
     ]
   },
   {
-    "id": 242,
+    "id": 255,
     "name": "OneSignal",
     "type": "Push Notifications",
     "pricing": "Freemium",
@@ -3146,7 +3302,7 @@
     ]
   },
   {
-    "id": 243,
+    "id": 256,
     "name": "OpnForm",
     "type": "Form Builder",
     "pricing": "Open Source",
@@ -3159,7 +3315,19 @@
     ]
   },
   {
-    "id": 244,
+    "id": 257,
+    "name": "Oracle APEX",
+    "type": "Low-code platform",
+    "pricing": "Free with Oracle Database",
+    "description": "Rapid application development platform",
+    "website": "https://apex.oracle.com",
+    "tags": [
+      "Low-code",
+      "Enterprise"
+    ]
+  },
+  {
+    "id": 258,
     "name": "Outgrow",
     "type": "Quiz/Form Builder",
     "pricing": "Paid",
@@ -3172,7 +3340,7 @@
     ]
   },
   {
-    "id": 245,
+    "id": 259,
     "name": "OutSystems",
     "type": "App Builder",
     "pricing": "Paid",
@@ -3185,7 +3353,7 @@
     ]
   },
   {
-    "id": 246,
+    "id": 260,
     "name": "PageCloud",
     "type": "Website Builder",
     "pricing": "Paid",
@@ -3198,7 +3366,7 @@
     ]
   },
   {
-    "id": 247,
+    "id": 261,
     "name": "Paperform",
     "type": "Form Builder",
     "pricing": "Paid",
@@ -3211,7 +3379,7 @@
     ]
   },
   {
-    "id": 248,
+    "id": 262,
     "name": "Parabola",
     "type": "Automation",
     "pricing": "Freemium",
@@ -3224,7 +3392,7 @@
     ]
   },
   {
-    "id": 249,
+    "id": 263,
     "name": "Partytown",
     "type": "Web Performance",
     "pricing": "Free",
@@ -3237,7 +3405,30 @@
     ]
   },
   {
-    "id": 250,
+    "id": 264,
+    "name": "Payhere",
+    "type": "Payment solution",
+    "pricing": "5% + \u20ac0.25 per successful payment",
+    "description": "Payment solution for creators and small businesses",
+    "website": "https://payhere.co",
+    "tags": [
+      "Payments"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Pega",
+    "type": "Low-code platform",
+    "pricing": "Custom pricing",
+    "description": "Intelligent automation platform",
+    "website": "https://pega.com",
+    "tags": [
+      "Low-code",
+      "Automation"
+    ]
+  },
+  {
+    "id": 266,
     "name": "Phontober",
     "type": "Mobile App Builder",
     "pricing": "Paid",
@@ -3250,7 +3441,7 @@
     ]
   },
   {
-    "id": 251,
+    "id": 267,
     "name": "Pikt",
     "type": "Landing Page Builder",
     "pricing": "Paid",
@@ -3263,7 +3454,7 @@
     ]
   },
   {
-    "id": 252,
+    "id": 268,
     "name": "Pinegrow",
     "type": "Web Editor",
     "pricing": "Paid",
@@ -3276,7 +3467,7 @@
     ]
   },
   {
-    "id": 253,
+    "id": 269,
     "name": "Pipedream",
     "type": "Automation",
     "pricing": "Freemium",
@@ -3289,7 +3480,7 @@
     ]
   },
   {
-    "id": 254,
+    "id": 270,
     "name": "Pipefy",
     "type": "Process Management",
     "pricing": "Freemium",
@@ -3302,7 +3493,7 @@
     ]
   },
   {
-    "id": 255,
+    "id": 271,
     "name": "Pixelixe",
     "type": "Graphic Design",
     "pricing": "Freemium",
@@ -3315,7 +3506,19 @@
     ]
   },
   {
-    "id": 256,
+    "id": 272,
+    "name": "Pixpa",
+    "type": "Website builder",
+    "pricing": "From $7/mo",
+    "description": "Website builder for creative professionals",
+    "website": "https://pixpa.com",
+    "tags": [
+      "Portfolios",
+      "E-commerce"
+    ]
+  },
+  {
+    "id": 273,
     "name": "PlainJS",
     "type": "JavaScript Plugins",
     "pricing": "Free",
@@ -3328,7 +3531,7 @@
     ]
   },
   {
-    "id": 257,
+    "id": 274,
     "name": "Plasmic",
     "type": "Web Design",
     "pricing": "Freemium",
@@ -3341,7 +3544,7 @@
     ]
   },
   {
-    "id": 258,
+    "id": 275,
     "name": "Plumsail",
     "type": "Forms/Automation",
     "pricing": "Subscription",
@@ -3354,7 +3557,7 @@
     ]
   },
   {
-    "id": 259,
+    "id": 276,
     "name": "Podia",
     "type": "Online Courses",
     "pricing": "Paid",
@@ -3367,7 +3570,19 @@
     ]
   },
   {
-    "id": 260,
+    "id": 277,
+    "name": "Pointerpro",
+    "type": "Survey tool",
+    "pricing": "From \u20ac29/mo",
+    "description": "Interactive survey and assessment builder",
+    "website": "https://pointerpro.com",
+    "tags": [
+      "Surveys",
+      "Assessments"
+    ]
+  },
+  {
+    "id": 278,
     "name": "Pory",
     "type": "Website Builder",
     "pricing": "Freemium",
@@ -3380,7 +3595,7 @@
     ]
   },
   {
-    "id": 261,
+    "id": 279,
     "name": "Powerapps",
     "type": "App Builder",
     "pricing": "Paid",
@@ -3393,7 +3608,7 @@
     ]
   },
   {
-    "id": 262,
+    "id": 280,
     "name": "Pulpless",
     "type": "Web App Builder",
     "pricing": "Paid",
@@ -3406,7 +3621,7 @@
     ]
   },
   {
-    "id": 263,
+    "id": 281,
     "name": "Quarkly",
     "type": "Web Design",
     "pricing": "Freemium",
@@ -3419,7 +3634,7 @@
     ]
   },
   {
-    "id": 264,
+    "id": 282,
     "name": "Quick Base",
     "type": "Database/Spreadsheets",
     "pricing": "Paid",
@@ -3432,7 +3647,19 @@
     ]
   },
   {
-    "id": 265,
+    "id": 283,
+    "name": "Quickbase",
+    "type": "Low-code platform",
+    "pricing": "Custom pricing",
+    "description": "Operational agility platform",
+    "website": "https://quickbase.com",
+    "tags": [
+      "Low-code",
+      "Workflow"
+    ]
+  },
+  {
+    "id": 284,
     "name": "Quixy",
     "type": "App Builder",
     "pricing": "Subscription",
@@ -3445,7 +3672,7 @@
     ]
   },
   {
-    "id": 266,
+    "id": 285,
     "name": "Racket",
     "type": "Backend Builder",
     "pricing": "Paid",
@@ -3458,7 +3685,30 @@
     ]
   },
   {
-    "id": 267,
+    "id": 286,
+    "name": "Ragic",
+    "type": "Database tool",
+    "pricing": "Free plan, Standard from $5/user/mo",
+    "description": "Visual database builder",
+    "website": "https://ragic.com",
+    "tags": [
+      "Databases"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "RapidMiner",
+    "type": "Predictive analytics",
+    "pricing": "Free plan, Team from $5000/year",
+    "description": "Data science and machine learning platform",
+    "website": "https://rapidminer.com",
+    "tags": [
+      "Machine learning",
+      "Analytics"
+    ]
+  },
+  {
+    "id": 288,
     "name": "Ratio",
     "type": "Web App Builder",
     "pricing": "Paid",
@@ -3471,7 +3721,7 @@
     ]
   },
   {
-    "id": 268,
+    "id": 289,
     "name": "Readymag",
     "type": "Web Design",
     "pricing": "Paid",
@@ -3484,7 +3734,7 @@
     ]
   },
   {
-    "id": 269,
+    "id": 290,
     "name": "Retool",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -3497,7 +3747,7 @@
     ]
   },
   {
-    "id": 270,
+    "id": 291,
     "name": "Rippling",
     "type": "HR Management",
     "pricing": "Paid",
@@ -3510,7 +3760,7 @@
     ]
   },
   {
-    "id": 271,
+    "id": 292,
     "name": "Roboflow",
     "type": "Computer Vision",
     "pricing": "Freemium",
@@ -3523,7 +3773,7 @@
     ]
   },
   {
-    "id": 272,
+    "id": 293,
     "name": "Scribe",
     "type": "Documentation",
     "pricing": "Freemium",
@@ -3536,7 +3786,7 @@
     ]
   },
   {
-    "id": 273,
+    "id": 294,
     "name": "Sheet2Site",
     "type": "Website Builder",
     "pricing": "Paid",
@@ -3549,7 +3799,7 @@
     ]
   },
   {
-    "id": 274,
+    "id": 295,
     "name": "Shopify",
     "type": "E-commerce",
     "pricing": "Paid",
@@ -3562,7 +3812,7 @@
     ]
   },
   {
-    "id": 275,
+    "id": 296,
     "name": "Shoutem",
     "type": "Mobile App Builder",
     "pricing": "Paid",
@@ -3575,7 +3825,7 @@
     ]
   },
   {
-    "id": 276,
+    "id": 297,
     "name": "Sizle",
     "type": "Presentation Platform",
     "pricing": "Freemium",
@@ -3588,7 +3838,7 @@
     ]
   },
   {
-    "id": 277,
+    "id": 298,
     "name": "Sktch.io",
     "type": "Graphic Design",
     "pricing": "Free",
@@ -3601,7 +3851,7 @@
     ]
   },
   {
-    "id": 278,
+    "id": 299,
     "name": "Softr",
     "type": "Website/App Builder",
     "pricing": "Freemium",
@@ -3614,7 +3864,7 @@
     ]
   },
   {
-    "id": 279,
+    "id": 300,
     "name": "Squarespace",
     "type": "Website Builder",
     "pricing": "Paid",
@@ -3627,7 +3877,7 @@
     ]
   },
   {
-    "id": 280,
+    "id": 301,
     "name": "Stackby",
     "type": "Spreadsheet Database",
     "pricing": "Freemium",
@@ -3640,7 +3890,7 @@
     ]
   },
   {
-    "id": 281,
+    "id": 302,
     "name": "Stacker",
     "type": "App Builder",
     "pricing": "Paid",
@@ -3653,7 +3903,7 @@
     ]
   },
   {
-    "id": 282,
+    "id": 303,
     "name": "Stately",
     "type": "State Machine Builder",
     "pricing": "Freemium",
@@ -3666,7 +3916,7 @@
     ]
   },
   {
-    "id": 283,
+    "id": 304,
     "name": "Stencyl",
     "type": "Game Builder",
     "pricing": "Freemium",
@@ -3679,7 +3929,7 @@
     ]
   },
   {
-    "id": 284,
+    "id": 305,
     "name": "Storybook",
     "type": "UI Development",
     "pricing": "Free",
@@ -3692,7 +3942,19 @@
     ]
   },
   {
-    "id": 285,
+    "id": 306,
+    "name": "Stripe",
+    "type": "Payment processing",
+    "pricing": "Pay-as-you-go",
+    "description": "Online payment processing platform",
+    "website": "https://stripe.com",
+    "tags": [
+      "Payments",
+      "Developer tools"
+    ]
+  },
+  {
+    "id": 307,
     "name": "Superblocks",
     "type": "Internal Tools",
     "pricing": "Freemium",
@@ -3705,7 +3967,7 @@
     ]
   },
   {
-    "id": 286,
+    "id": 308,
     "name": "SurveyMonkey",
     "type": "Survey Builder",
     "pricing": "Freemium",
@@ -3718,7 +3980,7 @@
     ]
   },
   {
-    "id": 287,
+    "id": 309,
     "name": "SurveySparrow",
     "type": "Survey Builder",
     "pricing": "Freemium",
@@ -3731,7 +3993,19 @@
     ]
   },
   {
-    "id": 288,
+    "id": 310,
+    "name": "Synder",
+    "type": "Accounting automation",
+    "pricing": "From $79/mo",
+    "description": "Automates bookkeeping processes",
+    "website": "https://synderapp.com",
+    "tags": [
+      "Finance",
+      "Automation"
+    ]
+  },
+  {
+    "id": 311,
     "name": "Tadabase",
     "type": "Database App Builder",
     "pricing": "Paid",
@@ -3744,7 +4018,7 @@
     ]
   },
   {
-    "id": 289,
+    "id": 312,
     "name": "Teachable",
     "type": "Online Courses",
     "pricing": "Paid",
@@ -3757,7 +4031,7 @@
     ]
   },
   {
-    "id": 290,
+    "id": 313,
     "name": "Teta",
     "type": "Mobile App Builder",
     "pricing": "Freemium",
@@ -3770,7 +4044,19 @@
     ]
   },
   {
-    "id": 291,
+    "id": 314,
+    "name": "The AI & Analytics Engine",
+    "type": "Machine learning tool",
+    "pricing": "Custom pricing",
+    "description": "Automated machine learning platform",
+    "website": "https://ai-analytics.network",
+    "tags": [
+      "AI",
+      "Analytics"
+    ]
+  },
+  {
+    "id": 315,
     "name": "Thunkable",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -3783,7 +4069,7 @@
     ]
   },
   {
-    "id": 292,
+    "id": 316,
     "name": "Thunkable X",
     "type": "Mobile App Builder",
     "pricing": "Freemium",
@@ -3796,7 +4082,7 @@
     ]
   },
   {
-    "id": 293,
+    "id": 317,
     "name": "Tideflow",
     "type": "Workflow Automation",
     "pricing": "Open Source",
@@ -3809,7 +4095,7 @@
     ]
   },
   {
-    "id": 294,
+    "id": 318,
     "name": "Tilda",
     "type": "Website Builder",
     "pricing": "Freemium",
@@ -3822,7 +4108,7 @@
     ]
   },
   {
-    "id": 295,
+    "id": 319,
     "name": "Tooljet",
     "type": "Internal Tools",
     "pricing": "Open Source",
@@ -3835,7 +4121,7 @@
     ]
   },
   {
-    "id": 296,
+    "id": 320,
     "name": "Treelab",
     "type": "Diagram Builder",
     "pricing": "Freemium",
@@ -3848,7 +4134,7 @@
     ]
   },
   {
-    "id": 297,
+    "id": 321,
     "name": "Tylr",
     "type": "App Builder",
     "pricing": "Freemium",
@@ -3861,7 +4147,7 @@
     ]
   },
   {
-    "id": 298,
+    "id": 322,
     "name": "Tynker",
     "type": "Education",
     "pricing": "Freemium",
@@ -3874,7 +4160,7 @@
     ]
   },
   {
-    "id": 299,
+    "id": 323,
     "name": "Typeform",
     "type": "Form Builder",
     "pricing": "Freemium",
@@ -3887,7 +4173,7 @@
     ]
   },
   {
-    "id": 300,
+    "id": 324,
     "name": "Typeform Logic Jump",
     "type": "Form Builder",
     "pricing": "Freemium",
@@ -3900,7 +4186,7 @@
     ]
   },
   {
-    "id": 301,
+    "id": 325,
     "name": "Uibakery",
     "type": "Web App Builder",
     "pricing": "Paid",
@@ -3913,7 +4199,19 @@
     ]
   },
   {
-    "id": 302,
+    "id": 326,
+    "name": "Umso",
+    "type": "Website builder",
+    "pricing": "From $19/mo",
+    "description": "Website builder for startups",
+    "website": "https://umso.com",
+    "tags": [
+      "Websites",
+      "Startups"
+    ]
+  },
+  {
+    "id": 327,
     "name": "Unbounce",
     "type": "Landing Page Builder",
     "pricing": "Freemium",
@@ -3926,7 +4224,7 @@
     ]
   },
   {
-    "id": 303,
+    "id": 328,
     "name": "Unqork",
     "type": "App Builder",
     "pricing": "Paid",
@@ -3939,7 +4237,7 @@
     ]
   },
   {
-    "id": 304,
+    "id": 329,
     "name": "Voiceflow",
     "type": "Voice App Builder",
     "pricing": "Freemium",
@@ -3952,7 +4250,7 @@
     ]
   },
   {
-    "id": 305,
+    "id": 330,
     "name": "Wasp",
     "type": "Web App Builder",
     "pricing": "Open Source",
@@ -3965,7 +4263,7 @@
     ]
   },
   {
-    "id": 306,
+    "id": 331,
     "name": "Webflow",
     "type": "Website Builder",
     "pricing": "Freemium",
@@ -3978,7 +4276,7 @@
     ]
   },
   {
-    "id": 307,
+    "id": 332,
     "name": "Webflow CMS",
     "type": "Content Management",
     "pricing": "Freemium",
@@ -3991,7 +4289,7 @@
     ]
   },
   {
-    "id": 308,
+    "id": 333,
     "name": "Webflow Ecommerce",
     "type": "Ecommerce",
     "pricing": "Freemium",
@@ -4004,7 +4302,7 @@
     ]
   },
   {
-    "id": 309,
+    "id": 334,
     "name": "Wix",
     "type": "Website Builder",
     "pricing": "Freemium",
@@ -4017,7 +4315,7 @@
     ]
   },
   {
-    "id": 310,
+    "id": 335,
     "name": "Xano",
     "type": "Backend Builder",
     "pricing": "Freemium",
@@ -4030,7 +4328,7 @@
     ]
   },
   {
-    "id": 311,
+    "id": 336,
     "name": "Ycode",
     "type": "Web App Builder",
     "pricing": "Freemium",
@@ -4043,7 +4341,19 @@
     ]
   },
   {
-    "id": 312,
+    "id": 337,
+    "name": "Yellowfin",
+    "type": "Business intelligence",
+    "pricing": "Custom pricing",
+    "description": "Business intelligence and analytics platform",
+    "website": "https://yellowfinbi.com",
+    "tags": [
+      "Business intelligence",
+      "Analytics"
+    ]
+  },
+  {
+    "id": 338,
     "name": "Zapier",
     "type": "Automation",
     "pricing": "Freemium",
@@ -4056,7 +4366,19 @@
     ]
   },
   {
-    "id": 313,
+    "id": 339,
+    "name": "Zeplin",
+    "type": "Design handoff",
+    "pricing": "Free plan, Team from $6/member/mo",
+    "description": "Design handoff and collaboration tool",
+    "website": "https://zeplin.io",
+    "tags": [
+      "Design",
+      "Collaboration"
+    ]
+  },
+  {
+    "id": 340,
     "name": "Zoho Creator",
     "type": "App Builder",
     "pricing": "Paid",
@@ -4069,7 +4391,7 @@
     ]
   },
   {
-    "id": 314,
+    "id": 341,
     "name": "Zyro",
     "type": "Website Builder",
     "pricing": "Paid",
@@ -4079,6 +4401,30 @@
       "website",
       "AI",
       "e-commerce"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Weblium",
+    "type": "Website Builder",
+    "pricing": "Freemium",
+    "description": "Create responsive websites quickly with AI assistance.",
+    "website": "https://Weblium",
+    "tags": [
+      "Website Builder",
+      "AI"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Weebly",
+    "type": "Website Builder",
+    "pricing": "Freemium",
+    "description": "A website builder offering drag-and-drop simplicity for users.",
+    "website": "https://Weebly",
+    "tags": [
+      "Website Builder",
+      "E-commerce"
     ]
   }
 ]
